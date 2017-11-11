@@ -18,7 +18,7 @@ import javax.swing.JFileChooser;
  */
 public class Clasificador {
 
-    public ClasificadorADN oCla;    
+    public ClasificadorADN oCla;
     File DatosTxt;
     public int modelo, sitio;
     public int[] positivos, positivos2;
@@ -51,7 +51,7 @@ public class Clasificador {
     public String getRutaSecuencia() {
         return rutaSecuencia;
     }
-   
+
     public void setRutaSecuencia(String rutaSecuencia) {
         this.rutaSecuencia = rutaSecuencia;
     }
@@ -65,47 +65,23 @@ public class Clasificador {
     }
 
     public Clasificador(int sitio, int modelo, String rutaSecuencia) {
-        
+
         setModelo(modelo);
         setSitio(sitio);
         oCla = new ClasificadorADN();
-        setRutaSecuencia(rutaSecuencia);       
-        
+        setRutaSecuencia(rutaSecuencia);
+
     }
 
     public static void main(String[] args) throws Exception {
         String RutaModelo = null, RutaData;
-       
+
         int modelo, sitio;
-        
         RutaData = args[2];
         sitio = Integer.parseInt(args[0]);
         modelo = Integer.parseInt(args[1]);
-        
+
         ClasificadorADN oCla = new ClasificadorADN();
-        /*
-        while (repeat) {
-            try {
-                System.out.println("Seleccione Gen a identificar:");
-                System.out.println("0. Exon-Intron (GT)");
-                System.out.println("1. Intron-Exon (AG)");
-                sitio = Integer.parseInt(reader.readLine());
-
-                System.out.println("Seleccione modelo a emplear:");
-                System.out.println("0. Conjunctive Rule ");
-                System.out.println("1. Multilayer Perceptron");
-                System.out.println("2. Tree J48");
-                modelo = Integer.parseInt(reader.readLine());
-                if (sitio > 1 || modelo > 2) {
-                    repeat = true;
-                } else {
-                    repeat = false;
-                }
-            } catch (Exception e) {
-                repeat = true;
-
-            }
-        }*/
 
         if (modelo == 0 && sitio == 0) {
             //home/jose/NetBeansProjects/clasificadorGTAG/EI_GT/4Modelos
@@ -128,7 +104,7 @@ public class Clasificador {
             RutaModelo = "IE_AG/4Modelos/TreeJ48.model";
         }
 
-        //RutaData = "test/gen_SST.txt";
+        //RutaData = "test/gen_SST.txt";/* En ese archivo esta el vector problema.
 
         int[] positivos;
         File datos = new File(RutaData);
@@ -140,7 +116,7 @@ public class Clasificador {
 
         System.out.println("FIN DEL PROCESO");
 
-    } 
+    }
 
     public List<Integer> clasificador() throws Exception {
 
@@ -177,20 +153,20 @@ public class Clasificador {
             rutaModelo = "clasificador/modelosAG/TreeJ48.model";
         }
 
-        File datos = new File(rutaSecuencia);         
-        
+        File datos = new File(rutaSecuencia);
+
         positivos = oCla.ClasificarTxt(datos, modelo, sitio, rutaModelo, true);
 
         System.out.println("Vector de positivos: " + Arrays.toString(positivos));
 
         System.out.println("FIN DEL PROCESO");
-        
+
         List<Integer> coords = new ArrayList<>();
-        
-        for(int i = 0; i < positivos.length; i++){
-            
+
+        for (int i = 0; i < positivos.length; i++) {
+
             coords.add(i, positivos[i]);
-            
+
         }
 
         return coords;

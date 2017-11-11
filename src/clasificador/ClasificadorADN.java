@@ -157,7 +157,7 @@ public class ClasificadorADN {
             if (clsLabel == 1) {
                 detectados++;
             }
-            System.out.println("marcador " + i + " respuesta: " + clsLabel);
+            System.out.println("Instancia " + i + " respuesta: " + clsLabel);
             predicteddata.instance(i).setClassValue(clsLabel);
 
 
@@ -240,18 +240,18 @@ public class ClasificadorADN {
 
                     if (modeloAlternativo) {
                         if (gen == 0) {
-                            attValues[0] = Integer.parseInt(bases[3]);
-                            attValues[1] = Integer.parseInt(bases[5]);
+                            attValues[0] = Integer.parseInt(bases[2]);
+                            attValues[1] = Integer.parseInt(bases[4]);
+                            attValues[2] = Integer.parseInt(bases[5]);
                             attValues[2] = Integer.parseInt(bases[6]);
-                            attValues[2] = Integer.parseInt(bases[7]);
-                            attValues[4] = Integer.parseInt(bases[8]);
-                            attValues[5] = Integer.parseInt(bases[10]);
+                            attValues[4] = Integer.parseInt(bases[7]);
+                            attValues[5] = Integer.parseInt(bases[9]);
                             attValues[canAtrib - 1] = datapredict.attribute(canAtrib - 1).addStringValue("?");
                         } else {
-                            attValues[0] = Integer.parseInt(bases[1]);
-                            attValues[1] = Integer.parseInt(bases[3]);
-                            attValues[2] = Integer.parseInt(bases[4]);
-                            attValues[3] = Integer.parseInt(bases[5]);
+                            attValues[0] = Integer.parseInt(bases[0]);
+                            attValues[1] = Integer.parseInt(bases[2]);
+                            attValues[2] = Integer.parseInt(bases[3]);
+                            attValues[3] = Integer.parseInt(bases[4]);
                             attValues[canAtrib - 1] = datapredict.attribute(canAtrib - 1).addStringValue("?");
                         }
                     } else {
