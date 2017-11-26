@@ -76,11 +76,13 @@ public class Clasificador {
     public static void main(String[] args) throws Exception {
         String RutaModelo = null, RutaData;
 
-        int modelo, sitio;
+        int modelo, sitio, vectorAtributos[]=null;
         RutaData = args[2];
         sitio = Integer.parseInt(args[0]);
         modelo = Integer.parseInt(args[1]);
-
+        boolean seleccionAtributos=false;
+        
+        
         ClasificadorADN oCla = new ClasificadorADN();
 
         if (modelo == 0 && sitio == 0) {
@@ -89,6 +91,8 @@ public class Clasificador {
         }
         if (modelo == 1 && sitio == 0) {
             RutaModelo = "EI_GT/4Modelos/MultiLayerPerceptronAS.model";
+            seleccionAtributos=true;
+            vectorAtributos=new int[]{2,4,5,6,7,9};
         }
         if (modelo == 2 && sitio == 0) {
             RutaModelo = "EI_GT/4Modelos/TreeJ48.model";
@@ -99,16 +103,41 @@ public class Clasificador {
         }
         if (modelo == 1 && sitio == 1) {
             RutaModelo = "IE_AG/4Modelos/MultiLayerPerceptronAS.model";
+            seleccionAtributos=true;
+            vectorAtributos=new int[]{0,2,3,4};
         }
         if (modelo == 2 && sitio == 1) {
             RutaModelo = "IE_AG/4Modelos/TreeJ48.model";
         }
+        
+        if (modelo == 0 && sitio == 2) {
+            RutaModelo = "EZ/4Modelos/ConjunctiveRule.model";
+        }
+        if (modelo == 1 && sitio == 2) {
+            RutaModelo = "EZ/4Modelos/MultiLayerPerceptronAS.model";
+            seleccionAtributos=true;
+            vectorAtributos=new int[]{4,5,6,9};
+        }
+        if (modelo == 2 && sitio== 2) {
+            RutaModelo = "EZ/4Modelos/TreeJ48.model";
+        }
 
+        if (modelo == 0 && sitio == 3) {
+            RutaModelo = "ZE/4Modelos/ConjunctiveRule.model";
+        }
+        if (modelo == 1 && sitio == 3) {
+            RutaModelo = "ZE/4Modelos/MultiLayerPerceptronAS.model";
+            seleccionAtributos=true;
+            vectorAtributos=new int[]{4,5,6,7,8};
+        }
+        if (modelo == 2 && sitio== 3) {
+            RutaModelo = "ZE/4Modelos/TreeJ48.model";
+        }
         //RutaData = "test/gen_SST.txt";/* En ese archivo esta el vector problema.
 
         int[] positivos;
         File datos = new File(RutaData);
-        positivos = oCla.ClasificarTxt(datos, modelo, sitio, RutaModelo, true);
+        positivos = oCla.ClasificarTxt(datos, modelo, sitio, RutaModelo, seleccionAtributos, vectorAtributos);
 
         System.out.println("Vector de positivos: " + Arrays.toString(positivos));
 
@@ -155,7 +184,7 @@ public class Clasificador {
 
         File datos = new File(rutaSecuencia);
 
-        positivos = oCla.ClasificarTxt(datos, modelo, sitio, rutaModelo, true);
+        positivos = oCla.ClasificarTxt(datos, modelo, sitio, rutaModelo, true,null);
 
         System.out.println("Vector de positivos: " + Arrays.toString(positivos));
 

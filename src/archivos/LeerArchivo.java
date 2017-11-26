@@ -56,14 +56,26 @@ public class LeerArchivo {
         texto.close();
         return cant;
     }
-    public int CantidadOcurrencias(String gen) throws Exception{
+    public int CantidadCaracteres()throws Exception{
+        FileReader fr = new FileReader(this.ruta);
+        BufferedReader texto = new BufferedReader(fr);
+        int cant = 0;
+        String linea;
+        
+        while ((linea = texto.readLine()) != null) {            
+            cant+=linea.length();
+        }
+        texto.close();
+        return cant;
+    }
+    public int CantidadOcurrencias(String sitio) throws Exception{
         int ocurrencias =0;
         String linea="";
         FileReader fr = new FileReader(this.ruta);
         BufferedReader texto = new BufferedReader(fr);
         linea = texto.readLine();
         linea.length();
-        ocurrencias= linea.split(gen).length -1;
+        ocurrencias= linea.split(sitio).length -1;
         System.out.println(ocurrencias + " ocurrencias del gen encontradas.");
         return ocurrencias;
     }
