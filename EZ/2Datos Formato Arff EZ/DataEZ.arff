@@ -1,4 +1,4 @@
-@RELATION ExonZI
+@RELATION ExonZona
 @ATTRIBUTE B1 {a,c,g,t}
 @ATTRIBUTE B2 {a,c,g,t}
 @ATTRIBUTE B3 {a,c,g,t}

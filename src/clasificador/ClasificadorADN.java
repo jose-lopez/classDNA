@@ -139,6 +139,10 @@ public class ClasificadorADN {
             fvClassVal.addElement("EZ-");
             fvClassVal.addElement("EZ+");
         }
+        if (sitio == 3) {
+            fvClassVal.addElement("ZE-");
+            fvClassVal.addElement("ZE+");
+        }
         
         ClassAttribute = new Attribute("CLASS", fvClassVal);
         atts.addElement(ClassAttribute);
@@ -173,6 +177,10 @@ public class ClasificadorADN {
             }
             System.out.println("Instancia " + i + " respuesta: " + clsLabel);
             predicteddata.instance(i).setClassValue(clsLabel);
+            
+            
+            String result=predicteddata.instance(i).toString();
+            System.out.println("Instancia " + i + " contenido: " + result);
 
 
         }

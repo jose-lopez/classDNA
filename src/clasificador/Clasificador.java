@@ -126,7 +126,7 @@ public class Clasificador {
             RutaModelo = "ZE/4Modelos/ConjunctiveRule.model";
         }
         if (modelo == 1 && sitio == 3) {
-            RutaModelo = "ZE/4Modelos/MultiLayerPerceptronAS.model";
+            RutaModelo = "ZE/4Modelos/MultilayerPerceptronAS.model";
             seleccionAtributos=true;
             vectorAtributos=new int[]{4,5,6,7,8};
         }
