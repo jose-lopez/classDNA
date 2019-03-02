@@ -9,264 +9,512 @@
 @ATTRIBUTE B8 {a,c,g,t}
 @ATTRIBUTE B9 {a,c,g,t}
 @ATTRIBUTE B10 {a,c,g,t}
+@ATTRIBUTE B11 {a,c,g,t}
+@ATTRIBUTE B12 {a,c,g,t}
+@ATTRIBUTE B13 {a,c,g,t}
+@ATTRIBUTE B14 {a,c,g,t}
+@ATTRIBUTE B15 {a,c,g,t}
+@ATTRIBUTE B16 {a,c,g,t}
+@ATTRIBUTE B17 {a,c,g,t}
+@ATTRIBUTE B18 {a,c,g,t}
+@ATTRIBUTE B19 {a,c,g,t}
+@ATTRIBUTE B20 {a,c,g,t}
+@ATTRIBUTE B21 {a,c,g,t}
+@ATTRIBUTE B22 {a,c,g,t}
+@ATTRIBUTE B23 {a,c,g,t}
+@ATTRIBUTE B24 {a,c,g,t}
+@ATTRIBUTE B25 {a,c,g,t}
+@ATTRIBUTE B26 {a,c,g,t}
+@ATTRIBUTE B27 {a,c,g,t}
+@ATTRIBUTE B28 {a,c,g,t}
+@ATTRIBUTE B29 {a,c,g,t}
+@ATTRIBUTE B30 {a,c,g,t}
+@ATTRIBUTE B31 {a,c,g,t}
+@ATTRIBUTE B32 {a,c,g,t}
+@ATTRIBUTE B33 {a,c,g,t}
+@ATTRIBUTE B34 {a,c,g,t}
+@ATTRIBUTE B35 {a,c,g,t}
+@ATTRIBUTE B36 {a,c,g,t}
+@ATTRIBUTE B37 {a,c,g,t}
+@ATTRIBUTE B38 {a,c,g,t}
+@ATTRIBUTE B39 {a,c,g,t}
+@ATTRIBUTE B40 {a,c,g,t}
+@ATTRIBUTE B41 {a,c,g,t}
+@ATTRIBUTE B42 {a,c,g,t}
+@ATTRIBUTE B43 {a,c,g,t}
+@ATTRIBUTE B44 {a,c,g,t}
+@ATTRIBUTE B45 {a,c,g,t}
+@ATTRIBUTE B46 {a,c,g,t}
+@ATTRIBUTE B47 {a,c,g,t}
+@ATTRIBUTE B48 {a,c,g,t}
+@ATTRIBUTE B49 {a,c,g,t}
+@ATTRIBUTE B50 {a,c,g,t}
+@ATTRIBUTE B51 {a,c,g,t}
+@ATTRIBUTE B52 {a,c,g,t}
+@ATTRIBUTE B53 {a,c,g,t}
+@ATTRIBUTE B54 {a,c,g,t}
+@ATTRIBUTE B55 {a,c,g,t}
+@ATTRIBUTE B56 {a,c,g,t}
+@ATTRIBUTE B57 {a,c,g,t}
+@ATTRIBUTE B58 {a,c,g,t}
+@ATTRIBUTE B59 {a,c,g,t}
+@ATTRIBUTE B60 {a,c,g,t}
+@ATTRIBUTE B61 {a,c,g,t}
+@ATTRIBUTE B62 {a,c,g,t}
+@ATTRIBUTE B63 {a,c,g,t}
+@ATTRIBUTE B64 {a,c,g,t}
+@ATTRIBUTE B65 {a,c,g,t}
+@ATTRIBUTE B66 {a,c,g,t}
+@ATTRIBUTE B67 {a,c,g,t}
+@ATTRIBUTE B68 {a,c,g,t}
+@ATTRIBUTE B69 {a,c,g,t}
+@ATTRIBUTE B70 {a,c,g,t}
+@ATTRIBUTE B71 {a,c,g,t}
+@ATTRIBUTE B72 {a,c,g,t}
+@ATTRIBUTE B73 {a,c,g,t}
+@ATTRIBUTE B74 {a,c,g,t}
+@ATTRIBUTE B75 {a,c,g,t}
+@ATTRIBUTE B76 {a,c,g,t}
+@ATTRIBUTE B77 {a,c,g,t}
+@ATTRIBUTE B78 {a,c,g,t}
+@ATTRIBUTE B79 {a,c,g,t}
+@ATTRIBUTE B80 {a,c,g,t}
+@ATTRIBUTE B81 {a,c,g,t}
+@ATTRIBUTE B82 {a,c,g,t}
+@ATTRIBUTE B83 {a,c,g,t}
+@ATTRIBUTE B84 {a,c,g,t}
+@ATTRIBUTE B85 {a,c,g,t}
+@ATTRIBUTE B86 {a,c,g,t}
+@ATTRIBUTE B87 {a,c,g,t}
+@ATTRIBUTE B88 {a,c,g,t}
+@ATTRIBUTE B89 {a,c,g,t}
+@ATTRIBUTE B90 {a,c,g,t}
+@ATTRIBUTE B91 {a,c,g,t}
+@ATTRIBUTE B92 {a,c,g,t}
+@ATTRIBUTE B93 {a,c,g,t}
+@ATTRIBUTE B94 {a,c,g,t}
+@ATTRIBUTE B95 {a,c,g,t}
+@ATTRIBUTE B96 {a,c,g,t}
+@ATTRIBUTE B97 {a,c,g,t}
+@ATTRIBUTE B98 {a,c,g,t}
+@ATTRIBUTE B99 {a,c,g,t}
+@ATTRIBUTE B100 {a,c,g,t}
+@ATTRIBUTE B101 {a,c,g,t}
+@ATTRIBUTE B102 {a,c,g,t}
+@ATTRIBUTE B103 {a,c,g,t}
+@ATTRIBUTE B104 {a,c,g,t}
+@ATTRIBUTE B105 {a,c,g,t}
+@ATTRIBUTE B106 {a,c,g,t}
+@ATTRIBUTE B107 {a,c,g,t}
+@ATTRIBUTE B108 {a,c,g,t}
+@ATTRIBUTE B109 {a,c,g,t}
+@ATTRIBUTE B110 {a,c,g,t}
+@ATTRIBUTE B111 {a,c,g,t}
+@ATTRIBUTE B112 {a,c,g,t}
+@ATTRIBUTE B113 {a,c,g,t}
+@ATTRIBUTE B114 {a,c,g,t}
+@ATTRIBUTE B115 {a,c,g,t}
+@ATTRIBUTE B116 {a,c,g,t}
+@ATTRIBUTE B117 {a,c,g,t}
+@ATTRIBUTE B118 {a,c,g,t}
+@ATTRIBUTE B119 {a,c,g,t}
+@ATTRIBUTE B120 {a,c,g,t}
+@ATTRIBUTE B121 {a,c,g,t}
+@ATTRIBUTE B122 {a,c,g,t}
+@ATTRIBUTE B123 {a,c,g,t}
+@ATTRIBUTE B124 {a,c,g,t}
+@ATTRIBUTE B125 {a,c,g,t}
+@ATTRIBUTE B126 {a,c,g,t}
+@ATTRIBUTE B127 {a,c,g,t}
+@ATTRIBUTE B128 {a,c,g,t}
+@ATTRIBUTE B129 {a,c,g,t}
+@ATTRIBUTE B130 {a,c,g,t}
+@ATTRIBUTE B131 {a,c,g,t}
+@ATTRIBUTE B132 {a,c,g,t}
+@ATTRIBUTE B133 {a,c,g,t}
+@ATTRIBUTE B134 {a,c,g,t}
+@ATTRIBUTE B135 {a,c,g,t}
+@ATTRIBUTE B136 {a,c,g,t}
+@ATTRIBUTE B137 {a,c,g,t}
+@ATTRIBUTE B138 {a,c,g,t}
+@ATTRIBUTE B139 {a,c,g,t}
+@ATTRIBUTE B140 {a,c,g,t}
+@ATTRIBUTE B141 {a,c,g,t}
+@ATTRIBUTE B142 {a,c,g,t}
+@ATTRIBUTE B143 {a,c,g,t}
+@ATTRIBUTE B144 {a,c,g,t}
+@ATTRIBUTE B145 {a,c,g,t}
+@ATTRIBUTE B146 {a,c,g,t}
+@ATTRIBUTE B147 {a,c,g,t}
+@ATTRIBUTE B148 {a,c,g,t}
+@ATTRIBUTE B149 {a,c,g,t}
+@ATTRIBUTE B150 {a,c,g,t}
+@ATTRIBUTE B151 {a,c,g,t}
+@ATTRIBUTE B152 {a,c,g,t}
+@ATTRIBUTE B153 {a,c,g,t}
+@ATTRIBUTE B154 {a,c,g,t}
+@ATTRIBUTE B155 {a,c,g,t}
+@ATTRIBUTE B156 {a,c,g,t}
+@ATTRIBUTE B157 {a,c,g,t}
+@ATTRIBUTE B158 {a,c,g,t}
+@ATTRIBUTE B159 {a,c,g,t}
+@ATTRIBUTE B160 {a,c,g,t}
+@ATTRIBUTE B161 {a,c,g,t}
+@ATTRIBUTE B162 {a,c,g,t}
+@ATTRIBUTE B163 {a,c,g,t}
+@ATTRIBUTE B164 {a,c,g,t}
+@ATTRIBUTE B165 {a,c,g,t}
+@ATTRIBUTE B166 {a,c,g,t}
+@ATTRIBUTE B167 {a,c,g,t}
+@ATTRIBUTE B168 {a,c,g,t}
+@ATTRIBUTE B169 {a,c,g,t}
+@ATTRIBUTE B170 {a,c,g,t}
+@ATTRIBUTE B171 {a,c,g,t}
+@ATTRIBUTE B172 {a,c,g,t}
+@ATTRIBUTE B173 {a,c,g,t}
+@ATTRIBUTE B174 {a,c,g,t}
+@ATTRIBUTE B175 {a,c,g,t}
+@ATTRIBUTE B176 {a,c,g,t}
+@ATTRIBUTE B177 {a,c,g,t}
+@ATTRIBUTE B178 {a,c,g,t}
+@ATTRIBUTE B179 {a,c,g,t}
+@ATTRIBUTE B180 {a,c,g,t}
+@ATTRIBUTE B181 {a,c,g,t}
+@ATTRIBUTE B182 {a,c,g,t}
+@ATTRIBUTE B183 {a,c,g,t}
+@ATTRIBUTE B184 {a,c,g,t}
+@ATTRIBUTE B185 {a,c,g,t}
+@ATTRIBUTE B186 {a,c,g,t}
+@ATTRIBUTE B187 {a,c,g,t}
+@ATTRIBUTE B188 {a,c,g,t}
+@ATTRIBUTE B189 {a,c,g,t}
+@ATTRIBUTE B190 {a,c,g,t}
+@ATTRIBUTE B191 {a,c,g,t}
+@ATTRIBUTE B192 {a,c,g,t}
+@ATTRIBUTE B193 {a,c,g,t}
+@ATTRIBUTE B194 {a,c,g,t}
+@ATTRIBUTE B195 {a,c,g,t}
+@ATTRIBUTE B196 {a,c,g,t}
+@ATTRIBUTE B197 {a,c,g,t}
+@ATTRIBUTE B198 {a,c,g,t}
+@ATTRIBUTE B199 {a,c,g,t}
+@ATTRIBUTE B200 {a,c,g,t}
+@ATTRIBUTE B201 {a,c,g,t}
+@ATTRIBUTE B202 {a,c,g,t}
+@ATTRIBUTE B203 {a,c,g,t}
+@ATTRIBUTE B204 {a,c,g,t}
+@ATTRIBUTE B205 {a,c,g,t}
+@ATTRIBUTE B206 {a,c,g,t}
+@ATTRIBUTE B207 {a,c,g,t}
+@ATTRIBUTE B208 {a,c,g,t}
+@ATTRIBUTE B209 {a,c,g,t}
+@ATTRIBUTE B210 {a,c,g,t}
+@ATTRIBUTE B211 {a,c,g,t}
+@ATTRIBUTE B212 {a,c,g,t}
+@ATTRIBUTE B213 {a,c,g,t}
+@ATTRIBUTE B214 {a,c,g,t}
+@ATTRIBUTE B215 {a,c,g,t}
+@ATTRIBUTE B216 {a,c,g,t}
+@ATTRIBUTE B217 {a,c,g,t}
+@ATTRIBUTE B218 {a,c,g,t}
+@ATTRIBUTE B219 {a,c,g,t}
+@ATTRIBUTE B220 {a,c,g,t}
+@ATTRIBUTE B221 {a,c,g,t}
+@ATTRIBUTE B222 {a,c,g,t}
+@ATTRIBUTE B223 {a,c,g,t}
+@ATTRIBUTE B224 {a,c,g,t}
+@ATTRIBUTE B225 {a,c,g,t}
+@ATTRIBUTE B226 {a,c,g,t}
+@ATTRIBUTE B227 {a,c,g,t}
+@ATTRIBUTE B228 {a,c,g,t}
+@ATTRIBUTE B229 {a,c,g,t}
+@ATTRIBUTE B230 {a,c,g,t}
+@ATTRIBUTE B231 {a,c,g,t}
+@ATTRIBUTE B232 {a,c,g,t}
+@ATTRIBUTE B233 {a,c,g,t}
+@ATTRIBUTE B234 {a,c,g,t}
+@ATTRIBUTE B235 {a,c,g,t}
+@ATTRIBUTE B236 {a,c,g,t}
+@ATTRIBUTE B237 {a,c,g,t}
+@ATTRIBUTE B238 {a,c,g,t}
+@ATTRIBUTE B239 {a,c,g,t}
+@ATTRIBUTE B240 {a,c,g,t}
+@ATTRIBUTE B241 {a,c,g,t}
+@ATTRIBUTE B242 {a,c,g,t}
+@ATTRIBUTE B243 {a,c,g,t}
+@ATTRIBUTE B244 {a,c,g,t}
+@ATTRIBUTE B245 {a,c,g,t}
+@ATTRIBUTE B246 {a,c,g,t}
+@ATTRIBUTE B247 {a,c,g,t}
+@ATTRIBUTE B248 {a,c,g,t}
+@ATTRIBUTE B249 {a,c,g,t}
+@ATTRIBUTE B250 {a,c,g,t}
 @ATTRIBUTE CLASS {0,1}
 @DATA
-c,g,c,c,c,t,a,a,a,c,1
-c,a,c,a,a,t,g,a,g,t,1
-a,g,t,a,a,a,a,a,c,a,1
-a,a,a,g,c,c,t,a,c,a,1
-a,a,a,g,c,c,t,a,c,a,1
-a,t,t,t,t,g,c,a,g,a,1
-c,a,c,a,g,g,g,t,g,g,1
-a,a,a,g,c,c,t,a,c,a,1
-t,g,c,a,a,g,g,a,g,a,1
-c,t,a,g,g,c,g,c,g,t,1
-t,c,t,t,c,c,t,c,c,t,1
-a,a,a,a,a,a,a,a,g,g,1
-g,c,c,c,a,c,a,c,a,t,1
-g,g,g,a,t,t,g,a,a,g,1
-g,g,a,g,a,t,a,a,g,a,1
-g,g,t,t,t,t,a,a,g,t,1
-a,a,a,a,a,t,a,a,g,a,1
-g,c,a,t,t,t,c,c,c,t,1
-c,c,a,c,c,t,a,g,g,g,1
-c,g,c,g,t,t,g,a,a,c,1
-a,c,t,c,a,t,g,a,g,g,1
-a,g,c,a,g,t,g,a,t,t,1
-g,c,t,g,c,t,a,g,a,a,1
-a,g,t,g,a,g,t,g,t,g,1
-c,a,c,a,c,c,g,c,t,g,1
-a,c,t,g,t,t,t,c,a,a,1
-a,g,a,g,c,t,t,g,g,t,1
-c,a,a,g,c,c,a,a,g,c,1
-g,c,t,c,c,t,a,g,t,c,1
-a,a,a,a,g,t,a,g,a,g,1
-c,c,a,c,c,t,a,g,g,g,1
-c,g,c,g,t,t,g,a,a,c,1
-c,c,t,t,c,t,a,g,a,g,1
-a,g,c,a,g,t,g,a,t,t,1
-g,c,t,g,c,t,a,g,a,a,1
-a,g,t,a,a,c,a,a,c,a,1
-a,a,g,a,t,g,t,g,g,a,1
-t,c,t,g,g,t,c,a,t,g,1
-g,c,a,g,t,a,c,a,t,a,1
-t,a,a,t,g,c,t,g,g,c,1
-g,t,a,a,a,g,c,t,g,c,1
-g,t,a,a,a,t,g,a,a,a,1
-t,t,c,g,c,a,g,a,g,c,1
-a,c,a,c,t,t,a,a,a,a,1
-a,c,g,c,t,c,c,c,g,g,1
-t,g,c,g,g,c,c,a,t,c,1
-a,t,t,t,t,g,c,a,g,a,1
-t,g,c,t,c,a,g,c,a,a,1
-t,c,t,g,a,a,c,a,a,c,1
-t,g,c,t,t,c,t,a,c,t,1
-g,a,c,a,g,a,t,a,g,g,1
-t,g,c,t,t,c,c,g,a,t,1
-t,c,t,g,c,t,t,g,a,g,1
-a,a,a,a,a,a,a,a,a,a,1
-g,c,a,t,t,t,c,c,c,t,1
-t,t,c,g,c,a,g,a,g,c,1
-t,g,g,a,a,g,g,a,g,c,1
-a,c,a,c,t,t,a,a,a,a,1
-a,c,g,c,t,c,c,c,g,g,1
-t,t,t,a,c,a,a,g,a,a,1
-t,c,t,g,a,a,c,a,a,c,1
-t,a,g,a,a,t,c,t,a,a,1
-t,g,c,t,t,c,c,g,a,t,1
-t,c,t,g,c,t,t,g,a,g,1
-a,a,a,a,a,a,a,a,a,a,1
-c,c,t,c,t,t,c,a,c,t,1
-c,c,t,g,t,t,c,a,c,t,1
-c,c,a,g,c,c,g,g,c,c,1
-a,g,t,g,t,t,c,c,a,g,1
-g,t,c,c,t,g,g,c,t,c,1
-g,c,c,c,a,c,a,c,a,t,1
-g,g,g,a,t,t,g,a,a,g,1
-g,g,a,g,a,t,a,a,g,a,1
-g,g,t,t,t,t,a,a,g,t,1
-a,a,a,a,a,t,a,a,g,a,1
-a,c,t,g,t,t,t,c,a,a,1
-t,t,a,t,a,a,a,a,t,t,1
-t,c,g,a,g,t,g,a,g,a,0
-t,c,a,a,g,t,a,g,g,a,0
-a,t,c,t,g,t,g,a,g,a,0
-a,t,a,t,g,t,a,g,a,a,0
-t,c,a,a,g,t,g,a,g,a,0
-a,t,c,t,g,t,g,a,g,a,0
-t,c,a,a,g,t,a,g,g,a,0
-a,t,c,t,g,t,g,a,g,a,0
-a,c,g,g,g,t,a,g,a,g,0
-g,t,c,a,g,t,g,a,a,c,0
-c,a,c,t,g,t,a,g,g,a,0
-g,t,c,a,g,t,a,g,a,t,0
-t,c,a,a,g,t,g,a,g,a,0
-t,g,t,g,g,t,g,a,a,a,0
-g,g,c,a,g,t,g,a,a,a,0
-c,t,t,c,g,t,a,a,g,a,0
-g,a,a,a,g,t,a,g,a,c,0
-c,c,a,g,g,t,g,a,a,g,0
-c,a,t,t,g,t,a,a,g,a,0
-c,g,t,t,g,t,a,a,g,a,0
-c,c,c,t,g,t,a,g,a,a,0
-t,g,a,a,g,t,a,g,a,a,0
-g,a,c,a,g,t,g,a,g,a,0
-a,g,a,a,g,t,g,a,a,t,0
-t,c,a,c,c,t,a,g,a,a,0
-a,g,g,a,g,t,a,a,g,a,0
-t,a,a,c,g,t,a,a,g,a,0
-t,t,c,c,a,t,a,a,g,a,0
-g,a,t,g,a,t,a,a,g,a,0
-g,c,a,a,g,t,a,a,g,a,0
-g,a,g,a,g,t,g,a,g,a,0
-g,t,c,a,g,t,g,a,a,g,0
-c,a,g,a,a,t,g,a,g,a,0
-g,c,c,a,g,t,g,a,a,a,0
-g,a,g,t,t,t,a,a,a,t,0
-c,a,g,a,g,t,g,a,g,c,0
-a,c,c,a,a,t,g,a,a,a,0
-t,t,t,a,g,t,a,a,g,a,0
-t,a,a,g,a,t,a,a,g,a,0
-c,t,a,c,g,t,a,a,g,g,0
-a,a,t,c,g,t,a,a,a,a,0
-a,g,c,a,g,t,a,g,g,a,0
-a,g,g,a,g,t,g,a,g,c,0
-a,a,g,g,c,t,a,g,a,a,0
-t,g,a,c,a,t,a,a,a,a,0
-g,a,c,a,g,t,a,a,a,g,0
-c,t,t,t,g,t,g,a,g,a,0
-c,t,c,c,g,t,a,g,a,a,0
-c,g,c,a,g,t,g,a,g,a,0
-c,a,a,t,g,t,a,g,g,a,0
-g,c,c,a,a,t,a,g,g,a,0
-g,a,g,c,g,t,g,a,g,a,0
-a,a,g,a,g,t,g,a,a,t,0
-c,g,a,a,g,t,a,g,g,g,0
-g,c,a,c,t,t,g,a,g,a,0
-a,g,c,c,g,t,a,a,g,a,0
-c,c,g,a,g,t,a,a,g,a,0
-g,g,g,a,g,t,a,a,a,a,0
-a,t,c,a,g,t,a,g,a,g,0
-c,c,t,g,g,t,g,a,t,t,0
-t,c,t,a,c,t,a,a,a,a,0
-c,a,t,c,g,t,a,a,g,a,0
-c,a,a,a,g,t,a,a,a,g,0
-t,a,c,a,g,t,a,g,g,a,0
-t,c,c,a,g,t,a,g,g,a,0
-c,c,a,g,g,t,a,a,a,g,0
-c,a,t,t,g,t,a,a,g,a,0
-a,g,t,a,g,t,a,a,a,c,0
-c,t,c,t,g,t,a,g,g,a,0
-c,a,a,g,g,t,a,a,a,a,0
-a,c,c,a,g,t,a,a,g,a,0
-g,a,t,a,g,t,g,a,g,c,0
-t,c,a,c,c,t,a,g,a,a,0
-a,g,g,a,g,t,g,a,g,a,0
-t,a,a,c,g,t,g,a,g,a,0
-t,t,c,c,a,t,a,g,g,a,0
-g,a,t,g,a,t,g,a,g,a,0
-g,c,a,a,g,t,g,a,g,a,0
-g,a,g,a,g,t,a,g,g,a,0
-g,t,c,a,g,t,a,g,a,g,0
-c,a,g,a,a,t,a,a,g,a,0
-g,c,c,a,g,t,g,a,a,a,0
-g,a,g,t,t,t,a,a,a,t,0
-t,t,g,g,g,t,g,a,a,a,0
-g,a,a,a,g,t,a,g,a,t,0
-g,c,t,t,g,t,g,a,g,a,0
-t,t,c,a,g,t,a,a,a,t,0
-t,g,c,a,g,t,a,g,a,a,0
-c,c,c,a,g,t,a,g,g,g,0
-c,a,g,c,g,t,g,a,g,a,0
-a,a,g,a,g,t,a,g,a,c,0
-c,a,c,a,g,t,a,g,a,c,0
-t,t,c,a,g,t,a,g,g,a,0
-g,c,c,a,g,t,a,g,c,t,0
-a,g,g,a,g,t,a,a,g,a,0
-a,c,a,c,g,t,a,g,g,a,0
-c,t,g,g,g,t,a,a,g,a,0
-g,c,t,a,g,t,a,a,a,a,0
-t,c,c,a,g,t,g,a,a,g,0
-c,g,c,a,g,t,a,g,a,a,0
-c,a,t,c,g,t,g,a,g,g,0
-t,c,t,t,g,t,a,g,g,a,0
-g,g,c,c,g,t,a,g,g,a,0
-c,a,g,a,g,t,a,a,a,g,0
-t,c,a,a,g,t,a,a,g,a,0
-c,c,a,a,g,t,g,a,g,a,0
-g,c,a,a,g,t,a,a,g,a,0
-g,g,a,a,g,t,g,a,g,a,0
-a,a,g,a,g,t,a,g,a,a,0
-c,t,c,a,g,t,a,a,a,a,0
-t,c,a,g,g,t,g,a,a,a,0
-c,c,c,c,t,t,g,a,g,a,0
-a,c,c,t,g,t,g,a,g,a,0
-t,g,c,t,g,t,g,a,g,a,0
-t,g,a,t,g,t,a,a,a,a,0
-t,t,a,a,a,t,g,a,a,t,0
-c,c,a,c,g,t,a,g,a,a,0
-a,g,a,t,g,t,g,a,a,a,0
-t,c,c,a,g,t,g,a,a,a,0
-c,c,c,c,g,t,a,g,g,a,0
-a,g,a,a,g,t,a,g,g,a,0
-g,c,a,t,g,t,a,a,a,a,0
-c,t,g,g,g,t,g,a,a,a,0
-c,c,c,a,g,t,a,g,a,c,0
-t,g,a,a,g,t,g,a,a,g,0
-a,g,g,a,g,t,g,a,a,t,0
-c,t,a,t,a,t,g,a,g,a,0
-c,a,c,a,g,t,a,a,a,g,0
-g,c,c,a,g,t,g,a,a,a,0
-t,g,c,a,g,t,a,a,a,c,0
-c,t,t,c,g,t,a,a,g,a,0
-g,a,a,a,g,t,a,g,a,c,0
-c,c,c,a,g,t,a,g,g,g,0
-c,a,g,c,g,t,a,g,g,a,0
-a,a,g,a,g,t,a,a,a,c,0
-c,a,c,a,g,t,g,a,a,c,0
-t,t,c,a,g,t,a,a,g,a,0
-g,c,c,a,g,t,a,g,c,t,0
-c,c,c,a,g,t,a,a,a,c,0
-g,a,a,a,g,t,a,a,a,a,0
-t,g,c,a,g,t,g,a,a,c,0
-t,g,c,a,g,t,a,a,g,c,0
-g,a,c,a,g,t,a,a,g,a,0
-t,g,c,a,g,t,g,a,g,a,0
-a,g,g,a,g,t,a,a,g,a,0
-a,c,a,c,g,t,a,g,g,a,0
-c,t,g,g,g,t,g,a,g,a,0
-g,c,t,a,g,t,a,g,a,a,0
-t,c,c,a,g,t,a,a,a,g,0
-c,g,c,a,g,t,a,a,a,a,0
-c,a,t,c,g,t,a,a,g,g,0
-t,c,t,t,g,t,g,a,g,a,0
-g,g,c,c,g,t,g,a,g,a,0
-c,a,g,a,g,t,a,g,a,g,0
-a,c,c,t,g,t,a,g,a,c,0
-t,g,c,t,g,t,a,a,g,a,0
-t,g,a,t,g,t,a,a,a,a,0
-t,t,a,a,a,t,a,g,a,t,0
-c,c,a,c,g,t,g,a,a,a,0
-a,g,a,a,g,t,a,g,g,a,0
-c,c,a,a,g,t,g,a,a,a,0
-g,c,t,t,g,t,a,g,a,a,0
-c,c,c,a,g,t,a,a,a,c,0
-t,g,a,a,g,t,g,a,a,g,0
-a,g,g,a,g,t,a,g,a,t,0
-c,t,a,t,a,t,g,a,g,a,0
-c,a,c,a,g,t,a,g,a,g,0
-g,c,c,a,g,t,a,a,a,a,0
-t,g,c,a,g,t,a,a,a,c,0
-g,c,a,a,g,t,a,a,a,a,0
-g,a,t,c,t,t,g,a,a,a,0
-g,c,a,a,g,t,a,g,a,a,0
-g,a,t,c,t,t,g,a,a,a,0
-a,g,a,a,g,t,a,g,a,a,0
-t,c,t,t,g,t,g,a,a,a,0
-a,a,a,a,g,t,a,a,a,t,0
-a,t,c,a,g,t,g,a,a,g,0
-c,c,g,a,g,t,a,g,g,a,0
-t,c,c,t,g,t,g,a,a,a,0
-t,a,c,a,g,t,a,g,a,a,0
-c,a,a,t,g,t,a,a,a,a,0
-c,a,a,a,g,t,a,a,t,c,0
+a,g,g,c,c,t,c,c,t,c,c,g,t,c,g,c,g,c,t,g,g,a,c,c,a,g,a,g,g,g,a,g,g,a,g,g,t,g,c,c,c,c,t,c,a,c,t,a,g,a,t,a,a,g,g,g,g,c,c,g,c,c,g,g,c,t,g,g,c,t,g,c,c,g,g,c,t,c,c,a,t,g,a,c,g,c,c,c,g,t,g,g,g,g,t,c,a,c,c,c,c,c,c,g,g,c,c,c,c,g,g,g,a,c,t,c,a,g,c,c,a,g,c,c,t,c,g,c,t,c,c,t,c,g,c,t,c,c,t,c,g,c,t,c,c,t,c,g,c,c,c,c,t,a,g,g,a,c,g,c,c,a,a,g,g,g,g,g,a,a,a,g,g,a,g,a,g,g,g,c,g,g,a,a,a,a,g,g,a,c,c,a,g,c,g,g,g,a,t,c,c,g,g,c,c,g,c,a,a,g,a,a,t,t,g,g,a,a,a,g,c,c,t,a,g,g,a,a,g,t,g,g,c,g,g,t,g,g,c,t,g,g,c,g,c,g,t,t,t,g,1
+t,g,t,a,a,a,c,c,g,c,a,t,t,a,a,a,t,g,c,t,c,t,g,a,a,a,t,a,a,a,a,t,g,a,a,a,g,t,a,a,a,a,a,t,a,a,g,t,a,a,a,a,a,c,a,g,g,c,t,g,g,t,a,c,a,t,a,t,t,t,t,a,a,t,a,c,g,a,c,t,t,c,a,t,c,g,a,t,a,c,t,t,a,g,g,t,a,t,g,t,g,t,c,c,a,a,a,t,a,a,a,t,c,a,t,g,a,a,c,c,a,g,c,g,c,a,t,t,a,g,a,t,a,a,g,t,a,a,c,t,t,g,g,t,g,a,t,t,a,c,t,g,a,a,a,t,t,c,t,c,c,a,t,c,a,g,g,t,t,g,t,c,c,t,c,t,a,g,t,c,t,a,a,g,a,a,a,a,t,t,g,t,g,t,t,t,c,a,t,a,t,t,c,t,g,t,a,a,g,c,a,g,a,t,g,t,g,t,t,t,t,g,a,a,c,a,t,c,t,g,a,g,g,a,t,g,t,g,g,g,c,t,t,t,t,g,t,g,g,c,1
+t,g,t,a,a,a,c,c,g,c,a,t,t,a,a,a,t,g,c,t,c,t,g,a,a,a,t,a,a,a,a,t,g,a,a,a,g,t,a,a,a,a,a,t,a,a,g,t,a,a,a,a,a,c,a,g,g,c,t,g,g,t,a,c,a,t,a,t,t,t,t,a,a,t,a,c,g,a,c,t,t,c,a,t,c,g,a,t,a,c,t,t,a,g,g,t,a,t,g,t,g,t,c,c,a,a,a,t,a,a,a,t,c,a,t,g,a,a,c,c,a,g,c,g,c,a,t,t,a,g,a,t,a,a,g,t,a,a,c,t,t,g,g,t,g,a,t,t,a,c,t,g,a,a,a,t,t,c,t,c,c,a,t,c,a,g,g,t,t,g,t,c,c,t,c,t,a,g,t,c,t,a,a,g,a,a,a,a,t,t,g,t,g,t,t,t,c,a,t,a,t,t,c,t,g,t,a,a,g,c,a,g,a,t,g,t,g,t,t,t,t,g,a,a,c,a,t,c,t,g,a,g,g,a,t,g,t,g,g,g,c,t,t,t,t,g,t,g,g,c,1
+c,c,a,g,t,g,a,g,c,c,g,g,c,t,g,t,a,g,t,g,g,c,a,g,c,a,g,c,c,c,g,g,g,t,g,g,g,c,g,t,c,g,g,c,c,a,t,g,c,a,g,g,g,g,a,g,t,g,g,g,c,c,c,g,g,a,a,a,c,c,c,c,t,c,c,g,c,t,t,c,t,a,t,g,t,c,c,g,g,g,g,c,a,g,c,c,c,c,t,g,g,g,t,c,a,g,t,g,t,g,g,t,c,g,a,c,a,g,a,g,t,g,g,c,t,g,a,g,c,a,g,g,a,c,a,c,a,c,a,g,g,c,c,t,g,a,g,c,a,a,a,g,g,g,c,c,t,g,c,c,c,a,g,a,c,a,a,g,a,t,t,t,t,t,t,a,a,t,t,g,t,t,t,a,a,a,a,a,c,c,g,a,a,t,a,a,a,t,g,t,t,t,t,a,t,t,t,c,t,a,g,a,a,a,a,c,t,g,t,g,c,c,t,t,a,g,c,c,a,g,a,g,c,t,c,c,t,c,t,a,g,g,t,g,a,t,c,a,a,c,1
+g,a,g,g,t,t,c,c,c,c,a,g,c,c,c,c,a,c,t,t,a,c,c,g,c,g,t,a,a,t,g,c,g,c,c,a,a,t,a,a,a,c,c,a,a,t,g,a,a,c,g,a,a,g,c,a,g,c,g,t,c,c,a,c,c,t,g,g,t,c,t,c,t,g,t,t,g,t,c,c,g,t,g,g,g,c,g,g,c,g,g,g,c,g,c,t,t,g,g,g,g,a,g,g,c,g,g,a,g,c,g,g,g,a,g,g,a,g,g,g,c,g,c,c,c,c,g,g,c,t,g,t,c,t,c,g,g,g,g,c,c,a,c,t,g,c,t,g,g,g,c,c,g,c,a,g,g,g,a,t,c,c,t,t,g,c,a,c,c,g,a,c,c,c,c,a,g,g,g,t,c,t,c,t,a,a,g,a,g,g,c,a,g,a,g,g,g,a,t,g,t,g,c,a,g,c,t,c,c,c,g,g,g,g,c,g,g,g,a,g,c,g,g,g,g,g,t,c,a,c,t,c,g,g,g,a,c,c,c,a,g,g,c,g,t,g,g,t,g,g,1
+c,c,c,t,c,c,t,t,g,c,a,c,c,g,g,c,c,c,t,t,c,c,t,g,g,t,c,t,t,t,g,a,a,t,a,a,a,g,t,c,t,g,a,g,t,g,g,g,c,a,g,c,a,g,c,c,t,g,t,g,t,g,t,g,c,c,t,g,g,g,t,t,c,t,c,t,c,t,a,t,c,c,c,g,g,a,a,t,g,t,g,c,c,a,a,c,a,a,t,g,g,a,g,g,t,g,t,t,t,a,c,c,t,g,t,c,t,c,a,g,a,c,c,a,a,g,g,a,c,c,t,c,t,c,t,g,c,a,g,c,t,g,c,a,t,g,g,g,g,c,t,g,g,g,g,a,g,g,g,a,g,a,a,c,t,g,c,a,g,g,g,a,g,t,a,t,g,g,g,a,g,g,g,g,a,a,g,c,t,g,a,g,g,t,g,g,g,c,c,t,g,c,t,c,a,a,g,a,g,a,a,g,g,t,g,c,t,g,a,a,c,c,a,t,c,c,c,c,t,g,t,c,c,t,g,a,g,a,g,g,t,g,c,c,a,g,g,c,c,t,1
+t,g,g,g,t,a,c,c,a,g,a,g,g,g,a,g,c,t,g,t,g,c,a,t,t,g,t,g,a,a,t,a,a,a,g,a,g,t,g,a,g,c,t,t,g,g,t,t,c,t,g,g,a,c,t,c,t,g,t,g,t,g,c,c,t,g,g,t,c,c,c,t,c,a,g,c,a,a,g,g,c,t,g,g,c,c,t,g,a,t,g,c,a,g,c,t,c,t,g,c,c,c,a,g,c,t,g,g,g,g,g,c,t,c,c,a,g,g,g,c,a,g,g,a,a,g,g,t,g,g,a,g,c,a,c,g,t,t,c,c,t,g,c,t,c,t,a,g,c,c,c,t,g,c,c,a,g,c,c,t,c,t,g,a,g,t,c,a,c,a,g,g,t,g,a,t,c,c,c,c,a,t,g,c,c,t,g,c,t,g,g,a,g,g,c,c,a,g,t,g,t,g,c,c,c,t,c,c,t,t,t,a,c,c,a,c,g,g,g,g,g,c,t,g,a,g,g,c,t,g,g,g,a,g,a,c,c,t,a,g,g,c,c,a,g,g,c,c,c,c,1
+a,a,t,g,a,c,g,c,c,t,t,t,a,t,g,c,a,a,g,t,t,g,t,a,a,g,g,a,g,t,t,g,a,a,c,a,g,t,a,a,a,g,a,g,g,a,a,g,t,t,t,t,g,c,a,c,a,c,c,c,a,g,t,t,c,c,a,t,a,a,c,g,t,t,g,t,t,g,g,a,t,g,t,a,t,g,a,g,c,c,a,g,g,c,a,g,g,g,g,t,c,c,a,g,a,g,a,c,c,a,c,c,a,g,c,c,t,g,c,a,a,t,c,c,g,g,a,g,a,a,c,c,c,a,a,g,c,t,a,g,g,c,g,c,g,a,g,c,c,g,g,t,g,c,t,g,t,g,a,t,c,c,c,g,c,c,a,a,a,g,g,a,g,a,a,g,c,t,g,c,c,t,t,c,c,c,g,g,g,g,a,a,g,g,g,g,c,a,g,a,g,a,g,g,g,g,c,c,g,g,c,g,g,g,c,t,g,a,g,g,c,c,a,a,c,c,a,g,c,g,c,a,g,a,a,a,g,g,g,c,c,t,g,g,c,a,g,c,c,a,1
+g,g,t,a,t,a,t,g,a,t,g,a,g,c,a,g,a,c,t,t,c,t,c,g,g,a,a,t,t,c,a,t,a,a,t,a,a,a,t,t,t,t,c,t,a,a,a,a,g,c,c,t,a,c,a,a,a,t,g,t,g,t,g,t,a,t,t,g,c,t,t,t,t,a,t,t,a,c,a,g,t,a,a,a,t,a,t,g,g,a,a,t,c,t,t,t,c,a,t,a,c,t,t,a,t,t,t,t,t,a,c,c,t,t,a,t,t,a,a,a,a,a,c,t,c,a,a,a,a,t,a,g,a,t,a,a,t,a,a,a,t,a,c,a,t,t,a,g,t,t,a,t,t,g,c,t,t,a,t,t,t,g,g,g,a,a,t,g,t,a,t,t,t,t,t,a,a,a,a,a,t,t,a,t,t,a,c,a,t,t,a,g,t,a,g,t,t,g,a,a,t,t,c,t,t,t,g,t,t,t,t,c,c,a,g,c,a,c,t,t,a,a,a,g,a,g,g,t,t,c,c,a,t,a,t,a,a,a,t,g,t,t,c,t,a,t,c,a,t,t,1
+g,g,t,a,t,a,t,g,a,t,g,a,g,c,a,g,a,c,t,t,c,t,c,g,g,a,a,t,t,c,a,t,a,a,t,a,a,a,t,t,t,t,c,t,a,a,a,a,g,c,c,t,a,c,a,a,a,t,g,t,g,t,g,t,a,t,t,g,c,t,t,t,t,a,t,t,a,c,a,g,t,a,a,a,t,a,t,g,g,a,a,t,c,t,t,t,c,a,t,a,c,t,t,a,t,t,t,t,t,a,c,c,t,t,a,t,t,a,a,a,a,a,c,t,c,a,a,a,a,t,a,g,a,t,a,a,t,a,a,a,t,a,c,a,t,t,a,g,t,t,a,t,t,g,c,t,t,a,t,t,t,g,g,g,a,a,t,g,t,a,t,t,t,t,t,a,a,a,a,a,t,t,a,t,t,a,c,a,t,t,a,g,t,a,g,t,t,g,a,a,t,t,c,t,t,t,g,t,t,t,t,c,c,a,g,c,a,c,t,t,a,a,a,g,a,g,g,t,t,c,c,a,t,a,t,a,a,a,t,g,t,t,c,t,a,t,c,a,t,t,1
+t,t,t,c,a,g,t,t,c,t,g,g,c,t,g,t,c,c,c,a,c,a,g,c,t,c,c,a,g,g,a,g,t,t,g,t,g,t,c,c,c,c,t,g,a,a,t,t,t,t,g,c,a,g,a,a,g,g,t,g,a,t,g,a,c,t,c,c,a,g,g,t,t,c,t,t,g,g,c,c,t,t,t,c,c,t,g,a,c,t,c,c,c,t,t,t,c,t,g,g,t,c,a,t,t,c,t,t,c,a,t,g,a,g,a,a,c,t,c,t,c,t,t,c,c,t,c,t,c,t,c,c,t,g,g,t,g,c,c,c,a,a,c,a,c,c,t,t,c,c,c,a,g,t,t,c,c,c,a,g,a,g,c,c,c,t,g,c,a,a,t,c,t,c,c,t,c,c,a,a,c,a,a,g,c,t,c,c,c,t,g,c,c,a,g,g,t,c,c,t,g,c,t,g,c,g,a,c,a,g,g,g,c,c,c,t,c,c,c,t,g,t,c,c,a,t,c,a,g,t,c,c,t,c,c,t,g,t,c,c,t,c,c,t,t,c,t,c,t,a,1
+a,t,g,a,t,a,g,t,t,a,t,t,a,t,a,t,t,a,t,a,t,g,a,c,g,a,c,t,t,c,a,t,t,c,a,c,t,t,c,c,c,a,a,a,t,c,a,c,a,g,g,g,t,g,g,t,g,c,t,t,c,t,g,t,c,g,c,t,t,a,g,t,c,c,a,a,t,t,a,t,g,t,t,t,g,c,a,a,c,c,c,g,t,g,t,a,g,g,g,a,a,g,g,c,g,g,a,t,a,g,g,a,g,t,c,t,t,t,g,a,g,g,c,c,t,a,g,t,g,c,a,a,a,g,t,t,t,g,c,a,t,c,a,g,t,t,t,c,t,g,c,g,g,g,g,g,c,g,a,c,a,g,t,g,t,g,a,c,t,t,c,g,t,a,a,a,t,c,t,g,c,c,a,t,t,g,c,g,c,t,c,g,g,g,c,c,c,t,g,c,c,c,t,c,c,a,a,a,c,t,g,a,g,g,g,t,a,g,g,a,g,g,g,t,t,t,a,c,t,t,g,a,g,g,g,t,t,t,t,t,t,t,g,c,t,t,t,g,t,t,1
+g,g,t,a,t,a,t,g,a,t,g,a,g,c,a,g,a,c,t,t,c,t,c,g,g,a,a,t,t,c,a,t,a,a,t,a,a,a,t,t,t,t,c,t,a,a,a,a,g,c,c,t,a,c,a,a,a,t,g,t,g,t,g,t,a,t,t,g,c,t,t,t,t,a,t,t,a,c,a,g,t,a,a,a,t,a,t,g,g,a,a,t,c,t,t,t,c,a,t,a,c,t,t,a,t,t,t,t,t,a,c,c,t,t,a,t,t,a,a,a,a,a,c,t,c,a,a,a,a,t,a,g,a,t,a,a,t,a,a,a,t,a,c,a,t,t,a,g,t,t,a,t,t,g,c,t,t,a,t,t,t,g,g,g,a,a,t,g,t,a,t,t,t,t,t,a,a,a,a,a,t,t,a,t,t,a,c,a,t,t,a,g,t,a,g,t,t,g,a,a,t,t,c,t,t,t,g,t,t,t,t,c,c,a,g,c,a,c,t,t,a,a,a,g,a,g,g,t,t,c,c,a,t,a,t,a,a,a,t,g,t,t,c,t,a,t,c,a,t,t,1
+c,t,a,c,g,c,g,a,a,g,c,c,g,a,g,a,g,c,a,g,g,t,g,c,t,t,c,g,c,g,t,c,t,t,t,g,a,a,g,a,g,t,t,t,g,t,g,c,a,a,g,g,a,g,a,t,g,a,g,g,a,a,g,t,g,c,t,g,g,t,g,a,g,a,g,c,g,g,g,a,t,c,c,c,a,a,a,c,c,c,t,g,a,g,g,t,g,t,t,g,g,g,g,a,g,c,c,t,g,a,a,g,c,c,g,a,g,g,a,c,t,g,c,c,c,c,t,g,t,c,a,t,c,t,g,g,c,c,c,a,g,t,g,c,c,c,t,c,g,g,c,t,g,t,g,t,c,c,c,c,a,c,c,a,t,g,g,c,c,c,t,c,a,c,c,g,c,g,c,t,g,g,c,t,c,g,c,a,a,c,t,g,c,t,c,t,a,c,g,c,t,c,c,t,t,c,c,c,t,t,c,t,g,g,g,c,c,a,c,g,c,t,g,g,g,c,g,g,g,g,c,c,c,t,g,g,g,t,c,c,t,c,c,t,c,c,t,g,g,c,1
+t,c,c,g,t,c,c,t,c,c,t,c,a,g,g,g,a,a,g,g,a,c,g,a,c,c,g,g,g,a,t,c,t,t,a,c,g,g,t,c,a,c,t,c,c,c,t,a,g,g,c,g,c,g,t,g,t,c,t,c,c,c,t,a,g,g,t,c,g,c,c,c,a,c,c,c,c,a,a,g,a,c,c,t,c,c,c,t,g,c,g,c,c,t,c,g,g,a,g,a,c,t,a,g,t,c,c,t,g,g,g,a,c,t,c,a,g,c,g,c,t,g,a,t,t,c,c,c,a,g,g,c,a,c,c,c,g,c,a,g,c,c,a,a,a,c,c,a,c,t,g,c,c,t,g,g,c,a,t,g,g,a,t,t,t,g,g,c,a,c,t,g,c,t,t,t,g,c,a,g,a,g,g,t,c,c,c,g,g,g,c,c,t,g,g,g,c,a,g,g,g,c,t,g,a,g,a,g,c,t,t,g,g,c,a,g,a,g,a,c,t,g,g,a,c,c,a,t,g,g,c,g,t,c,c,c,c,g,c,c,c,c,a,g,g,g,c,t,c,g,1
+a,a,a,g,a,t,c,c,c,g,t,g,a,a,a,t,t,g,a,t,g,c,c,a,g,t,g,g,a,a,t,a,c,a,g,t,g,a,g,t,c,c,t,c,c,t,c,t,t,c,c,t,c,c,t,c,c,t,c,c,t,c,t,t,c,c,c,c,c,t,c,c,c,c,t,t,c,c,t,c,c,t,c,c,t,c,c,t,c,t,t,c,t,t,t,t,c,c,c,t,c,c,t,c,t,t,c,c,t,c,t,t,c,c,t,c,c,t,g,c,t,c,t,c,c,t,t,t,c,c,t,c,c,c,c,c,t,c,c,t,c,t,t,t,t,c,c,c,t,c,c,t,c,t,t,c,c,t,c,t,t,c,c,t,c,c,t,g,c,t,c,t,c,c,t,t,t,c,c,t,c,c,c,c,c,t,c,c,t,c,t,t,t,c,t,c,c,t,c,c,t,c,c,t,c,c,t,c,t,t,c,t,t,c,c,c,c,c,t,c,c,t,c,t,c,c,c,t,c,c,t,c,c,t,c,t,t,c,t,t,c,c,c,c,c,t,c,c,t,c,1
+g,a,c,a,a,t,g,t,c,a,a,t,a,a,a,t,t,g,a,a,a,t,a,t,g,g,t,t,c,a,c,t,g,t,t,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,g,g,t,t,g,g,a,a,a,g,t,g,c,a,a,g,g,c,a,a,g,g,a,a,a,t,g,g,a,t,t,c,t,c,t,c,c,c,a,g,a,a,a,c,c,t,c,c,a,g,a,a,g,g,a,a,c,c,a,g,c,c,c,t,g,c,c,a,a,c,a,c,c,t,t,g,a,t,t,t,t,a,g,a,c,t,c,c,t,g,g,c,c,t,c,c,a,g,a,a,c,t,g,t,a,a,g,a,g,a,a,t,a,a,a,c,c,t,t,g,t,c,a,t,t,t,t,a,a,g,c,c,a,t,g,a,a,g,g,t,a,t,t,a,a,a,a,t,a,g,t,t,g,t,g,a,t,t,t,g,a,g,g,t,g,g,t,t,t,g,t,t,a,a,a,t,a,a,t,a,a,t,g,g,a,t,a,g,t,a,g,g,a,a,c,a,g,1
+t,t,t,a,t,g,a,a,t,a,a,g,t,g,c,t,t,t,g,c,t,a,c,a,a,t,g,g,a,g,t,a,a,t,t,g,t,c,c,c,a,a,a,g,t,g,c,c,c,a,c,a,c,a,t,g,c,c,t,c,c,a,a,c,a,g,t,c,c,a,a,a,c,t,a,a,g,c,a,a,t,t,t,a,t,a,g,g,t,t,a,t,g,t,g,a,c,a,t,t,t,a,t,t,t,a,g,t,c,a,a,t,t,t,c,t,t,t,g,t,c,a,a,t,a,a,a,t,t,c,a,t,g,t,c,a,t,t,g,c,c,a,a,c,t,a,a,a,t,t,a,t,g,a,t,t,t,t,g,t,t,t,t,c,a,a,t,a,t,g,a,a,g,t,g,a,a,g,a,a,a,c,a,t,a,t,a,t,a,a,a,c,a,a,c,t,a,a,t,t,a,t,a,t,t,t,g,t,a,a,g,c,a,g,t,a,t,g,a,a,a,g,c,t,a,c,a,t,a,a,a,g,t,a,t,t,a,a,t,t,c,a,g,g,c,t,c,t,g,t,1
+c,c,a,a,g,g,g,t,t,c,a,t,g,g,g,g,t,t,t,t,a,a,t,g,t,g,a,g,g,g,g,t,c,t,t,a,g,g,g,g,a,a,g,a,t,g,g,g,a,t,t,g,a,a,g,g,t,a,g,g,a,a,a,t,t,g,t,c,a,g,g,a,c,a,c,g,a,a,t,t,a,t,g,c,t,t,t,g,g,a,a,a,g,a,a,a,g,g,g,a,c,t,t,g,g,g,g,c,a,g,t,c,t,t,a,t,c,c,a,c,a,g,g,t,g,t,t,t,t,g,g,t,t,g,c,t,g,a,g,t,c,a,a,t,t,c,c,a,a,t,t,g,a,a,t,t,t,t,a,g,g,a,g,t,g,g,g,a,a,g,a,a,g,a,c,a,g,t,a,a,t,t,t,t,c,c,c,c,t,g,a,g,c,t,t,a,t,c,a,a,a,g,a,g,t,t,t,t,a,t,t,t,t,t,a,a,t,t,t,t,t,a,a,t,a,c,c,a,t,a,a,t,t,t,a,a,a,c,c,a,a,a,t,t,a,a,t,t,g,a,1
+g,a,c,a,a,a,t,c,t,g,g,g,a,g,a,a,g,a,t,c,t,t,g,g,g,g,a,a,g,t,t,g,c,t,t,a,a,t,g,t,a,t,g,t,g,g,g,a,g,a,t,a,a,g,a,a,c,t,t,g,a,a,c,a,a,t,t,a,g,g,t,a,a,t,a,a,a,t,t,a,t,c,a,a,c,c,a,g,t,a,g,g,c,a,t,t,t,a,c,t,g,t,c,a,t,t,t,g,c,t,a,t,g,t,g,c,t,t,a,a,t,g,c,c,a,t,a,g,a,a,g,t,c,a,c,t,a,a,t,g,a,a,g,g,a,c,t,g,g,a,t,g,a,t,g,g,a,a,g,t,g,a,a,a,a,g,c,t,a,t,g,t,a,g,t,g,c,a,g,a,a,t,t,t,a,t,a,a,t,a,a,a,g,t,t,g,a,g,a,a,t,a,t,a,a,c,t,g,a,a,c,a,g,g,a,t,a,g,a,a,a,a,a,a,a,a,g,t,c,a,a,g,a,g,a,t,a,t,a,t,a,a,g,a,t,a,t,a,g,a,1
+a,g,c,a,g,a,t,t,c,g,t,c,t,a,g,g,a,a,t,t,c,t,c,c,a,c,a,a,g,t,t,t,g,t,c,c,t,a,a,g,g,a,g,g,a,g,g,t,t,t,t,a,a,g,t,a,a,c,c,t,c,t,g,t,c,c,t,c,c,a,a,c,t,t,t,t,c,c,a,c,t,g,a,a,a,a,t,c,t,c,a,t,g,g,a,a,g,c,t,g,t,t,t,t,a,g,t,a,t,a,t,g,a,a,a,a,g,t,a,a,a,a,t,a,t,c,t,g,g,g,t,g,t,t,g,c,t,c,a,t,c,t,g,g,t,t,a,a,a,a,t,c,c,t,a,a,t,t,c,t,t,t,c,a,c,t,t,c,t,t,a,t,a,c,a,t,g,t,a,a,t,t,t,c,a,g,t,t,a,a,t,c,t,t,t,a,a,c,c,a,a,t,a,t,g,a,a,a,c,t,c,a,g,g,a,t,t,t,t,t,t,t,g,g,a,c,a,a,a,t,t,g,t,g,a,c,a,a,c,t,a,t,g,g,c,c,t,t,a,c,1
+t,g,a,g,g,a,c,c,a,a,a,c,a,g,a,t,t,c,g,a,g,a,a,c,g,a,g,t,g,c,t,c,t,a,t,g,t,t,t,t,t,a,c,t,a,a,a,a,a,a,t,a,a,g,a,c,t,c,t,t,a,c,c,a,t,g,t,t,a,t,t,t,t,a,c,t,a,a,g,g,g,c,t,t,t,g,a,t,c,c,t,t,c,t,a,t,a,a,a,g,a,c,c,g,a,t,a,t,g,t,t,c,t,t,g,c,c,t,t,a,a,g,g,a,a,t,a,t,c,t,c,c,t,g,a,t,c,c,t,t,a,a,c,t,t,a,t,t,g,c,t,g,t,c,a,a,c,t,t,g,c,a,a,t,a,c,a,a,g,t,t,g,g,t,t,t,g,t,t,c,c,t,g,g,a,t,g,c,t,g,a,c,t,a,a,t,a,a,t,g,g,a,t,t,t,t,a,a,a,a,c,t,g,t,c,a,g,a,a,a,c,a,t,c,a,t,t,g,t,a,g,t,t,g,a,a,g,t,t,c,a,a,a,g,a,c,t,g,a,c,1
+c,t,g,t,t,g,a,a,t,g,g,t,t,g,c,c,a,a,c,a,c,a,a,a,c,t,t,g,a,g,t,t,c,t,a,a,t,a,a,a,t,a,a,t,t,g,c,a,t,t,t,c,c,c,t,a,a,c,g,t,c,t,g,t,a,t,t,t,t,g,g,a,a,g,g,t,a,g,a,g,g,g,g,a,g,g,g,a,a,a,g,g,c,g,c,a,t,t,c,c,t,c,c,a,a,c,a,g,c,c,c,a,g,t,t,c,t,g,c,c,c,t,g,c,g,c,a,g,c,c,c,t,c,t,a,c,c,t,c,g,a,g,g,c,a,g,g,t,g,g,g,g,c,c,t,g,t,g,g,t,t,c,c,t,a,g,c,c,g,c,c,c,g,a,g,g,t,g,g,c,c,a,t,c,t,t,c,c,c,c,g,g,c,t,g,t,g,g,t,c,c,g,g,t,g,t,g,c,c,c,c,t,t,g,t,a,c,t,c,c,t,t,a,a,c,c,g,c,g,c,g,c,a,t,c,t,g,g,c,t,t,t,a,a,c,a,g,g,t,g,1
+a,g,t,t,g,c,t,t,t,c,t,t,t,a,a,t,t,g,t,t,c,c,t,t,c,t,g,a,a,t,a,a,a,c,a,g,t,t,t,a,t,t,t,a,a,g,a,t,a,c,t,g,a,g,t,a,g,a,g,a,g,a,g,a,a,g,c,t,a,c,c,t,c,c,t,g,a,g,c,g,c,c,t,t,g,g,a,g,g,g,t,t,t,g,g,g,g,g,a,a,g,g,t,g,g,g,g,a,a,g,g,a,g,g,c,c,c,t,c,t,t,g,g,t,c,t,c,t,c,t,g,g,a,c,t,g,c,c,c,a,t,g,g,t,g,g,a,a,a,g,g,g,g,c,a,t,g,t,g,c,c,a,g,g,c,t,g,g,c,c,a,g,g,g,a,c,t,c,a,a,g,t,g,c,c,a,c,c,c,c,a,c,t,c,c,c,t,g,c,c,c,c,a,t,g,t,t,a,t,c,a,t,t,t,c,c,c,a,t,c,t,t,g,t,g,c,t,t,a,c,a,c,t,g,c,c,c,g,c,t,g,g,c,c,c,a,c,g,c,t,1
+t,g,t,g,c,t,g,c,c,c,c,c,c,t,c,t,t,a,a,t,a,c,t,c,a,c,c,a,a,t,a,a,a,t,t,c,t,a,c,t,t,c,c,t,g,t,c,c,a,c,c,t,a,t,g,t,c,t,t,t,g,t,a,t,c,t,a,c,a,t,t,c,t,t,g,a,c,g,g,g,g,a,a,g,g,a,a,c,t,t,c,c,t,c,t,g,g,g,a,a,c,c,t,t,t,g,g,g,t,c,a,t,t,g,c,c,c,t,t,t,c,a,c,t,t,c,a,g,a,a,a,c,a,g,g,t,t,g,a,c,a,a,c,t,c,a,g,c,c,c,t,g,c,t,c,a,t,g,a,g,g,c,a,g,c,a,a,a,c,c,c,t,g,c,a,a,a,g,g,g,c,t,g,g,g,a,c,t,g,g,t,g,g,c,c,t,t,a,t,g,t,c,a,g,t,t,g,t,c,t,a,c,t,c,t,g,g,a,g,c,t,t,g,a,c,t,t,g,g,a,c,c,t,c,c,c,c,a,g,g,t,c,c,t,a,g,g,c,a,g,1
+c,t,a,g,t,g,t,a,t,t,t,c,a,c,a,g,a,a,a,a,c,a,a,a,a,c,c,t,c,c,c,a,a,t,a,a,a,a,c,g,g,t,t,g,a,a,a,c,c,t,g,a,a,t,c,t,c,t,g,g,a,t,c,t,t,g,a,t,g,g,t,t,a,t,c,t,c,c,c,a,a,a,a,g,c,t,g,g,g,t,a,c,c,t,g,g,c,a,g,g,g,c,t,t,t,g,g,c,t,g,c,c,t,g,g,g,t,t,g,g,g,g,c,t,c,t,g,g,c,t,t,a,g,c,t,t,c,a,c,t,c,t,g,g,a,c,t,g,t,a,a,a,a,g,g,t,g,g,c,a,t,t,c,t,t,c,a,c,c,a,g,g,g,a,a,t,t,c,c,t,c,a,c,c,c,a,g,a,g,c,a,c,g,c,t,g,g,g,g,c,c,a,a,a,t,t,g,a,c,t,t,a,a,a,g,c,t,t,a,a,g,g,c,t,a,c,c,c,a,g,t,g,a,g,t,c,g,a,t,g,c,t,g,g,c,a,c,c,a,g,1
+g,g,a,g,g,a,g,g,a,c,g,g,c,t,t,a,c,a,t,g,t,t,t,g,t,t,t,c,t,g,t,a,g,a,a,a,a,t,a,a,a,a,c,t,g,a,g,c,t,a,c,g,a,t,t,c,c,g,t,g,t,c,t,g,a,g,t,c,t,c,t,t,t,t,c,g,g,c,g,a,g,c,g,a,a,g,g,c,a,c,c,t,t,c,g,g,a,c,t,t,g,c,a,t,g,c,c,c,t,t,g,t,c,c,t,c,g,g,g,t,t,g,c,a,g,g,g,g,a,g,g,c,t,c,t,g,g,g,a,t,t,c,a,c,a,g,a,t,t,g,a,a,g,t,a,g,c,a,c,a,a,g,g,t,a,a,c,g,g,g,a,g,g,c,a,a,t,t,t,g,g,g,a,a,a,t,g,g,g,g,g,a,a,a,a,t,g,a,a,a,a,g,c,c,a,c,t,g,g,g,t,c,c,c,g,c,c,a,t,t,c,a,g,c,a,t,t,a,a,c,t,a,c,t,g,t,g,g,a,c,a,t,t,t,t,a,g,a,a,t,1
+c,c,c,c,a,c,t,c,t,g,c,c,c,a,g,g,c,c,t,t,g,a,g,t,g,t,c,c,a,c,a,t,t,a,a,a,t,g,g,g,t,c,t,c,c,c,a,c,a,c,c,g,c,t,g,t,g,c,c,t,c,t,c,t,c,c,t,c,t,g,t,a,t,c,c,c,a,g,g,a,c,g,a,g,a,a,c,c,c,c,a,g,c,a,g,c,t,g,c,t,g,g,a,g,g,c,g,a,a,c,a,g,g,a,c,t,g,t,c,t,a,g,g,t,g,t,t,c,a,g,g,t,g,t,t,g,a,t,c,c,t,a,t,a,c,t,g,g,c,g,g,c,t,c,a,g,a,g,g,c,c,a,g,g,t,g,g,t,a,g,g,g,c,t,g,g,g,g,t,t,c,t,t,g,g,t,c,a,c,c,t,g,t,a,c,t,t,c,t,g,g,a,c,a,c,a,g,a,a,g,g,t,g,c,a,g,g,t,g,a,g,g,g,c,a,g,g,g,c,t,t,c,c,t,c,c,c,t,a,c,c,t,g,a,t,a,c,a,t,t,1
+g,c,c,g,a,g,a,t,c,g,c,g,c,c,a,t,t,g,c,a,c,t,c,t,a,g,c,c,t,g,g,g,c,a,a,c,a,a,g,a,g,c,a,a,a,a,c,t,g,t,t,t,c,a,a,a,a,a,a,a,a,a,a,a,a,a,a,g,a,a,g,a,a,g,a,a,a,g,a,a,a,a,g,a,a,a,a,a,g,a,g,g,t,t,t,g,c,t,c,t,g,a,g,t,g,t,c,c,a,g,t,g,t,a,t,a,c,a,c,a,c,a,t,c,g,t,t,t,c,t,c,c,a,t,a,g,t,a,g,g,t,a,c,a,g,a,t,a,t,t,c,c,t,a,t,t,c,a,a,c,c,a,t,t,g,g,a,a,c,t,g,g,g,g,a,a,g,g,t,g,a,g,t,g,a,c,c,t,g,c,c,c,a,a,g,g,c,c,a,c,a,c,a,g,a,t,a,g,t,g,a,t,g,g,a,g,c,c,a,g,g,a,t,t,c,a,a,a,c,t,g,g,t,t,a,a,c,t,g,c,c,c,c,t,t,t,c,t,c,a,1
+t,c,a,g,a,t,c,c,a,g,g,g,g,g,a,a,a,t,g,c,t,g,g,a,a,g,t,c,a,a,t,a,a,a,a,c,t,g,a,g,t,t,t,t,g,a,g,a,g,c,t,t,g,g,t,g,g,t,g,t,g,t,t,g,t,g,t,t,c,t,t,g,g,g,t,t,c,c,t,a,c,t,t,t,c,c,g,g,g,g,t,g,g,c,c,c,a,g,g,a,g,g,g,c,c,t,c,t,a,a,g,g,g,a,c,a,g,t,g,g,g,t,g,a,c,a,c,c,t,c,a,g,g,c,c,t,c,a,c,a,c,c,t,c,c,c,t,t,t,a,t,g,c,c,c,c,t,a,c,a,g,c,t,a,g,a,g,g,t,g,c,a,g,g,c,c,t,t,g,c,c,a,g,t,t,g,a,a,g,g,c,a,g,a,a,a,t,g,c,c,c,t,c,t,t,t,g,a,c,c,a,g,g,c,t,g,c,c,c,t,c,c,c,c,a,g,g,t,a,t,g,t,t,a,t,g,g,a,a,c,c,c,c,a,a,g,c,a,a,t,1
+c,c,t,g,c,t,g,c,a,g,g,g,g,c,t,c,t,g,g,a,g,a,g,a,a,a,c,a,a,t,a,a,a,g,a,g,a,t,t,c,a,c,a,c,a,c,a,a,g,c,c,a,a,g,c,t,g,g,c,c,c,c,t,g,t,t,g,t,c,t,t,g,a,c,t,g,c,c,a,g,g,t,c,t,c,c,t,g,t,g,g,g,g,c,c,c,c,t,g,g,g,g,c,c,c,t,g,t,g,a,t,a,c,a,a,c,c,t,g,t,c,a,c,c,c,t,g,a,g,a,t,g,g,a,c,t,a,t,a,c,t,g,a,c,c,t,t,c,t,a,c,c,c,a,g,c,c,a,g,a,c,t,t,t,c,c,c,c,a,g,g,g,c,c,t,c,g,c,g,c,c,c,a,c,t,t,c,t,g,t,t,c,c,c,a,g,a,g,c,c,a,c,c,t,g,g,c,c,t,t,g,a,t,g,t,c,t,g,t,a,t,g,c,a,g,t,g,t,a,t,g,g,g,g,c,a,g,g,g,a,g,g,g,c,t,g,g,a,c,a,1
+c,a,g,g,c,t,c,a,c,c,a,g,c,c,a,g,c,c,t,c,c,c,t,c,c,c,t,c,c,a,g,g,a,g,c,t,a,c,g,c,t,g,c,a,t,g,t,c,c,t,g,g,c,t,c,t,c,c,c,a,t,g,t,c,c,g,t,g,c,g,g,t,t,c,c,t,g,g,g,c,t,g,c,a,c,c,t,g,a,g,a,c,t,g,t,c,a,g,c,a,a,a,g,a,g,a,t,t,c,a,g,a,g,g,g,c,t,t,g,g,g,t,c,c,c,a,c,a,g,c,t,t,c,t,c,t,g,a,g,a,g,c,c,t,c,c,c,c,a,c,c,c,c,c,a,c,c,c,t,g,c,c,t,c,a,c,c,a,g,g,g,t,c,c,t,g,a,a,g,t,c,c,t,t,g,c,t,c,g,g,t,c,c,c,a,a,g,c,c,a,t,c,a,a,g,a,g,g,c,c,a,g,g,c,t,c,c,c,c,a,c,c,c,t,t,g,c,t,t,g,g,g,g,c,a,g,c,a,t,c,t,g,c,a,c,c,t,g,a,t,1
+a,g,t,t,g,c,t,t,t,c,t,t,t,a,a,t,t,g,t,t,c,c,t,t,c,t,g,a,a,t,a,a,a,c,a,g,t,t,t,a,t,t,t,a,a,g,a,t,a,c,t,g,a,g,t,a,g,a,g,a,g,a,g,a,a,g,c,t,a,c,c,t,c,c,t,g,a,g,c,g,c,c,t,t,g,g,a,g,g,g,t,t,t,g,g,g,g,g,a,a,g,g,t,g,g,g,g,a,a,g,g,a,g,g,c,c,c,t,c,t,t,g,g,t,c,t,c,t,c,t,g,g,a,c,t,g,c,c,c,a,t,g,g,t,g,g,a,a,a,g,g,g,g,c,a,t,g,t,g,c,c,a,g,g,c,t,g,g,c,c,a,g,g,g,a,c,t,c,a,a,g,t,g,c,c,a,c,c,c,c,a,c,t,c,c,c,t,g,c,c,c,c,a,t,g,t,t,a,t,c,a,t,t,t,c,c,c,a,t,c,t,t,g,t,g,c,t,t,a,c,a,c,t,g,c,c,c,g,c,t,g,g,c,c,c,a,c,g,c,t,1
+c,c,a,c,c,c,t,g,a,c,t,t,t,g,t,t,t,t,t,g,t,g,g,a,c,a,c,a,c,a,a,t,a,a,a,a,g,c,c,c,c,g,t,t,t,a,t,t,t,g,t,a,a,t,g,c,g,t,t,g,g,c,t,c,t,t,c,c,t,g,g,a,g,g,a,g,a,g,g,g,t,t,g,g,g,c,t,c,c,c,a,t,g,g,c,a,a,g,g,g,c,c,t,c,t,g,c,g,t,c,t,t,g,g,g,g,c,t,c,c,a,g,g,a,t,t,g,c,a,a,t,c,c,g,g,c,t,t,t,g,t,t,g,g,g,t,c,c,g,c,a,t,t,t,t,t,g,c,t,t,t,a,g,t,c,t,g,g,g,g,a,t,a,g,g,a,a,t,c,a,a,a,t,g,t,t,a,c,c,c,a,g,a,g,a,t,g,t,t,t,g,t,g,t,t,t,t,g,t,t,t,g,g,g,a,g,t,t,t,t,a,t,t,c,c,c,t,a,a,c,t,c,a,t,t,c,c,c,c,a,a,a,g,c,a,c,g,t,g,t,1
+c,t,a,g,t,g,t,a,t,t,t,c,a,c,a,g,a,a,a,a,c,a,a,a,a,c,c,t,c,c,c,a,a,t,a,a,a,a,c,g,g,t,t,g,a,a,a,c,c,t,g,a,a,t,c,t,c,t,g,g,a,t,c,t,t,g,a,t,g,g,t,t,a,t,c,t,c,c,c,a,a,a,a,g,c,t,g,g,g,t,a,c,c,t,g,g,c,a,g,g,g,c,t,t,t,g,g,c,t,g,c,c,t,g,g,g,t,t,g,g,g,g,c,t,c,t,g,g,c,t,t,a,g,c,t,t,c,a,c,t,c,t,g,g,a,c,t,g,t,a,a,a,a,g,g,t,g,g,c,a,t,t,c,t,t,c,a,c,c,a,g,g,g,a,a,t,t,c,c,t,c,a,c,c,c,a,g,a,g,c,a,c,g,c,t,g,g,g,g,c,c,a,a,a,t,t,g,a,c,t,t,a,a,a,g,c,t,t,a,a,g,g,c,t,a,c,c,c,a,g,t,g,a,g,t,c,g,a,t,g,c,t,g,g,c,a,c,c,a,g,1
+g,g,a,g,g,a,g,g,a,c,g,g,c,t,t,a,c,a,t,g,t,t,t,g,t,t,t,c,t,g,t,a,g,a,a,a,a,t,a,a,a,a,c,t,g,a,g,c,t,a,c,g,a,t,t,c,c,g,t,g,t,c,t,g,a,g,t,c,t,c,t,t,t,t,c,g,g,c,g,a,g,c,g,a,a,g,g,c,a,c,c,t,t,c,g,g,a,c,t,t,g,c,a,t,g,c,c,c,t,t,g,t,c,c,t,c,g,g,g,t,t,g,c,a,g,g,g,g,a,g,g,c,t,c,t,g,g,g,a,t,t,c,a,c,a,g,a,t,t,g,a,a,g,t,a,g,c,a,c,a,a,g,g,t,a,a,c,g,g,g,a,g,g,c,a,a,t,t,t,g,g,g,a,a,a,t,g,g,g,g,g,a,a,a,a,t,g,a,a,a,a,g,c,c,a,c,t,g,g,g,t,c,c,c,g,c,c,a,t,t,c,a,g,c,a,t,t,a,a,c,t,a,c,t,g,t,g,g,a,c,a,t,t,t,t,a,g,a,a,t,1
+a,c,c,t,c,a,a,c,g,a,c,c,t,t,c,c,t,c,t,g,a,a,a,a,g,a,a,a,a,a,t,g,t,c,c,t,t,g,c,a,a,g,t,a,g,g,t,a,a,a,t,g,a,a,a,a,a,a,a,a,a,a,g,a,a,a,a,a,c,a,a,a,a,a,a,a,a,g,a,t,t,t,t,c,a,t,t,t,c,a,a,a,a,t,a,a,t,c,t,t,c,a,t,t,a,c,c,t,g,a,g,g,a,t,t,g,c,a,a,g,a,a,t,t,g,t,c,a,t,t,t,c,a,a,t,t,a,t,g,c,t,g,a,c,g,t,c,t,a,t,t,c,t,t,a,g,a,a,g,g,a,g,g,t,a,t,a,a,t,g,g,c,t,t,t,c,c,c,c,t,t,c,c,a,a,g,c,t,g,g,a,g,t,g,a,c,t,g,t,c,a,t,t,a,t,g,t,g,t,g,g,g,a,t,g,t,a,c,t,c,c,a,t,t,g,c,t,t,a,a,c,t,c,c,c,t,g,c,c,a,t,t,a,g,a,a,a,c,g,t,1
+c,c,t,t,c,c,c,t,g,g,a,c,g,g,c,c,c,g,c,t,c,c,c,c,g,a,a,a,c,g,c,g,c,g,c,a,a,t,a,a,a,g,t,g,a,t,t,c,g,c,a,g,a,g,c,t,c,g,t,g,t,c,c,g,g,c,t,c,c,c,t,c,c,t,t,a,a,g,g,c,c,c,g,a,c,g,c,c,c,c,c,g,g,c,c,c,c,g,g,c,c,t,c,g,c,c,a,a,g,g,g,g,c,a,g,c,g,c,c,c,c,g,c,c,c,t,c,c,g,g,g,t,a,g,t,g,g,c,g,g,c,g,g,c,g,a,c,t,g,g,g,g,a,g,c,c,c,a,g,c,c,t,c,c,t,g,g,g,c,g,g,t,g,c,g,t,c,c,c,c,t,t,t,c,c,c,c,t,g,c,c,g,c,g,g,c,g,g,g,a,g,g,c,g,g,g,a,g,g,g,g,g,t,g,t,g,t,g,g,a,g,g,a,g,g,c,g,g,g,c,c,c,c,g,c,c,g,a,c,g,g,c,c,t,c,g,c,c,c,c,1
+c,a,g,a,c,t,g,t,t,c,c,a,a,a,a,a,a,a,a,a,a,c,a,a,a,a,a,a,c,a,a,a,a,a,c,a,a,a,c,a,a,a,a,a,a,a,c,a,c,t,t,a,a,a,a,g,c,c,c,a,a,g,g,a,g,t,a,a,g,c,c,t,g,t,g,t,g,t,g,t,t,t,g,t,g,g,g,c,c,c,t,g,a,g,a,g,a,c,t,c,a,g,a,g,a,c,c,t,c,a,g,c,t,c,c,a,g,c,a,t,a,c,c,c,c,a,c,c,a,c,c,t,t,c,t,c,c,t,t,t,c,c,c,g,a,c,t,g,t,g,g,a,g,c,c,t,t,g,g,g,g,g,t,c,t,a,g,g,c,t,c,a,a,t,g,a,c,a,t,g,g,t,g,g,c,c,c,t,t,g,c,c,c,a,g,a,g,a,g,a,a,a,g,g,a,g,t,g,t,t,c,c,t,g,c,c,t,g,c,c,a,a,c,a,g,c,a,a,t,a,c,t,g,c,t,c,c,c,c,c,c,a,c,c,c,c,c,a,c,a,1
+a,g,c,c,t,g,c,a,t,c,a,a,t,a,a,a,t,g,a,a,a,a,c,g,g,t,c,t,g,c,a,c,c,g,c,t,g,c,g,g,g,c,g,t,g,a,c,g,c,t,c,c,c,g,g,a,c,g,c,g,a,g,t,g,g,g,t,g,t,g,g,a,a,t,t,g,c,t,t,t,c,c,t,c,g,g,g,c,c,a,c,c,g,t,g,g,g,g,g,c,a,c,c,t,c,t,g,g,c,c,t,c,c,c,g,t,g,a,c,c,c,c,c,a,g,g,c,c,g,a,g,g,g,t,c,c,c,c,g,g,g,c,a,c,c,c,a,g,g,t,c,g,g,t,c,a,a,g,t,c,t,c,g,g,c,c,c,t,c,t,c,a,g,g,c,c,c,g,c,g,t,c,t,c,t,g,c,c,t,g,g,a,g,g,a,g,a,c,t,g,t,g,t,a,g,g,g,t,c,c,g,g,c,g,t,g,g,g,g,a,t,c,a,g,c,c,a,g,g,a,t,g,g,g,c,t,g,c,g,c,g,t,c,t,c,c,a,g,c,c,1
+g,c,a,a,t,t,g,g,a,a,t,g,t,t,g,g,c,c,a,g,a,t,t,t,c,t,g,c,a,a,t,a,a,a,c,a,c,t,t,g,t,g,g,t,t,t,g,c,g,g,c,c,a,t,c,t,c,c,t,t,g,g,t,t,a,t,g,a,a,t,g,g,c,t,g,t,t,t,c,g,c,t,g,a,g,c,g,c,c,a,g,g,c,a,t,t,c,t,g,g,c,a,t,c,a,t,c,a,c,a,g,a,c,t,g,g,g,t,g,a,g,a,a,t,g,g,t,g,a,g,g,g,c,g,c,a,g,a,t,g,g,g,c,t,g,a,a,a,g,g,g,a,g,a,a,t,g,t,a,g,g,g,g,g,t,c,c,t,g,c,t,t,a,a,t,t,a,a,g,g,g,g,g,a,g,c,t,a,g,g,g,a,g,g,g,c,c,t,t,t,c,a,a,g,g,g,a,a,g,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,g,a,g,a,c,a,g,t,t,t,c,a,c,t,c,t,g,t,c,c,1
+t,t,t,c,a,g,t,t,c,t,g,g,c,t,g,t,c,c,c,a,c,a,g,c,t,c,c,a,g,g,a,g,t,t,g,t,g,t,c,c,c,c,t,g,a,a,t,t,t,t,g,c,a,g,a,a,g,g,t,g,a,t,g,a,c,t,c,c,a,g,g,t,t,c,t,t,g,g,c,c,t,t,t,c,c,t,g,a,c,t,c,c,c,t,t,t,c,t,g,g,t,c,a,t,t,c,t,t,c,a,t,g,a,g,a,a,c,t,c,t,c,t,t,c,c,t,c,t,c,t,c,c,t,g,g,t,g,c,c,c,a,a,c,a,c,c,t,t,c,c,c,a,g,t,t,c,c,c,a,g,a,g,c,c,c,t,g,c,a,a,t,c,t,c,c,t,c,c,a,a,c,a,a,g,c,t,c,c,c,t,g,c,c,a,g,g,t,c,c,t,g,c,t,g,c,g,a,c,a,g,g,g,c,c,c,t,c,c,c,t,g,t,c,c,a,t,c,a,g,t,c,c,t,c,c,t,g,t,c,c,t,c,c,t,t,c,t,c,t,a,1
+c,g,a,g,t,t,t,t,a,a,a,c,t,g,g,t,t,c,c,t,a,g,g,g,a,t,g,t,g,t,g,a,g,a,a,t,a,a,a,c,t,a,g,a,c,t,c,t,g,a,a,c,a,a,c,t,g,c,t,t,t,g,t,t,a,c,c,a,g,t,g,t,c,t,c,a,a,t,t,t,g,a,c,t,t,g,g,g,a,c,t,t,a,g,t,g,a,c,c,a,t,t,t,t,a,a,g,g,g,a,g,a,c,t,g,g,t,g,t,g,c,c,a,c,a,a,a,t,c,c,t,g,g,g,t,g,g,c,t,t,g,a,t,c,c,t,g,c,c,a,c,g,t,g,g,a,t,g,c,t,g,t,c,t,g,g,g,t,g,a,g,c,t,t,g,t,t,c,t,c,a,c,a,c,t,g,c,c,c,t,c,c,t,g,c,c,a,c,c,c,c,c,a,t,t,t,c,c,a,g,a,a,a,g,g,t,g,a,t,g,a,t,a,a,c,c,c,t,a,g,c,a,a,t,c,t,t,g,a,a,a,a,t,c,c,a,c,a,g,a,1
+a,t,a,t,t,t,a,t,t,c,a,a,g,a,t,g,t,t,t,t,a,c,c,g,t,a,a,t,a,a,t,t,a,t,t,a,t,t,a,a,a,a,a,t,a,t,g,c,t,t,c,t,a,c,t,t,g,t,c,c,a,g,t,g,t,t,c,t,a,g,t,t,t,g,t,t,t,t,t,a,a,c,c,a,t,g,a,g,c,a,a,a,t,g,c,c,a,g,t,g,g,t,g,c,c,t,g,c,c,t,t,c,c,c,a,t,g,a,g,g,c,a,g,g,g,g,a,g,g,g,a,g,g,a,a,a,c,g,g,g,g,a,g,g,t,g,g,a,g,a,g,g,g,g,g,c,g,g,g,g,g,c,c,t,c,c,c,a,g,g,c,g,t,t,g,g,g,c,a,c,t,a,t,c,c,a,a,g,g,g,c,c,a,a,c,a,c,t,g,t,c,a,g,a,g,c,a,g,a,g,g,g,g,a,g,g,t,g,a,g,a,g,c,c,g,g,g,c,a,t,a,g,g,t,g,c,g,g,a,a,t,t,c,t,g,c,a,c,a,c,1
+a,g,t,t,g,t,t,t,c,a,t,t,g,a,c,t,a,t,c,a,a,a,c,t,g,a,a,g,c,c,a,g,a,a,a,t,a,a,a,g,t,t,g,g,t,g,a,c,a,g,a,t,a,g,g,c,c,t,g,a,t,t,g,t,a,t,t,t,g,t,c,t,t,t,c,a,t,t,t,t,g,g,c,c,t,t,t,g,g,g,g,a,c,a,c,t,g,g,t,c,t,g,t,g,g,t,c,t,g,a,a,g,a,c,t,c,t,g,a,g,g,a,g,c,t,c,t,t,c,g,g,g,a,g,g,c,t,g,g,t,g,g,g,t,t,g,g,a,g,g,a,g,g,g,g,a,c,t,g,g,g,a,t,g,g,a,t,t,a,c,a,g,c,g,a,g,g,g,t,a,g,g,g,t,g,c,a,g,t,g,a,c,c,t,g,g,g,c,t,g,a,a,t,g,c,a,a,g,c,t,a,g,c,t,c,c,c,g,a,g,g,g,t,g,g,g,g,a,c,a,t,g,g,c,c,t,g,a,a,g,g,a,a,g,c,c,c,c,a,c,1
+a,c,a,c,a,c,t,t,t,t,g,c,t,t,g,t,t,g,g,t,g,c,t,t,t,c,g,t,t,a,a,a,a,t,t,a,c,a,c,t,t,t,a,a,t,t,g,c,t,t,c,c,g,a,t,c,c,t,g,t,a,t,g,a,g,t,c,t,t,a,t,t,t,t,g,a,g,c,t,a,c,c,a,t,g,c,a,t,t,t,a,g,c,c,t,t,g,c,g,a,g,a,g,t,c,a,g,a,t,a,c,a,t,t,t,g,g,a,a,c,a,c,t,a,t,c,t,c,c,t,a,g,g,t,c,a,t,a,t,c,a,a,g,a,a,c,t,c,t,c,c,t,c,t,a,g,t,c,c,a,g,a,a,c,c,c,a,t,t,t,t,a,c,a,g,a,t,g,g,a,g,a,t,g,c,t,g,a,g,g,c,c,a,t,g,c,t,g,c,t,c,a,c,a,g,c,t,t,c,c,a,g,t,g,g,t,g,g,c,c,g,t,t,g,a,g,t,g,c,c,c,t,c,t,g,c,c,t,c,c,t,t,c,c,t,t,c,c,a,g,1
+g,a,a,t,g,t,t,t,t,g,a,t,t,g,a,g,c,a,a,t,g,a,a,a,t,a,a,a,c,a,g,t,c,c,t,c,c,a,t,t,t,t,g,t,t,t,c,t,g,c,t,t,g,a,g,t,g,g,t,g,a,t,g,t,a,c,t,t,c,c,c,t,t,a,a,a,a,a,t,t,g,t,a,c,a,g,t,t,t,t,t,g,c,t,a,t,t,g,t,a,t,t,t,t,t,c,t,t,t,t,c,t,t,t,t,t,a,t,c,t,a,a,t,t,t,c,c,t,t,c,a,t,t,c,t,t,c,t,g,c,c,t,c,t,t,t,c,a,a,g,c,a,t,t,c,t,g,t,t,a,t,t,g,a,a,a,g,a,a,g,t,t,g,g,a,t,t,g,c,t,c,t,g,c,a,a,a,g,t,a,a,a,g,g,a,g,t,c,a,a,c,c,a,c,a,c,a,t,g,g,a,t,a,t,c,g,t,a,a,t,g,g,a,g,a,a,c,t,g,t,a,g,a,t,a,a,a,t,g,t,g,g,g,c,c,c,t,g,a,t,1
+g,c,a,c,c,c,c,a,g,c,c,t,g,g,g,t,g,a,c,a,t,a,g,a,g,a,g,a,c,t,c,t,g,t,c,t,c,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,g,a,t,g,g,t,c,a,a,g,c,a,c,t,t,g,c,c,a,t,c,t,a,a,t,g,a,a,g,c,a,c,c,c,a,g,g,t,t,t,g,t,c,t,a,t,g,g,c,t,g,t,c,t,g,a,a,g,a,t,a,a,g,g,c,a,g,a,a,c,a,g,a,g,a,g,a,a,a,a,a,t,c,t,a,g,t,t,t,a,a,t,a,a,a,g,c,a,a,t,g,a,a,a,g,c,c,c,a,a,g,c,c,a,c,c,a,a,a,a,g,c,a,c,c,a,a,a,a,g,a,g,a,t,t,t,a,a,g,a,t,t,t,c,t,g,t,t,g,g,g,a,c,a,a,g,g,t,g,a,a,t,t,t,t,g,a,c,a,t,a,t,g,c,a,c,a,a,g,g,a,c,c,c,a,t,g,g,c,c,a,1
+c,t,g,t,t,g,a,a,t,g,g,t,t,g,c,c,a,a,c,a,c,a,a,a,c,t,t,g,a,g,t,t,c,t,a,a,t,a,a,a,t,a,a,t,t,g,c,a,t,t,t,c,c,c,t,a,a,c,g,t,c,t,g,t,a,t,t,t,t,g,g,a,a,g,g,t,a,g,a,g,g,g,g,a,g,g,g,a,a,a,g,g,c,g,c,a,t,t,c,c,t,c,c,a,a,c,a,g,c,c,c,a,g,t,t,c,t,g,c,c,c,t,g,c,g,c,a,g,c,c,c,t,c,t,a,c,c,t,c,g,a,g,g,c,a,g,g,t,g,g,g,g,c,c,t,g,t,g,g,t,t,c,c,t,a,g,c,c,g,c,c,c,g,a,g,g,t,g,g,c,c,a,t,c,t,t,c,c,c,c,g,g,c,t,g,t,g,g,t,c,c,g,g,t,g,t,g,c,c,c,c,t,t,g,t,a,c,t,c,c,t,t,a,a,c,c,g,c,g,c,g,c,a,t,c,t,g,g,c,t,t,t,a,a,c,a,g,g,t,g,1
+g,g,g,c,t,t,t,g,g,t,a,c,a,a,g,a,a,c,t,g,t,g,a,c,c,c,c,c,a,a,c,c,c,t,g,a,t,a,a,a,a,g,a,g,a,t,g,g,a,a,g,g,a,g,c,t,g,t,c,c,c,t,g,c,c,t,g,t,g,t,c,a,c,t,g,t,t,t,g,t,c,a,c,t,g,t,c,c,a,g,g,c,t,g,g,c,t,g,g,t,t,t,g,g,g,c,a,t,g,a,a,t,g,t,c,t,g,c,a,t,c,a,c,t,a,a,a,t,c,c,a,g,a,g,c,t,t,g,t,c,t,t,g,c,t,c,c,c,t,c,a,t,t,g,t,g,c,a,g,a,t,g,g,a,g,g,a,a,a,t,g,a,g,g,a,c,t,a,a,g,g,c,c,c,c,a,c,a,g,c,a,g,a,t,c,c,c,a,g,g,c,a,g,g,g,c,c,a,g,a,a,t,t,a,t,g,t,a,t,t,c,a,t,c,a,c,t,t,t,c,a,a,g,t,t,a,t,t,g,c,c,a,c,g,c,a,t,g,g,g,1
+c,a,g,a,c,t,g,t,t,c,c,a,a,a,a,a,a,a,a,a,a,c,a,a,a,a,a,a,c,a,a,a,a,a,c,a,a,a,c,a,a,a,a,a,a,a,c,a,c,t,t,a,a,a,a,g,c,c,c,a,a,g,g,a,g,t,a,a,g,c,c,t,g,t,g,t,g,t,g,t,t,t,g,t,g,g,g,c,c,c,t,g,a,g,a,g,a,c,t,c,a,g,a,g,a,c,c,t,c,a,g,c,t,c,c,a,g,c,a,t,a,c,c,c,c,a,c,c,a,c,c,t,t,c,t,c,c,t,t,t,c,c,c,g,a,c,t,g,t,g,g,a,g,c,c,t,t,g,g,g,g,g,t,c,t,a,g,g,c,t,c,a,a,t,g,a,c,a,t,g,g,t,g,g,c,c,c,t,t,g,c,c,c,a,g,a,g,a,g,a,a,a,g,g,a,g,t,g,t,t,c,c,t,g,c,c,t,g,c,c,a,a,c,a,g,c,a,a,t,a,c,t,g,c,t,c,c,c,c,c,c,a,c,c,c,c,c,a,c,a,1
+a,g,c,c,t,g,c,a,t,c,a,a,t,a,a,a,t,g,a,a,a,a,c,g,g,t,c,t,g,c,a,c,c,g,c,t,g,c,g,g,g,c,g,t,g,a,c,g,c,t,c,c,c,g,g,a,c,g,c,g,a,g,t,g,g,g,t,g,t,g,g,a,a,t,t,g,c,t,t,t,c,c,t,c,g,g,g,c,c,a,c,c,g,t,g,g,g,g,g,c,a,c,c,t,c,t,g,g,c,c,t,c,c,c,g,t,g,a,c,c,c,c,c,a,g,g,c,c,g,a,g,g,g,t,c,c,c,c,g,g,g,c,a,c,c,c,a,g,g,t,c,g,g,t,c,a,a,g,t,c,t,c,g,g,c,c,c,t,c,t,c,a,g,g,c,c,c,g,c,g,t,c,t,c,t,g,c,c,t,g,g,a,g,g,a,g,a,c,t,g,t,g,t,a,g,g,g,t,c,c,g,g,c,g,t,g,g,g,g,a,t,c,a,g,c,c,a,g,g,a,t,g,g,g,c,t,g,c,g,c,g,t,c,t,c,c,a,g,c,c,1
+a,g,c,c,c,g,g,a,a,c,a,t,c,g,c,t,t,c,t,g,c,t,c,c,t,a,a,g,t,c,c,c,t,a,t,t,a,a,a,t,a,t,t,t,c,t,t,t,a,c,a,a,g,a,a,a,c,t,g,g,a,t,t,t,g,t,c,a,g,c,c,t,c,t,t,t,c,t,t,c,a,g,c,c,t,c,t,c,a,g,c,t,c,c,c,t,c,g,g,c,c,t,t,t,g,c,a,g,g,t,a,g,a,t,t,t,g,c,a,c,a,g,a,c,c,t,g,t,t,c,a,c,c,a,c,g,a,a,a,c,a,g,g,g,t,g,g,a,a,a,a,c,c,c,a,c,c,a,g,c,t,g,g,c,c,a,t,g,t,t,c,t,t,t,g,g,a,a,g,g,t,t,c,c,a,g,c,t,c,t,t,t,a,c,c,c,a,a,a,t,g,a,t,a,a,g,g,c,c,t,g,a,g,c,t,g,t,c,g,a,g,g,a,g,a,c,a,t,t,g,g,c,g,t,t,g,c,t,g,a,g,c,a,g,c,c,c,t,g,t,1
+c,g,a,g,t,t,t,t,a,a,a,c,t,g,g,t,t,c,c,t,a,g,g,g,a,t,g,t,g,t,g,a,g,a,a,t,a,a,a,c,t,a,g,a,c,t,c,t,g,a,a,c,a,a,c,t,g,c,t,t,t,g,t,t,a,c,c,a,g,t,g,t,c,t,c,a,a,t,t,t,g,a,c,t,t,g,g,g,a,c,t,t,a,g,t,g,a,c,c,a,t,t,t,t,a,a,g,g,g,a,g,a,c,t,g,g,t,g,t,g,c,c,a,c,a,a,a,t,c,c,t,g,g,g,t,g,g,c,t,t,g,a,t,c,c,t,g,c,c,a,c,g,t,g,g,a,t,g,c,t,g,t,c,t,g,g,g,t,g,a,g,c,t,t,g,t,t,c,t,c,a,c,a,c,t,g,c,c,c,t,c,c,t,g,c,c,a,c,c,c,c,c,a,t,t,t,c,c,a,g,a,a,a,g,g,t,g,a,t,g,a,t,a,a,c,c,c,t,a,g,c,a,a,t,c,t,t,g,a,a,a,a,t,c,c,a,c,a,g,a,1
+t,t,a,a,g,t,a,t,t,t,a,t,a,t,a,t,t,t,a,t,a,a,c,t,c,a,t,c,a,t,a,a,a,a,t,a,a,a,g,t,a,t,a,t,a,t,a,g,a,a,t,c,t,a,a,c,a,g,c,a,a,t,g,g,c,a,t,t,t,a,a,t,g,t,a,t,t,g,g,c,t,a,t,g,t,t,t,a,c,t,t,g,a,c,a,a,a,t,g,a,a,a,t,t,a,t,g,g,t,t,t,g,c,a,a,c,t,t,t,t,a,g,g,g,a,a,a,t,c,a,a,t,t,t,a,g,t,t,t,a,c,c,a,a,g,a,g,a,c,t,a,t,a,a,a,t,g,c,t,a,t,g,g,g,a,g,c,a,a,a,a,c,a,g,g,a,a,a,g,a,c,c,a,c,t,t,c,c,c,c,c,t,c,g,a,g,g,g,g,t,t,c,c,c,t,c,t,c,g,a,g,t,t,a,g,g,g,a,c,a,t,a,a,c,a,c,a,c,a,a,g,a,t,a,a,t,t,a,a,a,g,a,a,c,a,c,a,a,g,g,1
+a,c,a,c,a,c,t,t,t,t,g,c,t,t,g,t,t,g,g,t,g,c,t,t,t,c,g,t,t,a,a,a,a,t,t,a,c,a,c,t,t,t,a,a,t,t,g,c,t,t,c,c,g,a,t,c,c,t,g,t,a,t,g,a,g,t,c,t,t,a,t,t,t,t,g,a,g,c,t,a,c,c,a,t,g,c,a,t,t,t,a,g,c,c,t,t,g,c,g,a,g,a,g,t,c,a,g,a,t,a,c,a,t,t,t,g,g,a,a,c,a,c,t,a,t,c,t,c,c,t,a,g,g,t,c,a,t,a,t,c,a,a,g,a,a,c,t,c,t,c,c,t,c,t,a,g,t,c,c,a,g,a,a,c,c,c,a,t,t,t,t,a,c,a,g,a,t,g,g,a,g,a,t,g,c,t,g,a,g,g,c,c,a,t,g,c,t,g,c,t,c,a,c,a,g,c,t,t,c,c,a,g,t,g,g,t,g,g,c,c,g,t,t,g,a,g,t,g,c,c,c,t,c,t,g,c,c,t,c,c,t,t,c,c,t,t,c,c,a,g,1
+g,a,a,t,g,t,t,t,t,g,a,t,t,g,a,g,c,a,a,t,g,a,a,a,t,a,a,a,c,a,g,t,c,c,t,c,c,a,t,t,t,t,g,t,t,t,c,t,g,c,t,t,g,a,g,t,g,g,t,g,a,t,g,t,a,c,t,t,c,c,c,t,t,a,a,a,a,a,t,t,g,t,a,c,a,g,t,t,t,t,t,g,c,t,a,t,t,g,t,a,t,t,t,t,t,c,t,t,t,t,c,t,t,t,t,t,a,t,c,t,a,a,t,t,t,c,c,t,t,c,a,t,t,c,t,t,c,t,g,c,c,t,c,t,t,t,c,a,a,g,c,a,t,t,c,t,g,t,t,a,t,t,g,a,a,a,g,a,a,g,t,t,g,g,a,t,t,g,c,t,c,t,g,c,a,a,a,g,t,a,a,a,g,g,a,g,t,c,a,a,c,c,a,c,a,c,a,t,g,g,a,t,a,t,c,g,t,a,a,t,g,g,a,g,a,a,c,t,g,t,a,g,a,t,a,a,a,t,g,t,g,g,g,c,c,c,t,g,a,t,1
+g,c,a,c,c,c,c,a,g,c,c,t,g,g,g,t,g,a,c,a,t,a,g,a,g,a,g,a,c,t,c,t,g,t,c,t,c,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,g,a,t,g,g,t,c,a,a,g,c,a,c,t,t,g,c,c,a,t,c,t,a,a,t,g,a,a,g,c,a,c,c,c,a,g,g,t,t,t,g,t,c,t,a,t,g,g,c,t,g,t,c,t,g,a,a,g,a,t,a,a,g,g,c,a,g,a,a,c,a,g,a,g,a,g,a,a,a,a,a,t,c,t,a,g,t,t,t,a,a,t,a,a,a,g,c,a,a,t,g,a,a,a,g,c,c,c,a,a,g,c,c,a,c,c,a,a,a,a,g,c,a,c,c,a,a,a,a,g,a,g,a,t,t,t,a,a,g,a,t,t,t,c,t,g,t,t,g,g,g,a,c,a,a,g,g,t,g,a,a,t,t,t,t,g,a,c,a,t,a,t,g,c,a,c,a,a,g,g,a,c,c,c,a,t,g,g,c,c,a,1
+t,t,c,t,t,t,g,a,g,a,a,t,g,c,a,a,g,c,g,a,a,a,t,t,a,a,a,t,c,t,g,a,a,t,a,a,a,t,a,a,t,t,c,t,t,c,c,t,c,t,t,c,a,c,t,g,g,c,t,c,g,t,t,t,c,t,t,t,t,c,c,g,t,t,c,a,c,t,c,a,g,c,a,t,c,t,g,c,t,c,t,g,t,g,g,g,a,g,g,c,c,c,t,g,g,g,t,t,a,g,t,a,g,t,g,g,g,g,a,t,g,c,t,a,a,g,g,t,a,a,g,c,c,a,g,a,c,t,c,a,c,g,c,c,t,a,c,c,c,a,t,a,g,g,g,c,t,g,t,a,g,a,g,c,c,t,a,g,g,a,c,c,t,g,c,a,g,t,c,a,t,a,t,a,a,t,t,a,a,g,g,t,g,g,t,g,a,g,a,a,g,t,c,c,t,g,t,a,a,g,a,t,g,t,a,g,a,g,g,a,a,a,t,g,t,a,a,g,a,g,a,g,g,g,g,t,g,a,g,g,g,t,g,t,g,g,c,g,c,t,1
+t,t,c,t,t,t,g,a,g,a,a,t,g,c,a,a,a,a,g,a,a,a,t,t,a,a,a,t,c,t,g,a,a,t,a,a,a,t,a,a,t,t,c,t,t,c,c,t,g,t,t,c,a,c,t,g,g,c,t,c,a,t,t,t,c,t,t,t,a,c,c,a,t,t,c,a,c,t,c,a,g,c,a,t,c,t,g,c,t,c,t,g,t,g,g,a,a,g,g,c,c,c,t,g,g,t,a,g,t,a,g,t,g,g,g,g,a,t,t,c,t,a,a,g,g,t,a,a,g,c,c,a,g,a,c,t,c,a,c,g,t,c,t,a,c,c,c,a,t,a,g,g,g,t,c,a,t,a,g,a,g,t,c,t,a,g,g,a,g,c,t,g,c,a,g,t,c,a,t,g,t,a,a,t,t,a,a,g,g,t,g,g,c,g,a,g,a,a,g,t,c,c,t,c,t,a,g,g,a,t,g,t,a,g,t,g,g,a,a,a,t,g,t,a,a,g,a,c,a,g,g,g,g,t,g,a,g,g,g,t,g,t,g,g,g,g,t,t,c,c,1
+a,c,g,t,t,t,t,c,a,g,t,a,c,g,t,g,t,t,t,c,t,c,t,t,c,a,a,t,a,a,a,c,t,t,c,a,t,t,c,a,g,t,g,t,t,c,c,a,g,c,c,g,g,c,c,t,c,g,c,c,t,c,t,g,c,t,g,t,g,g,g,a,a,a,c,t,g,g,g,g,a,t,g,a,g,g,t,t,g,g,c,t,g,g,g,g,a,t,g,g,g,g,t,t,g,g,g,g,t,g,g,a,g,t,g,a,g,g,g,c,c,a,c,a,g,t,g,g,c,t,t,t,g,t,t,a,a,c,a,c,t,g,g,t,g,t,a,t,a,c,t,t,g,g,g,g,c,t,c,g,g,t,c,t,g,c,a,a,g,g,c,a,t,t,c,t,a,g,a,a,t,g,c,c,c,t,a,t,c,t,g,c,g,c,a,t,g,t,t,g,g,t,c,a,t,g,a,g,c,t,a,g,g,g,t,t,c,a,c,g,g,c,c,c,a,c,g,g,a,c,c,c,a,g,g,c,a,a,a,g,a,a,a,c,c,c,a,g,c,t,1
+t,c,t,t,c,a,a,c,g,g,t,t,t,c,a,g,t,a,c,a,t,a,t,c,t,c,t,c,t,t,c,a,a,t,a,a,a,t,t,t,c,a,t,t,c,a,g,t,g,t,t,c,c,a,g,c,c,g,g,c,c,t,c,g,c,c,t,c,t,g,c,t,g,t,g,g,g,a,a,a,c,t,g,c,a,t,g,g,g,g,t,g,c,g,g,g,g,t,g,c,g,g,g,g,t,g,c,a,g,t,g,t,t,g,g,c,t,g,g,g,g,a,c,a,a,g,g,t,g,a,g,g,t,g,a,g,g,t,g,c,c,a,c,a,g,t,g,g,c,t,g,g,g,c,t,a,a,c,a,t,c,g,g,g,g,t,g,t,g,t,g,g,g,g,t,g,c,t,t,g,g,t,c,c,c,t,g,a,g,g,g,t,c,t,g,t,g,t,g,g,t,c,c,c,c,t,g,g,g,c,t,g,c,a,c,g,g,g,a,t,g,g,c,g,t,g,g,t,a,g,t,c,t,t,g,a,g,c,a,g,g,g,g,c,t,g,a,t,t,g,1
+c,a,g,g,c,t,c,a,c,c,a,g,c,c,a,g,c,c,t,c,c,c,t,c,c,c,t,c,c,a,g,g,a,g,c,t,a,c,g,c,t,g,c,a,t,g,t,c,c,t,g,g,c,t,c,t,c,c,c,a,t,g,t,c,c,g,t,g,c,g,g,t,t,c,c,t,g,g,g,c,t,g,c,a,c,c,t,g,a,g,a,c,t,g,t,c,a,g,c,a,a,a,g,a,g,a,t,t,c,a,g,a,g,g,g,c,t,t,g,g,g,t,c,c,c,a,c,a,g,c,t,t,c,t,c,t,g,a,g,a,g,c,c,t,c,c,c,c,a,c,c,c,c,c,a,c,c,c,t,g,c,c,t,c,a,c,c,a,g,g,g,t,c,c,t,g,a,a,g,t,c,c,t,t,g,c,t,c,g,g,t,c,c,c,a,a,g,c,c,a,t,c,a,a,g,a,g,g,c,c,a,g,g,c,t,c,c,c,c,a,c,c,c,t,t,g,c,t,t,g,g,g,g,c,a,g,c,a,t,c,t,g,c,a,c,c,t,g,a,t,1
+t,t,t,a,t,g,a,a,t,a,a,g,t,g,c,t,t,t,g,c,t,a,c,a,a,t,g,g,a,g,t,a,a,t,t,g,t,c,c,c,a,a,a,g,t,g,c,c,c,a,c,a,c,a,t,g,c,c,t,c,c,a,a,c,a,g,t,c,c,a,a,a,c,t,a,a,g,c,a,a,t,t,t,a,t,a,g,g,t,t,a,t,g,t,g,a,c,a,t,t,t,a,t,t,t,a,g,t,c,a,a,t,t,t,c,t,t,t,g,t,c,a,a,t,a,a,a,t,t,c,a,t,g,t,c,a,t,t,g,c,c,a,a,c,t,a,a,a,t,t,a,t,g,a,t,t,t,t,g,t,t,t,t,c,a,a,t,a,t,g,a,a,g,t,g,a,a,g,a,a,a,c,a,t,a,t,a,t,a,a,a,c,a,a,c,t,a,a,t,t,a,t,a,t,t,t,g,t,a,a,g,c,a,g,t,a,t,g,a,a,a,g,c,t,a,c,a,t,a,a,a,g,t,a,t,t,a,a,t,t,c,a,g,g,c,t,c,t,g,t,1
+c,c,a,a,g,g,g,t,t,c,a,t,g,g,g,g,t,t,t,t,a,a,t,g,t,g,a,g,g,g,g,t,c,t,t,a,g,g,g,g,a,a,g,a,t,g,g,g,a,t,t,g,a,a,g,g,t,a,g,g,a,a,a,t,t,g,t,c,a,g,g,a,c,a,c,g,a,a,t,t,a,t,g,c,t,t,t,g,g,a,a,a,g,a,a,a,g,g,g,a,c,t,t,g,g,g,g,c,a,g,t,c,t,t,a,t,c,c,a,c,a,g,g,t,g,t,t,t,t,g,g,t,t,g,c,t,g,a,g,t,c,a,a,t,t,c,c,a,a,t,t,g,a,a,t,t,t,t,a,g,g,a,g,t,g,g,g,a,a,g,a,a,g,a,c,a,g,t,a,a,t,t,t,t,c,c,c,c,t,g,a,g,c,t,t,a,t,c,a,a,a,g,a,g,t,t,t,t,a,t,t,t,t,t,a,a,t,t,t,t,t,a,a,t,a,c,c,a,t,a,a,t,t,t,a,a,a,c,c,a,a,a,t,t,a,a,t,t,g,a,1
+g,a,c,a,a,a,t,c,t,g,g,g,a,g,a,a,g,a,t,c,t,t,g,g,g,g,a,a,g,t,t,g,c,t,t,a,a,t,g,t,a,t,g,t,g,g,g,a,g,a,t,a,a,g,a,a,c,t,t,g,a,a,c,a,a,t,t,a,g,g,t,a,a,t,a,a,a,t,t,a,t,c,a,a,c,c,a,g,t,a,g,g,c,a,t,t,t,a,c,t,g,t,c,a,t,t,t,g,c,t,a,t,g,t,g,c,t,t,a,a,t,g,c,c,a,t,a,g,a,a,g,t,c,a,c,t,a,a,t,g,a,a,g,g,a,c,t,g,g,a,t,g,a,t,g,g,a,a,g,t,g,a,a,a,a,g,c,t,a,t,g,t,a,g,t,g,c,a,g,a,a,t,t,t,a,t,a,a,t,a,a,a,g,t,t,g,a,g,a,a,t,a,t,a,a,c,t,g,a,a,c,a,g,g,a,t,a,g,a,a,a,a,a,a,a,a,g,t,c,a,a,g,a,g,a,t,a,t,a,t,a,a,g,a,t,a,t,a,g,a,1
+a,g,c,a,g,a,t,t,c,g,t,c,t,a,g,g,a,a,t,t,c,t,c,c,a,c,a,a,g,t,t,t,g,t,c,c,t,a,a,g,g,a,g,g,a,g,g,t,t,t,t,a,a,g,t,a,a,c,c,t,c,t,g,t,c,c,t,c,c,a,a,c,t,t,t,t,c,c,a,c,t,g,a,a,a,a,t,c,t,c,a,t,g,g,a,a,g,c,t,g,t,t,t,t,a,g,t,a,t,a,t,g,a,a,a,a,g,t,a,a,a,a,t,a,t,c,t,g,g,g,t,g,t,t,g,c,t,c,a,t,c,t,g,g,t,t,a,a,a,a,t,c,c,t,a,a,t,t,c,t,t,t,c,a,c,t,t,c,t,t,a,t,a,c,a,t,g,t,a,a,t,t,t,c,a,g,t,t,a,a,t,c,t,t,t,a,a,c,c,a,a,t,a,t,g,a,a,a,c,t,c,a,g,g,a,t,t,t,t,t,t,t,g,g,a,c,a,a,a,t,t,g,t,g,a,c,a,a,c,t,a,t,g,g,c,c,t,t,a,c,1
+t,g,a,g,g,a,c,c,a,a,a,c,a,g,a,t,t,c,g,a,g,a,a,c,g,a,g,t,g,c,t,c,t,a,t,g,t,t,t,t,t,a,c,t,a,a,a,a,a,a,t,a,a,g,a,c,t,c,t,t,a,c,c,a,t,g,t,t,a,t,t,t,t,a,c,t,a,a,g,g,g,c,t,t,t,g,a,t,c,c,t,t,c,t,a,t,a,a,a,g,a,c,c,g,a,t,a,t,g,t,t,c,t,t,g,c,c,t,t,a,a,g,g,a,a,t,a,t,c,t,c,c,t,g,a,t,c,c,t,t,a,a,c,t,t,a,t,t,g,c,t,g,t,c,a,a,c,t,t,g,c,a,a,t,a,c,a,a,g,t,t,g,g,t,t,t,g,t,t,c,c,t,g,g,a,t,g,c,t,g,a,c,t,a,a,t,a,a,t,g,g,a,t,t,t,t,a,a,a,a,c,t,g,t,c,a,g,a,a,a,c,a,t,c,a,t,t,g,t,a,g,t,t,g,a,a,g,t,t,c,a,a,a,g,a,c,t,g,a,c,1
+g,c,c,g,a,g,a,t,c,g,c,g,c,c,a,t,t,g,c,a,c,t,c,t,a,g,c,c,t,g,g,g,c,a,a,c,a,a,g,a,g,c,a,a,a,a,c,t,g,t,t,t,c,a,a,a,a,a,a,a,a,a,a,a,a,a,a,g,a,a,g,a,a,g,a,a,a,g,a,a,a,a,g,a,a,a,a,a,g,a,g,g,t,t,t,g,c,t,c,t,g,a,g,t,g,t,c,c,a,g,t,g,t,a,t,a,c,a,c,a,c,a,t,c,g,t,t,t,c,t,c,c,a,t,a,g,t,a,g,g,t,a,c,a,g,a,t,a,t,t,c,c,t,a,t,t,c,a,a,c,c,a,t,t,g,g,a,a,c,t,g,g,g,g,a,a,g,g,t,g,a,g,t,g,a,c,c,t,g,c,c,c,a,a,g,g,c,c,a,c,a,c,a,g,a,t,a,g,t,g,a,t,g,g,a,g,c,c,a,g,g,a,t,t,c,a,a,a,c,t,g,g,t,t,a,a,c,t,g,c,c,c,c,t,t,t,c,t,c,a,1
+t,a,a,t,t,t,c,a,a,t,t,t,t,t,c,t,t,t,t,g,t,t,t,a,t,t,t,t,g,t,a,a,g,c,t,c,t,g,t,g,g,t,g,g,t,t,t,a,t,a,a,a,a,t,t,g,t,a,g,c,c,a,g,g,c,a,t,c,a,g,c,a,g,t,t,c,t,t,g,t,a,g,t,a,c,t,g,c,t,g,a,t,g,t,g,t,a,c,a,a,a,c,t,t,c,t,g,t,a,a,a,a,a,c,t,t,t,a,t,t,t,t,t,a,c,a,g,a,a,t,t,g,a,g,t,a,a,a,a,a,a,t,a,c,c,t,a,t,t,g,t,g,t,t,g,c,c,a,t,g,a,g,t,a,a,a,t,t,g,g,t,g,t,g,t,c,t,a,t,g,t,a,t,a,a,t,g,t,a,a,a,g,a,t,t,g,c,t,c,t,a,g,c,t,g,g,c,t,g,a,g,g,g,g,a,a,a,a,t,g,t,g,a,g,g,t,c,a,t,t,a,t,t,a,c,t,a,t,t,t,t,c,t,t,t,a,c,t,c,t,1
+t,t,t,g,t,c,a,a,a,t,c,t,a,t,g,c,t,a,t,g,c,g,c,a,t,a,t,g,t,a,t,t,a,a,a,a,t,g,t,t,g,g,t,g,g,a,a,t,c,a,g,t,a,g,c,c,g,t,g,g,g,a,t,g,c,a,g,a,a,t,t,g,t,g,a,g,a,t,g,c,a,g,g,c,t,a,a,t,t,t,t,a,t,c,t,t,t,a,c,g,t,t,a,g,a,g,g,a,a,a,g,t,a,a,t,a,g,t,g,a,a,t,g,g,a,a,g,a,a,c,c,a,g,a,t,t,c,a,t,c,a,t,t,t,t,a,t,g,g,a,a,a,a,t,a,a,t,a,t,t,g,a,t,t,g,g,t,t,a,c,a,a,a,a,g,t,g,g,c,t,g,c,c,g,g,a,a,a,c,c,t,c,t,c,c,a,a,c,c,t,c,t,c,c,t,g,a,g,g,a,c,t,c,a,c,a,a,c,t,t,c,t,t,t,a,t,a,g,a,t,g,a,g,a,a,t,t,a,c,g,a,a,a,g,a,g,t,c,t,c,1
+c,t,t,c,a,t,a,c,a,g,g,g,a,t,g,g,t,g,t,t,c,a,a,a,a,a,a,c,t,t,g,t,a,a,a,t,a,a,a,g,g,a,a,c,c,a,t,a,a,t,c,a,a,t,t,t,t,c,t,t,t,t,c,t,t,t,c,t,t,t,c,t,c,t,t,t,t,t,c,t,t,t,t,t,t,c,t,t,t,t,g,c,c,a,t,t,a,g,t,t,g,a,t,t,t,c,c,t,t,t,a,g,g,g,t,g,t,t,g,g,a,g,g,g,g,g,t,g,g,a,a,a,a,g,g,t,a,t,t,g,a,g,a,a,t,g,g,t,c,t,t,t,t,t,a,a,t,c,t,c,t,t,g,c,a,a,c,a,t,t,t,g,g,a,a,a,g,a,g,t,t,a,g,g,g,a,a,a,t,g,c,t,c,a,g,a,g,g,c,a,g,t,c,g,g,c,c,t,g,g,c,c,g,g,c,c,t,g,g,g,g,a,t,c,t,c,a,t,c,t,g,g,g,a,a,a,g,c,c,a,g,g,c,a,c,c,c,t,c,c,1
+t,g,t,t,g,a,g,a,t,g,a,t,a,t,t,t,a,a,c,t,t,t,t,t,g,c,c,a,a,a,t,a,a,a,a,t,a,t,a,t,t,g,a,t,t,c,t,t,t,t,c,t,a,t,t,t,t,t,t,g,c,g,g,g,t,c,t,g,c,t,c,t,t,t,g,c,a,c,c,t,t,c,t,t,c,t,c,t,g,g,g,t,c,a,g,g,g,g,a,g,c,c,t,a,t,g,t,a,g,a,g,t,c,t,c,t,g,g,g,t,a,g,g,g,g,c,g,g,g,t,t,g,g,g,g,t,g,g,t,g,a,g,a,a,a,g,a,g,c,c,c,c,a,a,t,t,t,t,g,c,c,t,c,t,g,g,c,t,g,g,c,t,t,t,c,a,g,g,a,g,c,g,g,g,a,c,c,t,g,c,c,a,c,a,a,c,c,a,g,t,c,c,g,c,c,g,a,g,c,t,a,a,g,c,t,c,t,c,c,c,a,a,a,c,a,g,g,c,c,a,g,c,t,g,c,c,t,g,g,c,g,g,c,g,a,g,a,a,a,a,1
+g,a,t,g,c,a,t,t,g,t,c,a,t,g,c,a,t,a,t,t,t,t,t,t,g,t,a,g,a,a,t,a,a,a,t,t,c,t,c,c,t,t,t,g,c,t,a,t,a,a,g,t,a,g,c,t,t,a,t,t,t,t,t,c,t,c,c,c,c,c,t,c,t,t,t,t,t,t,c,a,a,g,g,c,t,c,a,t,a,a,c,g,g,g,t,t,c,t,t,t,t,t,c,t,t,c,t,t,t,t,a,g,t,c,t,a,a,c,t,t,c,g,t,a,a,a,t,a,a,a,a,t,t,c,g,t,c,a,c,a,a,t,t,t,a,t,c,c,t,c,t,t,t,t,t,t,c,a,a,t,t,t,t,a,a,t,a,c,a,t,t,t,a,t,t,a,a,g,g,c,g,g,c,a,t,g,t,t,c,a,a,a,g,t,c,t,t,c,a,a,t,g,g,a,c,a,g,c,a,a,c,a,a,a,a,c,a,g,a,a,a,g,c,c,a,a,a,a,a,a,t,g,a,c,t,a,g,g,g,c,t,t,c,t,a,a,t,a,a,g,1
+c,t,c,c,a,a,c,t,g,g,a,t,g,t,t,g,a,c,g,t,a,t,a,t,a,t,a,a,a,c,a,g,a,a,c,t,c,c,c,t,t,c,a,a,a,a,g,c,c,a,a,a,a,c,t,g,t,c,t,t,c,a,g,t,c,a,g,t,c,t,t,t,c,c,t,c,a,c,a,t,c,a,g,t,g,a,a,c,c,a,a,g,a,g,c,t,a,a,g,a,g,a,t,t,c,a,c,a,t,t,t,a,a,t,t,a,g,c,t,c,c,a,g,t,a,t,a,a,a,g,t,t,g,t,t,g,t,g,a,g,g,a,t,g,g,g,g,c,c,c,t,t,a,t,t,c,c,a,c,t,c,c,t,c,t,t,c,c,t,t,c,t,t,t,t,t,g,g,a,t,t,g,t,c,a,g,g,c,a,g,a,g,t,t,c,t,g,a,t,a,t,a,t,t,c,c,a,c,c,c,t,t,g,a,a,a,t,g,g,a,g,t,g,t,t,t,t,t,a,g,t,a,a,a,c,c,c,t,t,g,c,a,t,c,c,c,t,t,c,c,1
+a,t,c,c,t,a,g,a,a,c,a,g,a,a,a,c,a,g,c,a,c,c,t,a,a,a,a,c,a,c,t,a,a,g,a,g,a,a,a,a,c,c,a,g,c,c,a,a,a,a,c,t,c,a,c,a,a,g,a,c,c,a,c,a,c,a,c,c,a,g,g,t,g,t,c,a,t,c,t,t,g,g,t,c,t,t,c,a,g,a,t,t,c,a,g,a,a,g,t,c,a,c,t,t,g,g,g,t,g,c,c,t,g,a,g,g,g,c,a,a,g,a,c,a,a,c,a,g,g,c,t,t,t,g,c,a,t,g,a,t,t,t,a,t,g,a,t,t,g,c,t,g,a,a,a,c,c,a,c,a,c,c,a,a,g,a,a,a,g,a,g,c,t,a,a,c,c,a,c,a,g,a,t,a,t,t,t,a,a,g,a,c,a,a,g,a,c,c,t,g,t,a,t,g,a,g,a,a,g,a,a,a,a,g,g,a,c,c,t,t,a,a,g,a,a,a,a,t,g,c,t,g,a,a,c,a,g,g,g,c,c,a,g,g,t,g,g,t,g,g,1
+a,t,c,c,t,a,g,a,a,c,a,g,a,a,a,c,a,g,c,a,c,c,t,a,a,a,a,c,a,c,t,a,a,g,a,g,a,a,a,a,c,c,a,g,c,c,a,a,a,a,c,t,c,a,c,a,a,g,a,c,c,a,c,a,c,a,c,c,a,g,g,t,g,t,c,a,t,c,t,t,g,g,t,c,t,t,c,a,g,a,t,t,c,a,g,a,a,g,t,c,a,c,t,t,g,g,g,t,g,c,c,t,g,a,g,g,g,c,a,a,g,a,c,a,a,c,a,g,g,c,t,t,t,g,c,a,t,g,a,t,t,t,a,t,g,a,t,t,g,c,t,g,a,a,a,c,c,a,c,a,c,c,a,a,g,a,a,a,g,a,g,c,t,a,a,c,c,a,c,a,g,a,t,a,t,t,t,a,a,g,a,c,a,a,g,a,c,c,t,g,t,a,t,g,a,g,a,a,g,a,a,a,a,g,g,a,c,c,t,t,a,a,g,a,a,a,a,t,g,c,t,g,a,a,c,a,g,g,g,c,c,a,g,g,t,g,g,t,g,g,1
+a,g,c,c,a,c,t,g,t,g,t,c,c,c,a,c,c,a,a,t,c,t,t,t,a,c,a,t,t,t,a,a,t,a,t,g,a,c,t,a,t,t,t,t,c,t,t,a,t,t,g,t,t,t,g,a,a,c,a,t,g,t,t,g,a,t,c,a,g,t,t,c,c,t,g,a,t,c,a,c,a,a,t,a,t,g,g,g,g,c,c,t,a,t,c,c,t,a,t,a,t,g,g,g,t,c,c,t,a,g,a,g,t,g,g,t,t,g,g,a,t,t,t,t,a,t,t,t,t,t,t,a,a,c,c,t,a,a,a,c,a,c,a,g,a,c,c,c,t,a,g,g,t,t,t,g,a,a,a,g,g,g,t,g,t,a,c,t,g,g,g,t,c,t,g,t,t,a,g,a,c,t,t,a,t,a,g,g,c,a,t,t,t,t,t,t,t,t,t,t,t,t,t,t,a,a,t,a,c,t,t,a,g,c,c,a,t,g,c,a,t,c,t,c,t,t,g,c,a,t,t,g,t,c,a,c,t,c,c,t,t,t,a,g,g,a,g,t,g,c,1
+c,t,g,a,g,c,a,g,a,a,a,c,c,a,a,c,a,g,t,g,t,g,c,t,t,t,t,a,a,t,a,a,a,g,g,a,c,c,t,c,t,a,g,c,t,g,t,g,c,a,g,g,a,t,g,c,a,a,a,c,g,t,c,t,c,g,g,g,g,t,c,a,g,t,g,a,c,t,g,c,c,t,c,c,t,g,c,c,c,c,t,g,t,t,g,g,t,c,c,c,t,a,g,g,c,a,g,t,g,g,g,g,g,c,a,g,a,a,g,c,t,c,c,c,a,g,c,t,g,a,c,c,t,g,t,t,t,c,t,c,t,g,g,g,a,t,g,a,g,a,g,g,g,a,g,g,a,g,a,g,a,a,g,g,g,c,a,g,t,c,a,g,c,a,g,g,g,g,c,a,g,c,t,g,t,t,g,c,a,g,a,t,g,g,g,a,g,g,a,a,t,a,g,t,c,t,c,c,c,a,c,a,a,a,a,a,a,g,g,t,t,t,c,a,g,t,g,a,c,a,g,a,c,a,c,g,g,g,g,t,c,t,c,t,a,a,a,a,a,t,1
+g,a,t,g,c,c,c,a,g,g,a,t,c,t,t,t,t,a,c,c,a,c,a,a,c,c,c,c,t,c,t,g,t,a,a,t,a,a,a,a,g,a,g,a,t,t,t,g,a,c,a,c,t,a,g,t,c,t,c,c,a,g,g,c,c,c,a,t,g,t,g,a,c,t,t,t,t,g,g,c,c,t,g,a,t,g,t,g,g,g,a,c,c,a,g,a,c,t,g,g,g,g,t,c,c,c,t,g,g,g,a,g,g,a,t,g,g,g,c,a,t,c,a,c,t,a,a,g,g,c,a,a,g,a,g,g,c,a,c,t,t,g,g,t,a,c,t,a,a,g,c,t,a,a,g,g,g,t,g,g,g,g,g,t,t,t,g,g,g,g,c,a,g,g,g,g,t,g,a,a,c,a,a,g,c,a,a,a,g,t,c,c,a,c,c,t,g,g,g,a,t,t,t,t,c,a,g,g,a,g,c,t,g,g,g,a,g,c,t,t,c,a,g,g,t,g,a,g,c,t,g,t,g,g,g,c,c,c,t,t,c,t,c,c,a,t,c,a,c,c,1
+c,a,c,a,c,c,t,c,t,t,c,a,a,g,g,g,a,g,c,g,t,g,a,a,c,t,t,t,a,t,a,a,a,t,a,a,a,t,c,a,g,t,t,c,t,g,t,t,t,a,c,c,a,g,t,g,g,c,t,c,c,t,a,t,c,a,c,c,t,a,c,a,c,t,t,c,c,c,a,g,g,t,g,a,c,g,g,c,c,a,g,a,c,t,t,c,c,g,t,g,g,t,c,a,c,t,a,c,t,c,c,t,c,a,a,a,c,c,c,t,g,c,t,g,c,c,t,c,c,t,c,c,g,t,a,g,g,g,t,g,g,g,t,c,t,g,g,g,t,g,a,g,a,t,c,t,g,g,a,g,t,g,c,a,g,c,c,a,g,g,c,c,g,t,t,g,a,t,a,g,c,g,g,a,g,c,c,a,t,t,g,g,g,a,c,a,c,c,t,t,g,t,g,a,g,g,c,t,g,g,g,g,g,c,a,t,c,c,t,c,c,a,g,g,a,g,g,t,g,g,t,g,g,g,c,t,g,g,t,g,g,g,t,t,g,t,c,c,a,g,1
+t,t,t,a,a,c,c,t,t,g,t,a,a,c,g,c,t,t,g,c,a,a,t,c,c,c,a,a,t,a,a,a,g,c,a,t,t,a,a,a,a,g,t,c,a,t,g,a,t,c,t,t,c,t,g,a,g,t,g,t,t,c,c,a,c,t,c,t,c,t,g,a,c,t,t,g,g,g,t,a,c,t,g,g,a,c,t,g,c,c,a,g,a,g,g,g,a,g,g,g,a,a,g,g,g,g,c,t,g,a,g,c,a,c,c,t,g,g,a,a,g,c,a,g,g,c,a,g,a,g,g,g,g,g,a,t,a,g,a,a,g,a,g,g,g,a,a,g,g,g,g,a,a,g,g,a,a,g,g,c,c,t,t,a,g,g,g,g,t,g,t,g,g,a,c,a,c,c,t,c,t,c,t,c,c,g,t,c,c,c,c,t,g,a,t,c,a,c,a,t,a,c,a,t,g,g,a,g,a,a,a,t,g,a,g,a,g,a,g,c,t,g,g,a,a,g,c,c,a,g,a,c,t,c,t,c,a,g,a,c,t,c,a,c,t,g,t,c,g,t,1
+a,t,t,t,c,t,g,t,t,g,c,a,t,g,a,g,a,a,c,t,c,t,c,t,g,c,a,t,t,a,t,c,c,t,c,a,c,c,a,t,t,t,t,c,c,t,g,t,a,a,g,c,g,t,a,a,a,a,c,g,t,c,t,a,a,a,a,c,t,t,t,t,t,t,a,t,g,a,g,c,a,c,a,c,t,a,a,t,t,c,c,t,c,a,c,t,t,a,a,g,g,t,c,g,t,c,a,t,t,a,g,g,t,t,c,t,t,g,g,a,a,a,t,g,g,c,a,a,c,t,t,t,a,a,a,c,a,a,a,a,g,g,a,c,a,g,a,c,a,g,c,a,g,g,t,c,c,t,c,a,a,a,t,a,a,c,a,t,t,c,t,t,t,c,c,t,t,c,a,a,c,a,t,c,a,t,t,t,c,a,t,c,c,t,a,a,g,g,a,g,a,a,a,a,a,a,a,t,g,g,a,t,t,t,t,g,t,t,a,c,a,t,a,t,c,c,t,g,g,t,t,c,a,t,t,t,c,c,a,a,g,a,a,c,c,a,g,g,t,g,1
+c,a,g,a,g,c,g,a,g,a,c,t,c,c,a,c,c,t,c,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,g,a,t,t,c,a,t,t,a,t,g,a,a,g,a,g,c,a,a,a,a,g,a,a,c,a,a,a,g,c,t,t,c,c,a,c,a,g,c,a,t,g,g,a,a,g,g,g,g,a,c,c,c,a,a,g,t,g,g,a,t,t,g,c,t,g,c,t,g,c,t,g,g,c,t,g,g,c,g,g,g,g,g,t,g,g,g,g,g,g,g,t,g,g,g,g,c,a,g,c,t,t,t,t,a,t,t,c,c,c,t,t,a,t,t,t,c,t,c,c,c,c,t,c,c,c,a,t,g,t,t,c,t,g,t,t,t,c,t,g,c,c,c,t,a,t,c,g,g,a,a,t,g,c,c,c,t,t,t,t,t,t,c,a,a,t,c,t,t,t,c,c,t,g,c,a,a,t,t,g,g,c,t,a,c,t,t,t,t,a,g,g,a,t,c,c,t,g,c,t,g,a,t,t,g,g,t,g,c,g,t,t,t,t,1
+t,t,a,c,a,t,g,t,t,t,g,c,a,c,c,t,t,t,c,t,a,g,t,t,g,a,a,a,a,t,a,a,a,g,t,g,t,a,t,a,t,t,t,t,t,t,c,t,a,t,a,a,a,g,g,g,c,t,t,g,g,t,t,a,t,t,c,a,t,t,t,a,t,c,c,t,t,c,t,a,a,a,c,a,t,t,t,c,t,g,a,g,t,t,t,t,c,t,t,g,a,g,c,a,t,a,a,a,t,a,g,g,a,a,g,t,t,c,t,t,a,t,t,a,a,t,c,a,t,a,a,g,a,t,a,a,t,t,c,a,c,c,a,a,t,a,a,t,t,t,t,c,t,a,a,a,t,a,t,c,t,t,t,a,a,t,t,a,t,t,c,t,a,t,a,c,a,t,t,a,a,t,a,a,a,t,t,g,a,t,t,a,t,t,c,c,a,t,a,g,a,a,t,t,t,t,t,a,t,g,t,a,a,a,c,a,t,a,c,t,t,c,a,c,a,c,t,g,a,a,t,c,a,a,g,t,a,t,c,a,c,a,g,a,c,t,t,g,c,a,1
+g,a,a,c,a,c,a,g,t,t,g,a,a,t,t,t,t,t,t,c,t,a,a,a,a,a,g,a,a,a,a,a,g,a,g,a,t,a,a,a,t,g,a,g,c,t,t,t,c,c,a,g,a,t,t,t,c,a,g,a,t,t,c,t,g,t,a,t,t,t,a,t,c,t,t,c,a,g,a,t,t,t,t,g,t,c,t,g,c,a,a,c,t,a,t,t,t,t,t,t,a,t,t,t,t,t,t,a,a,a,g,a,a,a,t,g,a,a,a,t,a,t,c,t,t,c,t,c,t,g,c,t,t,g,c,a,a,g,c,t,g,a,t,t,t,g,g,a,a,a,a,t,t,c,a,g,a,g,a,g,g,g,a,g,t,g,g,a,g,a,t,t,a,t,c,t,g,g,a,c,a,g,c,c,t,c,a,t,t,t,t,a,c,c,c,c,a,g,a,g,c,a,t,c,a,g,a,a,g,c,c,t,g,a,a,a,g,a,g,c,a,g,g,t,t,c,t,g,a,g,a,c,c,t,t,c,c,c,t,g,c,c,c,c,c,a,a,g,c,c,1
+g,g,t,c,t,c,t,a,c,t,a,a,a,a,a,t,a,c,a,a,a,a,a,t,t,a,g,c,t,g,g,g,t,g,t,g,g,t,g,g,t,g,g,g,c,a,c,c,t,g,t,a,a,t,c,c,t,a,g,c,t,a,c,t,c,a,g,g,a,a,g,c,t,g,a,g,g,g,a,g,g,a,g,a,a,t,t,g,c,t,t,g,a,a,c,c,c,a,g,g,a,g,g,t,g,g,a,g,g,t,t,g,c,a,g,t,g,a,g,c,t,g,a,g,a,t,c,a,t,g,c,c,a,c,t,g,c,a,c,t,c,c,a,g,c,c,c,g,c,g,t,g,a,c,a,g,a,g,c,g,a,g,a,c,t,g,c,t,t,c,t,c,a,g,a,a,a,a,c,a,a,a,c,a,a,a,t,a,a,a,t,a,a,a,t,a,a,a,t,a,a,a,t,a,a,a,a,g,a,a,a,a,g,a,a,t,g,t,a,a,t,t,c,t,t,t,t,a,g,c,a,t,a,t,a,a,a,c,a,g,g,a,t,a,t,t,g,a,t,c,1
+t,t,t,a,t,a,t,g,a,g,a,t,g,t,g,c,a,t,t,t,t,g,a,t,g,a,g,c,a,a,a,t,a,a,a,a,g,c,a,g,t,a,a,a,g,a,c,a,c,t,t,g,t,a,c,a,c,g,g,g,a,g,t,t,c,t,g,c,a,a,g,t,g,g,g,a,g,t,a,a,a,t,g,g,t,g,t,a,g,g,a,g,a,a,a,t,c,c,g,g,t,g,g,g,a,a,g,a,a,a,g,a,c,c,t,c,t,a,t,a,g,g,a,c,a,g,g,a,c,t,t,c,t,c,a,g,a,a,a,c,a,g,a,t,g,t,t,t,t,g,g,a,a,g,a,g,a,t,g,g,g,a,a,a,a,g,g,t,t,c,a,g,t,g,a,a,g,a,c,c,t,g,g,g,g,g,c,t,g,g,a,t,t,g,a,t,t,g,c,a,g,c,t,g,a,g,t,a,g,c,a,a,g,g,a,t,g,g,t,t,c,t,t,a,a,g,g,a,a,g,g,g,a,a,a,g,t,g,t,t,c,c,a,a,g,c,t,t,t,a,1
+a,a,a,a,g,a,g,a,a,a,a,g,c,a,a,g,g,g,a,a,c,c,g,t,a,c,a,a,g,g,c,a,t,t,a,a,t,g,g,g,t,g,a,c,a,c,t,t,c,t,a,c,c,t,c,c,a,a,a,g,a,g,c,a,g,a,a,a,t,t,a,t,c,a,a,g,a,a,c,t,c,t,t,g,a,t,a,c,a,a,a,g,a,t,a,a,t,a,c,t,g,g,c,a,c,t,g,c,a,g,a,g,g,t,t,c,t,a,g,g,g,a,a,g,a,c,c,t,c,a,a,c,c,c,t,a,a,g,a,c,a,t,a,g,c,c,t,c,a,a,g,g,g,t,a,a,t,g,c,t,a,c,g,a,t,t,a,a,a,c,t,c,c,a,a,c,a,a,t,t,a,c,t,g,a,g,a,a,a,a,t,a,a,t,g,t,g,c,t,c,a,a,t,t,a,a,a,g,g,c,a,t,a,a,t,g,a,t,t,a,c,t,c,a,a,g,a,c,a,a,t,g,t,t,a,t,g,t,t,g,t,c,t,t,t,c,t,t,c,c,1
+g,g,g,c,c,t,t,g,a,g,c,a,t,c,t,g,g,a,t,t,c,t,g,c,c,t,a,a,t,a,a,a,a,a,a,c,a,t,t,t,a,t,t,t,t,c,a,t,t,g,c,a,a,t,g,a,t,g,t,a,t,t,t,a,a,a,t,t,a,t,t,t,c,t,g,a,a,t,a,t,t,t,t,a,c,t,a,a,a,a,a,g,g,g,a,a,t,g,t,g,g,g,a,g,g,t,c,a,g,t,g,c,a,t,t,t,a,a,a,a,c,a,t,a,a,a,g,a,a,a,t,g,a,a,g,a,g,c,t,a,g,t,t,c,a,a,a,c,c,t,t,g,g,g,a,a,a,a,t,a,c,a,c,t,a,t,a,t,c,t,t,a,a,a,c,t,c,c,a,t,g,a,a,a,g,a,a,g,g,t,g,a,g,g,c,t,g,c,a,a,a,c,a,g,c,t,a,a,t,g,c,a,c,a,t,t,g,g,c,a,a,c,a,g,c,c,c,c,t,g,a,t,g,c,a,t,a,t,g,c,c,t,t,a,t,t,c,a,t,c,1
+c,c,c,a,a,c,a,g,a,t,t,c,a,t,a,c,c,a,g,a,a,t,g,c,t,t,a,g,a,c,t,c,t,t,t,t,c,t,c,t,g,a,a,a,a,g,a,t,a,t,t,g,a,g,a,g,a,t,a,t,t,g,a,g,a,t,g,t,a,t,t,g,c,c,t,a,a,a,a,a,a,a,a,g,a,a,a,g,a,a,a,a,g,c,a,g,c,a,a,c,a,a,t,a,a,t,a,a,a,c,a,a,a,a,a,t,c,a,g,t,g,c,c,a,t,a,a,a,a,a,a,g,a,a,a,a,a,a,t,t,a,t,t,a,a,a,a,t,t,g,t,a,g,a,t,t,t,a,c,t,c,t,g,a,g,t,c,c,a,t,g,a,c,a,a,a,t,g,a,c,c,t,t,a,a,a,a,a,a,t,a,t,t,t,a,a,a,t,a,t,a,g,t,c,a,g,a,g,a,a,t,c,a,a,c,a,a,a,c,a,a,g,t,t,c,c,a,t,t,g,t,g,t,c,a,g,c,c,t,g,g,a,c,a,c,a,t,g,t,a,1
+a,g,c,a,a,a,t,t,c,g,t,g,a,c,c,a,t,a,t,t,g,t,g,a,a,a,g,t,g,t,t,t,t,t,c,t,t,c,a,a,a,a,a,a,g,t,a,a,c,t,t,g,a,t,c,g,t,t,a,g,t,g,a,c,t,c,c,t,a,t,a,g,a,g,a,t,t,t,a,g,g,g,t,t,g,g,t,t,c,t,a,a,g,t,a,a,a,a,a,c,c,t,a,a,a,t,a,t,a,a,t,g,a,a,a,g,t,c,a,c,a,g,a,t,c,a,a,t,a,t,t,c,t,c,a,a,a,c,t,a,c,t,a,g,c,t,c,a,a,c,a,c,a,t,a,c,c,t,g,t,a,a,t,t,c,t,a,g,c,t,a,t,g,t,c,t,c,a,c,t,t,t,t,t,a,g,t,a,t,t,t,g,c,t,t,t,g,a,a,t,c,t,a,t,a,t,t,t,t,g,a,t,a,a,a,t,t,t,g,g,a,a,t,c,a,t,t,t,a,t,c,t,g,t,g,t,c,t,t,a,t,t,t,a,c,t,t,t,a,t,1
+c,a,c,a,t,t,a,g,a,g,a,t,a,a,g,g,t,a,g,t,a,a,a,a,a,c,a,t,t,c,t,g,t,t,c,c,a,a,a,g,a,t,g,a,g,g,c,t,t,g,a,a,a,t,t,t,g,a,t,t,g,a,a,a,t,a,g,t,t,t,c,t,t,c,a,t,a,a,a,g,a,t,a,a,t,a,g,c,t,c,a,c,c,t,a,t,t,a,c,t,a,g,a,c,c,t,a,t,g,a,g,a,t,c,c,a,g,t,c,a,a,t,g,g,t,t,t,g,g,g,g,t,a,t,c,a,t,t,a,t,g,a,t,t,g,a,t,g,a,a,t,a,a,a,t,t,a,a,t,g,t,g,t,c,t,g,t,a,t,a,c,a,c,a,c,a,c,c,t,a,c,a,a,a,c,a,t,a,t,a,t,a,c,a,c,a,t,a,t,a,t,a,t,t,c,a,t,a,t,c,t,c,t,g,c,a,a,g,c,a,t,t,t,t,t,c,t,a,g,g,t,a,t,a,t,t,a,a,t,a,g,a,a,a,t,g,a,a,a,a,1
+t,g,c,a,g,g,a,a,c,a,a,g,g,a,a,t,g,g,a,a,a,a,g,g,a,a,g,a,g,t,a,c,c,t,a,a,t,a,c,a,t,a,c,g,a,g,g,t,t,c,t,g,a,a,t,g,c,a,a,t,t,t,t,a,t,g,a,a,a,t,t,t,c,a,g,t,g,a,g,a,g,a,a,a,t,g,t,c,t,t,g,t,c,a,t,a,a,a,a,a,t,t,a,t,a,t,t,c,t,a,a,t,a,t,g,t,g,g,c,t,t,t,a,t,t,g,g,c,t,c,t,c,t,t,c,t,g,t,a,t,t,t,a,a,a,t,a,c,a,t,t,g,a,a,t,t,t,c,t,c,c,a,t,c,t,g,c,t,t,t,t,c,a,t,a,c,c,a,c,a,t,t,t,t,g,a,g,a,t,c,t,g,t,t,g,c,t,g,c,a,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,g,a,g,a,c,a,g,a,g,t,c,t,t,g,c,t,c,t,g,t,t,g,c,c,c,a,g,g,c,t,g,g,1
+c,t,a,a,a,c,a,g,a,t,t,a,g,a,g,t,g,a,g,a,g,t,t,g,t,a,g,c,a,a,a,a,t,t,g,t,g,t,c,a,a,t,g,g,a,a,g,a,t,t,t,a,a,c,a,g,t,c,a,t,a,t,g,t,g,a,c,a,g,a,a,a,a,c,c,t,g,g,a,a,a,t,g,t,c,t,g,g,t,a,a,g,a,t,a,t,t,t,a,a,g,g,t,a,a,a,t,t,t,g,a,g,a,a,a,c,c,t,a,a,t,a,t,t,t,g,a,c,a,c,c,a,a,g,a,a,t,t,a,t,c,a,a,c,a,c,a,t,a,t,t,t,t,t,a,t,c,g,t,t,a,t,c,a,c,a,g,a,c,t,t,a,t,t,t,t,a,t,t,c,a,c,t,c,t,a,g,a,t,a,c,t,g,a,g,a,a,t,g,g,g,a,a,t,a,a,a,a,c,t,g,t,a,a,c,c,a,g,g,a,a,g,t,a,c,g,t,t,g,c,c,t,t,a,t,g,t,c,c,c,c,a,t,t,t,c,a,g,t,t,1
+g,t,g,t,c,a,a,c,g,g,a,a,g,a,t,t,t,a,a,c,a,g,t,c,a,t,a,t,g,t,g,a,c,a,g,a,a,a,a,c,c,t,g,g,a,a,a,t,g,t,c,t,g,g,t,a,a,g,a,t,a,t,t,t,a,a,g,g,t,a,a,a,t,t,t,g,a,g,a,a,a,c,c,t,a,a,t,a,t,t,t,g,a,c,a,c,c,a,a,g,a,a,t,t,a,t,c,a,a,c,a,c,a,t,a,t,t,t,t,t,g,t,t,g,t,t,g,t,c,a,t,a,g,a,g,t,t,a,t,t,t,t,a,t,t,c,a,c,t,c,t,g,g,a,t,a,c,t,g,c,g,a,a,t,g,a,g,a,a,t,a,g,a,a,c,t,a,t,a,a,a,c,a,g,g,a,a,g,t,a,c,g,t,t,g,c,c,t,t,a,t,g,t,c,c,c,c,a,t,t,t,c,a,g,t,t,a,a,g,c,a,g,a,a,t,a,a,a,a,a,t,a,a,a,t,g,t,c,t,t,a,t,g,a,t,a,g,c,a,t,1
+t,c,c,c,g,c,c,t,g,t,g,c,t,a,a,a,c,c,c,c,a,t,t,g,t,c,t,a,c,a,g,t,g,t,g,a,a,g,a,c,c,a,a,g,c,a,a,a,t,t,t,g,a,a,g,a,a,t,g,a,t,c,t,t,t,c,a,a,g,t,g,t,t,c,c,a,g,a,g,g,c,a,a,a,a,a,a,a,a,t,a,g,g,g,t,c,t,a,g,t,a,g,a,a,t,g,g,a,a,t,c,a,t,g,t,g,t,a,a,g,a,a,g,c,a,g,a,g,t,a,a,g,t,a,t,c,c,a,c,t,g,g,a,a,g,a,a,t,t,a,a,t,t,a,t,t,t,a,a,t,t,t,t,c,c,a,c,a,g,t,t,a,t,g,g,t,g,c,a,t,c,a,a,a,t,t,t,t,g,c,a,c,a,t,c,t,g,g,g,g,a,a,a,t,g,c,a,g,g,a,g,t,g,g,g,t,a,a,g,g,c,t,t,g,t,g,g,g,t,g,a,a,g,a,t,a,c,a,t,a,a,c,a,g,g,t,c,a,t,t,1
+t,g,g,t,g,c,t,c,a,g,t,g,a,g,t,a,g,g,a,t,g,t,c,c,c,t,c,c,g,t,g,t,t,t,g,g,t,g,g,t,a,c,a,g,g,g,c,t,c,c,t,g,a,t,a,c,t,a,a,a,g,t,t,t,c,t,g,t,g,a,g,a,a,c,t,c,a,g,c,t,c,a,c,c,a,a,g,c,a,t,g,a,a,a,t,g,a,t,c,a,t,t,c,a,c,g,t,a,c,a,c,a,t,a,a,g,t,g,c,a,t,a,t,a,t,g,t,g,c,a,t,g,t,a,g,c,t,t,c,c,t,g,t,c,c,c,t,g,g,a,a,g,t,a,t,g,c,c,t,g,t,g,t,a,t,a,t,t,g,a,t,g,c,a,a,a,c,t,t,a,c,a,a,g,c,c,c,c,a,a,a,g,a,a,t,g,a,a,c,a,t,g,a,t,c,c,a,c,c,c,a,c,t,g,g,t,a,c,a,t,t,a,c,a,t,a,t,c,a,a,t,g,a,c,a,t,a,g,g,a,a,g,g,g,c,c,a,g,a,g,1
+c,c,a,a,a,c,a,g,a,t,c,g,g,g,g,a,c,a,g,g,g,t,t,a,t,c,c,a,a,g,g,a,t,g,t,t,g,t,g,g,a,a,a,c,a,t,c,c,c,c,t,g,a,g,c,a,a,a,g,g,g,t,c,a,g,t,g,t,a,t,c,c,c,c,a,t,c,a,c,t,t,a,c,a,t,t,g,c,c,c,c,a,c,t,a,a,t,g,t,g,g,g,g,a,c,a,t,t,a,a,t,g,a,a,c,a,t,t,t,g,a,c,a,g,g,c,t,a,t,t,a,c,t,t,a,t,t,a,t,c,a,c,t,a,a,g,t,c,a,g,c,t,c,t,g,t,a,a,a,t,a,a,c,t,g,g,c,t,c,a,g,a,g,g,t,a,a,g,c,a,a,c,c,c,t,c,t,a,g,a,g,g,c,a,a,g,a,g,a,a,a,c,a,a,t,t,t,t,c,a,g,g,g,t,a,c,c,t,a,g,a,a,a,a,g,a,g,a,t,a,c,c,t,g,a,g,a,g,a,t,g,t,g,a,t,g,g,a,t,a,1
+t,a,a,a,a,a,c,a,a,a,a,c,a,a,a,t,c,c,g,c,a,a,g,g,c,t,a,t,g,c,t,c,a,g,t,c,t,g,c,t,g,c,t,t,a,c,a,a,a,a,t,g,a,a,c,a,g,a,c,a,t,a,g,t,t,t,t,a,t,t,t,g,a,t,a,c,a,a,a,c,c,t,g,g,c,a,t,g,a,a,t,g,a,c,t,t,g,c,a,c,t,g,t,a,g,a,a,a,a,g,c,g,a,a,c,t,t,g,c,t,c,t,c,t,t,a,c,t,g,c,c,t,a,t,t,g,c,a,t,g,t,g,g,g,t,t,t,t,t,a,a,a,a,t,a,t,t,t,t,t,c,a,t,t,c,a,c,c,a,a,a,c,a,a,a,t,a,g,t,a,a,a,t,a,t,g,t,t,g,t,a,t,a,t,t,t,g,g,t,c,a,t,a,a,a,a,t,a,t,a,a,g,t,a,t,g,a,t,a,t,a,t,c,a,c,c,c,a,a,g,a,c,a,t,t,t,g,t,a,g,t,g,g,a,a,t,t,a,g,g,1
+g,c,t,g,g,t,a,t,t,c,a,t,t,a,c,a,a,a,c,t,t,g,c,t,c,a,c,t,a,c,a,a,t,a,a,a,t,g,a,a,t,t,t,t,a,a,g,c,t,t,t,a,a,g,a,t,g,a,a,g,t,g,g,c,a,t,t,t,c,t,t,t,t,a,a,c,a,g,t,t,a,c,t,a,t,g,t,t,g,g,a,a,t,t,g,g,t,t,a,c,a,a,a,t,t,t,t,g,g,a,g,t,g,g,a,t,t,t,c,a,a,a,a,g,t,g,a,g,a,g,c,t,a,a,c,t,t,c,a,g,t,t,g,a,t,t,t,c,a,a,g,g,t,a,g,t,g,c,t,t,g,g,c,t,t,t,t,t,t,t,g,t,t,t,a,g,a,c,a,g,g,g,t,t,t,t,a,c,t,c,c,t,g,c,c,c,t,g,g,t,t,g,g,a,g,t,g,g,a,a,g,t,t,a,a,c,g,g,c,t,a,a,c,t,g,c,a,g,t,c,c,t,g,a,c,t,t,c,t,g,g,g,c,t,t,a,a,g,t,g,1
+t,t,t,t,t,c,t,t,t,t,t,t,c,c,c,a,t,t,t,t,t,a,a,a,a,a,t,a,a,c,a,a,t,a,a,a,g,t,t,t,t,a,a,a,t,a,a,g,t,t,g,a,t,a,g,t,t,c,a,g,t,g,t,g,g,t,t,g,a,t,g,g,a,t,t,g,t,a,g,g,t,a,c,t,a,c,c,t,t,a,a,a,t,a,t,c,t,c,t,g,a,a,g,c,a,c,a,g,c,t,g,a,a,g,t,g,t,g,g,c,c,c,t,g,a,g,c,t,t,a,a,c,c,c,t,t,a,a,t,t,g,a,a,a,t,c,c,t,c,c,a,a,a,g,a,c,a,a,a,a,t,g,a,g,g,g,t,c,c,a,a,a,g,g,c,a,c,a,c,t,t,g,g,c,t,a,g,t,g,t,c,a,a,a,a,a,g,g,g,t,g,g,a,g,g,a,g,c,c,a,g,g,g,t,c,c,t,g,a,g,a,t,g,c,a,g,c,a,c,t,g,a,a,c,t,a,a,a,a,a,c,c,t,a,t,g,g,g,a,g,1
+a,g,g,a,c,g,g,c,t,t,a,c,a,t,g,t,t,t,g,t,t,t,c,t,g,t,a,g,a,a,a,a,t,a,a,a,g,c,t,g,a,g,c,t,a,c,g,a,t,t,c,c,g,t,g,t,c,t,g,a,g,t,c,t,c,t,t,t,t,c,g,g,c,g,a,g,c,g,a,a,g,g,c,a,c,c,t,t,c,g,g,a,c,t,t,g,c,a,t,g,c,c,c,t,t,g,t,c,c,t,c,g,g,g,t,t,g,c,a,g,g,g,g,a,g,g,c,t,c,t,g,g,g,a,t,t,c,a,c,a,g,a,t,t,g,a,a,g,t,a,g,c,a,c,a,a,g,g,t,a,a,c,g,g,g,a,g,g,c,a,a,t,t,t,g,g,g,a,a,a,t,g,g,g,g,g,a,a,a,a,t,g,a,a,a,a,g,c,c,a,c,t,g,g,g,t,c,c,c,g,c,c,a,t,t,c,a,g,c,a,t,t,a,a,c,t,a,c,t,g,t,g,g,a,c,a,t,t,t,t,a,g,a,a,t,a,t,t,t,t,1
+g,g,a,g,g,a,g,g,a,c,g,g,c,t,t,a,c,a,t,g,t,t,t,g,t,t,t,c,t,g,t,a,g,a,a,a,a,t,a,a,a,a,c,t,g,a,g,c,t,a,c,g,a,t,t,c,c,g,t,g,t,c,t,g,a,g,t,c,t,c,t,t,t,t,c,g,g,c,g,a,g,c,g,a,a,g,g,c,a,c,c,t,t,c,g,g,a,c,t,t,g,c,a,t,g,c,c,c,t,t,g,t,c,c,t,c,g,g,g,t,t,g,c,a,g,g,g,g,a,g,g,c,t,c,t,g,g,g,a,t,t,c,a,c,a,g,a,t,t,g,a,a,g,t,a,g,c,a,c,a,a,g,g,t,a,a,c,g,g,g,a,g,g,c,a,a,t,t,t,g,g,g,a,a,a,t,g,g,g,g,g,a,a,a,a,t,g,a,a,a,a,g,c,c,a,c,t,g,g,g,t,c,c,c,g,c,c,a,t,t,c,a,g,c,a,t,t,a,a,c,t,a,c,t,g,t,g,g,a,c,a,t,t,t,t,a,g,a,a,t,1
+c,t,c,t,g,c,t,g,t,c,t,c,a,g,a,t,g,c,c,c,c,c,a,g,c,a,a,a,t,a,a,a,c,a,c,t,c,t,t,c,t,c,g,t,t,g,g,t,c,a,g,a,a,c,t,g,g,a,t,t,g,t,g,c,g,t,c,c,a,a,t,c,a,t,t,t,t,g,g,c,t,g,g,g,g,t,a,g,g,g,g,g,t,a,a,t,t,c,t,c,c,g,t,c,a,g,g,g,c,t,g,g,c,t,c,c,c,t,g,g,a,g,c,t,a,g,g,c,a,t,g,g,g,g,c,c,a,c,t,t,c,c,c,t,g,g,a,c,a,c,a,c,a,t,g,g,g,c,t,a,t,g,c,a,a,g,g,g,a,c,a,g,a,a,g,g,c,t,c,t,g,g,g,g,g,a,g,g,g,c,t,g,g,a,t,g,a,a,t,g,g,a,t,a,t,c,c,t,c,a,a,t,g,g,t,g,g,c,c,g,c,a,a,a,t,g,g,c,a,g,c,t,g,t,c,c,a,c,t,a,c,a,g,g,g,g,c,c,a,t,1
+c,t,c,c,c,a,a,t,a,t,t,c,t,t,g,t,t,g,t,g,c,t,t,g,g,g,t,t,g,c,t,g,g,g,g,g,g,g,g,g,t,t,c,t,a,g,a,a,t,t,c,a,g,a,t,a,t,t,c,a,a,g,g,a,g,t,a,c,a,a,g,g,a,a,a,t,t,g,a,a,g,a,c,a,a,t,t,t,a,g,g,a,a,a,t,g,g,a,a,g,a,a,a,a,t,g,a,a,a,a,t,c,a,a,t,t,g,g,g,t,t,c,t,g,t,c,a,t,t,c,a,g,g,a,t,t,a,a,c,t,a,c,t,g,t,c,a,a,c,a,t,t,t,t,g,g,a,a,t,a,c,t,t,c,c,t,c,a,g,t,t,t,t,a,c,a,g,t,t,g,c,a,c,t,t,a,c,a,t,a,g,t,a,a,a,t,g,t,g,t,a,a,c,t,g,t,a,a,t,a,t,a,c,a,c,c,a,c,a,t,a,a,t,a,t,t,t,g,c,a,a,g,t,t,t,a,g,t,g,t,t,a,a,a,t,t,t,t,t,t,1
+t,g,g,t,g,a,c,g,t,c,c,a,g,g,t,t,g,t,c,c,t,t,g,a,g,t,a,a,t,a,a,a,a,a,c,g,t,a,t,g,t,t,g,c,a,a,t,c,t,c,g,g,g,c,t,c,t,a,c,t,t,g,t,g,g,a,c,t,t,t,g,t,t,g,c,a,c,c,g,a,a,a,g,c,c,t,t,g,a,g,c,t,t,t,c,c,t,g,a,t,g,c,c,t,t,a,c,a,c,t,t,c,a,g,g,g,t,t,c,t,t,g,a,g,c,g,t,c,c,a,g,g,g,t,c,t,t,g,t,t,a,c,t,a,c,t,c,t,g,g,g,c,t,g,g,c,c,a,c,a,c,c,c,a,g,c,a,c,t,t,c,c,c,g,t,g,t,c,a,g,g,t,t,t,t,t,c,c,t,g,a,t,g,t,a,g,t,c,c,a,t,g,t,t,t,t,t,t,a,t,g,c,t,a,t,t,c,t,a,a,a,t,g,g,t,a,t,c,t,t,t,g,a,t,t,t,t,c,t,a,g,t,t,c,a,t,c,a,t,g,1
+g,t,t,a,t,t,t,c,c,g,g,g,t,c,a,t,a,a,t,t,t,t,a,a,a,t,t,a,a,a,g,a,c,a,t,a,t,c,a,c,t,t,t,t,t,t,a,t,a,c,a,c,a,c,a,t,c,t,c,t,g,t,g,t,c,t,t,t,a,t,t,g,c,t,t,a,t,a,t,a,t,a,g,a,a,g,a,g,a,a,c,c,a,g,g,g,a,c,t,g,g,c,a,g,a,c,g,a,t,g,g,c,c,c,a,c,a,a,a,c,t,c,a,a,a,t,c,a,g,g,c,t,c,a,c,c,a,c,c,t,a,t,t,t,t,t,a,t,a,a,a,t,a,a,a,a,t,t,g,t,a,t,t,g,g,a,a,c,a,c,a,g,c,c,a,c,a,c,c,c,a,t,t,c,a,t,t,t,a,t,g,a,a,c,c,t,g,t,g,g,c,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,g,t,a,c,c,a,c,c,a,a,a,g,c,a,a,g,a,g,t,t,g,a,g,t,a,g,t,t,a,c,1
+g,c,a,c,t,g,a,t,c,t,c,a,c,a,g,g,g,t,t,g,t,g,a,t,g,c,a,g,a,t,t,a,a,a,g,g,a,g,a,t,g,g,c,a,t,g,t,g,t,a,a,t,g,t,a,t,a,c,a,g,c,t,g,g,t,g,c,c,t,g,g,t,a,a,a,t,g,t,c,g,g,t,t,c,t,g,t,c,a,t,t,c,c,c,t,c,a,c,c,t,c,t,t,c,a,g,t,c,c,c,t,g,c,c,t,c,t,g,a,c,t,a,c,c,a,c,c,a,t,c,c,c,a,a,g,a,c,t,a,c,t,a,a,c,a,a,g,t,a,g,g,a,a,a,g,a,g,c,c,g,a,g,a,g,t,g,a,g,g,c,t,g,g,a,g,a,a,t,t,t,a,a,t,t,c,c,t,a,a,t,g,g,a,t,g,a,c,c,t,c,c,a,g,g,a,t,t,g,g,g,a,c,a,t,c,t,g,c,c,a,g,a,g,c,t,c,t,c,c,c,a,t,c,a,t,c,c,c,a,g,a,t,g,g,g,g,g,c,c,t,1
+g,a,c,c,c,t,g,c,c,g,a,a,g,c,t,c,c,c,t,g,c,c,t,t,t,a,a,t,a,a,a,c,t,g,g,c,c,a,a,g,t,g,t,g,g,a,c,t,t,g,t,g,a,t,t,c,a,g,a,g,g,t,t,t,t,g,a,a,a,a,g,g,t,a,g,g,c,a,g,g,c,g,t,g,g,g,g,g,a,g,g,g,a,g,g,a,c,t,g,g,c,t,g,a,g,c,a,c,c,a,c,a,g,g,c,t,c,c,c,c,t,g,c,c,c,c,t,g,c,t,g,g,g,g,c,c,t,g,c,c,t,t,t,c,c,t,t,t,c,a,c,c,c,g,g,g,a,c,c,a,a,g,t,c,a,t,g,c,a,t,g,t,g,c,c,c,a,g,c,c,t,c,a,c,c,c,c,g,g,c,c,c,c,c,a,g,t,g,c,g,t,g,c,t,t,g,g,t,c,a,c,a,c,a,t,a,c,a,c,a,c,a,g,a,g,a,a,t,t,c,t,t,t,a,t,g,c,c,t,c,t,t,t,a,t,t,c,c,c,a,1
+g,g,a,g,c,a,g,t,t,c,t,t,g,g,a,t,g,a,c,c,c,a,g,a,t,t,t,g,a,a,t,c,a,t,t,a,a,a,g,t,a,g,a,c,t,c,t,c,a,t,g,c,a,a,a,c,a,c,t,g,a,g,t,t,t,g,t,c,t,t,g,a,g,g,c,a,a,g,a,t,g,g,g,t,g,g,g,g,g,t,t,g,a,a,c,t,t,g,g,c,c,a,g,a,g,c,c,t,c,c,a,a,a,c,a,g,a,g,g,g,a,g,g,t,g,g,g,a,c,c,a,a,a,a,c,a,t,g,g,g,g,t,g,g,g,g,a,t,g,a,g,g,g,g,a,g,c,a,c,a,a,c,t,c,t,t,g,g,c,t,g,a,t,g,g,a,a,g,a,c,t,g,g,c,t,t,c,t,g,t,c,t,t,g,t,t,t,t,c,c,t,t,c,c,a,c,t,g,a,t,a,a,t,t,c,c,c,g,g,a,g,t,g,g,g,g,a,a,a,g,t,g,a,g,a,g,t,g,a,g,a,c,c,a,c,a,g,c,t,g,1
+a,g,g,a,c,g,g,c,t,t,a,c,a,t,g,t,t,t,g,t,t,t,c,t,g,t,a,g,a,a,a,a,t,a,a,a,g,c,t,g,a,g,c,t,a,c,g,a,t,t,c,c,g,t,g,t,c,t,g,a,g,t,c,t,c,t,t,t,t,c,g,g,c,g,a,g,c,g,a,a,g,g,c,a,c,c,t,t,c,g,g,a,c,t,t,g,c,a,t,g,c,c,c,t,t,g,t,c,c,t,c,g,g,g,t,t,g,c,a,g,g,g,g,a,g,g,c,t,c,t,g,g,g,a,t,t,c,a,c,a,g,a,t,t,g,a,a,g,t,a,g,c,a,c,a,a,g,g,t,a,a,c,g,g,g,a,g,g,c,a,a,t,t,t,g,g,g,a,a,a,t,g,g,g,g,g,a,a,a,a,t,g,a,a,a,a,g,c,c,a,c,t,g,g,g,t,c,c,c,g,c,c,a,t,t,c,a,g,c,a,t,t,a,a,c,t,a,c,t,g,t,g,g,a,c,a,t,t,t,t,a,g,a,a,t,a,t,t,t,t,1
+g,g,a,g,g,a,g,g,a,c,g,g,c,t,t,a,c,a,t,g,t,t,t,g,t,t,t,c,t,g,t,a,g,a,a,a,a,t,a,a,a,a,c,t,g,a,g,c,t,a,c,g,a,t,t,c,c,g,t,g,t,c,t,g,a,g,t,c,t,c,t,t,t,t,c,g,g,c,g,a,g,c,g,a,a,g,g,c,a,c,c,t,t,c,g,g,a,c,t,t,g,c,a,t,g,c,c,c,t,t,g,t,c,c,t,c,g,g,g,t,t,g,c,a,g,g,g,g,a,g,g,c,t,c,t,g,g,g,a,t,t,c,a,c,a,g,a,t,t,g,a,a,g,t,a,g,c,a,c,a,a,g,g,t,a,a,c,g,g,g,a,g,g,c,a,a,t,t,t,g,g,g,a,a,a,t,g,g,g,g,g,a,a,a,a,t,g,a,a,a,a,g,c,c,a,c,t,g,g,g,t,c,c,c,g,c,c,a,t,t,c,a,g,c,a,t,t,a,a,c,t,a,c,t,g,t,g,g,a,c,a,t,t,t,t,a,g,a,a,t,1
+c,t,c,t,g,c,t,g,t,c,t,c,a,g,a,t,g,c,c,c,c,c,a,g,c,a,a,a,t,a,a,a,c,a,c,t,c,t,t,c,t,c,g,t,t,g,g,t,c,a,g,a,a,c,t,g,g,a,t,t,g,t,g,c,g,t,c,c,a,a,t,c,a,t,t,t,t,g,g,c,t,g,g,g,g,t,a,g,g,g,g,g,t,a,a,t,t,c,t,c,c,g,t,c,a,g,g,g,c,t,g,g,c,t,c,c,c,t,g,g,a,g,c,t,a,g,g,c,a,t,g,g,g,g,c,c,a,c,t,t,c,c,c,t,g,g,a,c,a,c,a,c,a,t,g,g,g,c,t,a,t,g,c,a,a,g,g,g,a,c,a,g,a,a,g,g,c,t,c,t,g,g,g,g,g,a,g,g,g,c,t,g,g,a,t,g,a,a,t,g,g,a,t,a,t,c,c,t,c,a,a,t,g,g,t,g,g,c,c,g,c,a,a,a,t,g,g,c,a,g,c,t,g,t,c,c,a,c,t,a,c,a,g,g,g,g,c,c,a,t,1
+c,t,c,c,c,a,a,t,a,t,t,c,t,t,g,t,t,g,t,g,c,t,t,g,g,g,t,t,g,c,t,g,g,g,g,g,g,g,g,g,t,t,c,t,a,g,a,a,t,t,c,a,g,a,t,a,t,t,c,a,a,g,g,a,g,t,a,c,a,a,g,g,a,a,a,t,t,g,a,a,g,a,c,a,a,t,t,t,a,g,g,a,a,a,t,g,g,a,a,g,a,a,a,a,t,g,a,a,a,a,t,c,a,a,t,t,g,g,g,t,t,c,t,g,t,c,a,t,t,c,a,g,g,a,t,t,a,a,c,t,a,c,t,g,t,c,a,a,c,a,t,t,t,t,g,g,a,a,t,a,c,t,t,c,c,t,c,a,g,t,t,t,t,a,c,a,g,t,t,g,c,a,c,t,t,a,c,a,t,a,g,t,a,a,a,t,g,t,g,t,a,a,c,t,g,t,a,a,t,a,t,a,c,a,c,c,a,c,a,t,a,a,t,a,t,t,t,g,c,a,a,g,t,t,t,a,g,t,g,t,t,a,a,a,t,t,t,t,t,t,1
+c,t,t,c,c,a,g,c,c,c,c,c,t,c,c,a,g,t,t,t,t,c,c,c,c,a,a,a,c,c,a,a,t,a,a,a,g,a,a,a,g,a,t,a,c,a,g,c,a,a,t,g,g,g,c,c,a,g,t,g,g,t,g,a,c,c,t,g,g,g,g,g,t,g,c,g,g,c,g,a,g,t,g,t,g,g,a,g,g,g,g,a,c,c,t,g,g,t,c,a,c,t,t,g,t,g,g,g,a,a,g,g,a,a,a,c,c,a,a,t,g,a,g,a,g,c,c,t,g,c,c,a,c,a,c,g,g,c,t,t,c,g,c,c,c,a,c,t,g,c,c,a,c,c,t,g,a,a,c,c,t,c,t,g,c,t,t,c,c,c,c,a,g,a,c,a,a,g,t,t,t,c,c,a,a,c,t,g,t,c,c,a,a,a,a,a,c,t,t,c,c,t,g,t,c,c,c,c,t,c,c,c,c,c,c,a,a,a,g,c,a,c,c,a,a,c,a,a,g,t,g,g,c,a,g,c,g,t,g,g,c,c,g,g,g,c,a,g,c,t,1
+a,t,t,g,a,c,t,c,t,g,c,g,g,c,g,c,g,g,g,c,c,c,t,t,t,a,a,t,a,a,a,g,c,t,a,g,g,a,t,a,c,g,c,c,t,t,t,g,g,t,g,c,a,g,c,t,a,a,c,a,g,g,c,t,c,g,g,c,t,g,g,t,c,t,c,t,t,t,t,a,g,g,g,g,g,g,c,a,c,a,c,t,g,c,t,c,t,t,t,g,a,c,t,t,c,t,g,c,c,a,g,c,t,c,a,g,c,t,t,c,t,c,c,c,c,a,g,g,t,g,a,c,c,a,c,a,g,g,c,c,t,t,c,c,t,a,a,g,g,g,c,c,a,c,g,t,a,g,c,c,a,t,g,a,c,g,a,t,a,g,c,c,c,a,g,t,g,c,t,g,g,c,t,c,c,c,a,g,a,c,c,a,g,g,a,g,t,t,g,a,a,a,g,t,g,g,c,t,g,g,g,g,a,g,c,t,g,t,g,g,g,g,g,t,g,g,g,g,g,g,a,g,c,a,g,t,a,t,t,g,c,t,g,t,t,g,g,c,a,g,1
+c,a,c,a,c,c,t,c,t,t,c,a,a,g,g,g,a,g,c,g,t,g,a,a,c,t,t,t,a,t,a,a,a,t,a,a,a,t,c,a,g,t,t,c,t,g,t,t,t,a,c,c,a,g,t,g,g,c,t,c,c,t,a,t,c,a,c,c,t,a,c,a,c,t,t,c,c,c,a,g,g,t,g,a,c,g,g,c,c,a,g,a,c,t,t,c,c,g,t,g,g,t,c,a,c,t,a,c,t,c,c,t,c,a,a,a,c,c,c,t,g,c,t,g,c,c,t,c,c,t,c,c,g,t,a,g,g,g,t,g,g,g,t,c,t,g,g,g,t,g,a,g,a,t,c,t,g,g,a,g,t,g,c,a,g,c,c,a,g,g,c,c,g,t,t,g,a,t,a,g,c,g,g,a,g,c,c,a,t,t,g,g,g,a,c,a,c,c,t,t,g,t,g,a,g,g,c,t,g,g,g,g,g,c,a,t,c,c,t,c,c,a,g,g,a,g,g,t,g,g,t,g,g,g,c,t,g,g,t,g,g,g,t,t,g,t,c,c,a,g,1
+g,a,c,a,c,t,g,t,c,t,g,c,t,g,c,c,c,c,a,a,t,c,a,c,c,g,t,c,a,c,a,a,t,a,a,a,a,g,a,a,a,c,t,g,t,g,g,t,c,t,c,t,a,c,a,c,c,t,g,c,c,t,g,g,c,c,c,c,a,c,a,t,c,t,g,t,g,c,c,a,c,a,g,a,g,a,c,a,g,a,c,c,c,t,g,g,g,a,t,c,c,t,c,a,g,a,c,t,c,c,c,a,c,a,c,c,c,c,c,a,c,c,c,c,a,g,c,c,t,c,a,c,t,c,a,g,a,g,g,t,t,t,c,g,c,c,c,t,g,g,c,c,t,c,c,t,t,c,c,t,c,c,t,c,t,g,g,g,a,g,a,t,g,g,c,t,g,g,c,c,g,c,c,c,t,g,g,c,c,a,g,g,c,a,g,c,t,g,g,c,c,c,c,t,c,c,g,g,g,c,c,t,g,g,t,t,t,c,c,c,c,g,c,t,c,a,c,c,c,t,g,a,g,g,c,c,c,c,g,c,c,c,a,g,c,t,c,t,g,a,1
+t,t,t,a,a,c,c,t,t,g,t,a,a,c,g,c,t,t,g,c,a,a,t,c,c,c,a,a,t,a,a,a,g,c,a,t,t,a,a,a,a,g,t,c,a,t,g,a,t,c,t,t,c,t,g,a,g,t,g,t,t,c,c,a,c,t,c,t,c,t,g,a,c,t,t,g,g,g,t,a,c,t,g,g,a,c,t,g,c,c,a,g,a,g,g,g,a,g,g,g,a,a,g,g,g,g,c,t,g,a,g,c,a,c,c,t,g,g,a,a,g,c,a,g,g,c,a,g,a,g,g,g,g,g,a,t,a,g,a,a,g,a,g,g,g,a,a,g,g,g,g,a,a,g,g,a,a,g,g,c,c,t,t,a,g,g,g,g,t,g,t,g,g,a,c,a,c,c,t,c,t,c,t,c,c,g,t,c,c,c,c,t,g,a,t,c,a,c,a,t,a,c,a,t,g,g,a,g,a,a,a,t,g,a,g,a,g,a,g,c,t,g,g,a,a,g,c,c,a,g,a,c,t,c,t,c,a,g,a,c,t,c,a,c,t,g,t,c,g,t,1
+c,t,t,c,a,t,a,c,a,g,g,g,a,t,g,g,t,g,t,t,c,a,a,a,a,a,a,c,t,t,g,t,a,a,a,t,a,a,a,g,g,a,a,c,c,a,t,a,a,t,c,a,a,t,t,t,t,c,t,t,t,t,c,t,t,t,c,t,t,t,c,t,c,t,t,t,t,t,c,t,t,t,t,t,t,c,t,t,t,t,g,c,c,a,t,t,a,g,t,t,g,a,t,t,t,c,c,t,t,t,a,g,g,g,t,g,t,t,g,g,a,g,g,g,g,g,t,g,g,a,a,a,a,g,g,t,a,t,t,g,a,g,a,a,t,g,g,t,c,t,t,t,t,t,a,a,t,c,t,c,t,t,g,c,a,a,c,a,t,t,t,g,g,a,a,a,g,a,g,t,t,a,g,g,g,a,a,a,t,g,c,t,c,a,g,a,g,g,c,a,g,t,c,g,g,c,c,t,g,g,c,c,g,g,c,c,t,g,g,g,g,a,t,c,t,c,a,t,c,t,g,g,g,a,a,a,g,c,c,a,g,g,c,a,c,c,c,t,c,c,1
+t,g,t,t,g,a,g,a,t,g,a,t,a,t,t,t,a,a,c,t,t,t,t,t,g,c,c,a,a,a,t,a,a,a,a,t,a,t,a,t,t,g,a,t,t,c,t,t,t,t,c,t,a,t,t,t,t,t,t,g,c,g,g,g,t,c,t,g,c,t,c,t,t,t,g,c,a,c,c,t,t,c,t,t,c,t,c,t,g,g,g,t,c,a,g,g,g,g,a,g,c,c,t,a,t,g,t,a,g,a,g,t,c,t,c,t,g,g,g,t,a,g,g,g,g,c,g,g,g,t,t,g,g,g,g,t,g,g,t,g,a,g,a,a,a,g,a,g,c,c,c,c,a,a,t,t,t,t,g,c,c,t,c,t,g,g,c,t,g,g,c,t,t,t,c,a,g,g,a,g,c,g,g,g,a,c,c,t,g,c,c,a,c,a,a,c,c,a,g,t,c,c,g,c,c,g,a,g,c,t,a,a,g,c,t,c,t,c,c,c,a,a,a,c,a,g,g,c,c,a,g,c,t,g,c,c,t,g,g,c,g,g,c,g,a,g,a,a,a,a,1
+c,c,c,a,g,c,t,g,t,g,t,t,t,t,a,t,g,t,a,a,c,c,g,a,a,a,a,t,a,a,a,g,a,t,g,c,g,t,g,g,t,g,a,c,a,a,a,g,a,a,a,a,a,t,g,t,g,g,a,c,t,g,c,c,t,t,a,t,c,c,a,g,a,g,g,g,g,a,c,t,g,g,g,a,a,a,g,g,g,g,a,g,g,t,g,a,g,t,a,t,g,g,c,t,g,g,a,g,g,g,c,a,g,g,g,g,g,c,a,g,t,g,g,g,g,a,a,g,c,a,a,a,a,g,t,g,g,g,g,t,g,g,c,t,g,t,c,c,t,t,g,t,g,a,t,g,g,t,c,c,a,a,g,t,g,t,t,g,g,g,t,a,c,c,c,a,t,g,t,a,t,t,g,g,t,g,t,c,a,t,g,t,a,t,c,t,t,t,t,t,a,a,t,g,t,a,t,t,t,t,t,a,t,g,t,g,t,g,t,a,t,t,t,g,t,a,t,g,a,g,t,a,t,g,t,g,c,t,t,a,t,t,t,t,t,c,t,g,t,g,1
+g,a,t,g,c,a,t,t,g,t,c,a,t,g,c,a,t,a,t,t,t,t,t,t,g,t,a,g,a,a,t,a,a,a,t,t,c,t,c,c,t,t,t,g,c,t,a,t,a,a,g,t,a,g,c,t,t,a,t,t,t,t,t,c,t,c,c,c,c,c,t,c,t,t,t,t,t,t,c,a,a,g,g,c,t,c,a,t,a,a,c,g,g,g,t,t,c,t,t,t,t,t,c,t,t,c,t,t,t,t,a,g,t,c,t,a,a,c,t,t,c,g,t,a,a,a,t,a,a,a,a,t,t,c,g,t,c,a,c,a,a,t,t,t,a,t,c,c,t,c,t,t,t,t,t,t,c,a,a,t,t,t,t,a,a,t,a,c,a,t,t,t,a,t,t,a,a,g,g,c,g,g,c,a,t,g,t,t,c,a,a,a,g,t,c,t,t,c,a,a,t,g,g,a,c,a,g,c,a,a,c,a,a,a,a,c,a,g,a,a,a,g,c,c,a,a,a,a,a,a,t,g,a,c,t,a,g,g,g,c,t,t,c,t,a,a,t,a,a,g,1
+c,t,c,c,a,a,c,t,g,g,a,t,g,t,t,g,a,c,g,t,a,t,a,t,a,t,a,a,a,c,a,g,a,a,c,t,c,c,c,t,t,c,a,a,a,a,g,c,c,a,a,a,a,c,t,g,t,c,t,t,c,a,g,t,c,a,g,t,c,t,t,t,c,c,t,c,a,c,a,t,c,a,g,t,g,a,a,c,c,a,a,g,a,g,c,t,a,a,g,a,g,a,t,t,c,a,c,a,t,t,t,a,a,t,t,a,g,c,t,c,c,a,g,t,a,t,a,a,a,g,t,t,g,t,t,g,t,g,a,g,g,a,t,g,g,g,g,c,c,c,t,t,a,t,t,c,c,a,c,t,c,c,t,c,t,t,c,c,t,t,c,t,t,t,t,t,g,g,a,t,t,g,t,c,a,g,g,c,a,g,a,g,t,t,c,t,g,a,t,a,t,a,t,t,c,c,a,c,c,c,t,t,g,a,a,a,t,g,g,a,g,t,g,t,t,t,t,t,a,g,t,a,a,a,c,c,c,t,t,g,c,a,t,c,c,c,t,t,c,c,1
+a,t,t,c,a,g,a,t,t,g,c,t,g,t,a,g,t,c,t,t,a,a,t,a,g,a,a,g,a,a,t,a,a,a,t,t,t,c,t,g,t,c,a,a,t,g,g,c,a,t,a,a,a,t,t,t,t,g,t,g,t,g,t,g,t,t,t,t,a,t,t,a,a,a,t,a,t,t,g,c,t,t,t,t,a,a,g,c,t,g,a,t,c,a,t,t,t,a,g,t,g,g,g,g,g,a,g,a,g,g,a,a,g,t,g,t,c,t,a,a,a,a,g,c,t,g,g,c,c,a,t,a,g,c,t,c,g,a,c,t,t,t,t,g,a,t,c,c,t,t,t,t,t,c,a,g,a,g,t,g,a,a,a,g,g,g,a,g,g,c,t,a,a,t,g,t,c,a,c,c,g,a,a,a,t,t,c,t,c,a,t,g,a,a,g,t,t,a,a,g,a,c,t,c,a,c,t,a,g,g,a,c,t,a,g,a,g,a,g,c,a,g,g,c,a,g,t,g,t,a,a,c,c,c,a,t,t,t,c,c,g,t,t,g,c,t,t,t,a,g,1
+c,a,c,t,t,a,a,g,g,t,g,c,a,a,a,g,c,a,g,c,c,t,a,t,t,t,t,t,t,c,t,t,c,a,a,t,a,a,a,a,a,t,t,g,t,t,a,a,g,a,g,a,a,g,t,g,t,g,t,g,t,g,t,c,a,t,c,t,g,c,a,g,c,a,c,a,g,c,t,g,t,g,g,g,a,g,g,a,g,t,g,a,g,a,g,g,g,g,t,c,t,t,g,t,t,t,a,c,a,c,a,g,t,c,a,c,c,a,g,c,c,c,t,g,g,c,t,g,a,c,t,a,g,a,g,c,a,g,a,a,g,a,g,g,g,a,t,t,t,g,c,t,g,g,c,a,g,a,a,t,a,t,c,a,g,t,c,a,a,c,c,c,t,g,c,c,a,a,t,g,t,c,t,a,g,t,t,a,g,t,c,t,g,g,a,g,a,a,c,c,t,g,g,c,t,t,g,a,a,a,a,c,a,g,g,a,g,g,g,a,c,c,a,g,g,g,g,a,a,t,a,c,t,g,c,g,c,t,t,t,c,a,a,c,t,c,c,a,c,t,1
+t,a,t,t,t,a,t,t,t,a,a,t,g,t,t,a,t,g,t,t,g,t,g,t,t,c,t,a,a,t,a,a,a,a,c,a,a,a,a,a,t,a,g,a,c,a,a,c,t,g,t,t,c,a,a,t,t,t,g,c,t,g,c,t,g,g,c,c,t,c,t,g,t,c,t,t,a,g,c,a,a,t,t,g,a,a,g,t,t,a,g,c,a,c,a,g,t,c,c,a,t,t,g,a,g,t,a,c,a,t,g,c,c,c,a,g,t,t,t,g,g,a,g,g,a,a,g,g,g,t,c,t,g,a,g,c,a,c,a,t,g,t,g,g,c,t,g,a,g,c,a,t,c,c,c,c,a,t,t,t,c,t,c,t,g,g,a,g,a,a,g,t,c,t,c,a,a,g,g,t,t,g,c,a,a,g,g,c,a,c,a,c,c,a,g,a,g,g,t,g,g,a,a,g,t,g,a,t,c,t,a,g,c,a,g,g,a,c,t,t,a,g,t,g,g,g,g,a,t,g,t,g,g,g,g,a,g,c,a,g,g,g,a,c,a,c,a,g,g,c,1
+t,t,t,t,t,c,t,t,t,t,t,t,c,c,c,a,t,t,t,t,t,a,a,a,a,a,t,a,a,c,a,a,t,a,a,a,g,t,t,t,t,a,a,a,t,a,a,g,t,t,g,a,t,a,g,t,t,c,a,g,t,g,t,g,g,t,t,g,a,t,g,g,a,t,t,g,t,a,g,g,t,a,c,t,a,c,c,t,t,a,a,a,t,a,t,c,t,c,t,g,a,a,g,c,a,c,a,g,c,t,g,a,a,g,t,g,t,g,g,c,c,c,t,g,a,g,c,t,t,a,a,c,c,c,t,t,a,a,t,t,g,a,a,a,t,c,c,t,c,c,a,a,a,g,a,c,a,a,a,a,t,g,a,g,g,g,t,c,c,a,a,a,g,g,c,a,c,a,c,t,t,g,g,c,t,a,g,t,g,t,c,a,a,a,a,a,g,g,g,t,g,g,a,g,g,a,g,c,c,a,g,g,g,t,c,c,t,g,a,g,a,t,g,c,a,g,c,a,c,t,g,a,a,c,t,a,a,a,a,a,c,c,t,a,t,g,g,g,a,g,1
+t,a,g,a,a,g,t,g,t,t,a,t,t,g,g,c,a,a,a,g,c,a,a,t,c,c,a,a,t,a,a,a,a,t,a,a,g,c,t,a,c,c,t,a,t,g,a,t,g,c,a,a,a,g,c,c,t,t,c,g,a,t,g,t,g,c,t,g,t,c,c,t,c,t,t,a,g,g,a,t,g,a,a,a,t,t,a,t,t,c,a,g,c,c,c,t,g,a,a,g,g,g,g,a,t,t,c,t,c,t,g,g,g,c,a,a,g,t,g,c,t,g,a,g,g,t,c,t,g,g,g,g,a,g,g,c,c,c,a,g,c,c,c,a,g,g,g,a,a,g,g,a,g,c,c,a,g,g,c,a,c,a,a,a,a,g,t,c,g,g,t,g,c,t,t,t,c,a,g,g,a,a,c,t,c,c,t,c,c,t,c,t,c,a,g,g,c,c,t,g,g,a,g,c,c,t,g,g,t,t,a,g,g,c,t,g,c,t,c,t,g,a,g,t,t,g,a,g,t,g,a,a,a,a,t,g,g,g,g,g,c,t,t,c,t,g,a,a,a,a,1
+c,c,c,a,g,c,t,g,t,g,t,t,t,t,a,t,g,t,a,a,c,c,g,a,a,a,a,t,a,a,a,g,a,t,g,c,g,t,g,g,t,g,a,c,a,a,a,g,a,a,a,a,a,t,g,t,g,g,a,c,t,g,c,c,t,t,a,t,c,c,a,g,a,g,g,g,g,a,c,t,g,g,g,a,a,a,g,g,g,g,a,g,g,t,g,a,g,t,a,t,g,g,c,t,g,g,a,g,g,g,c,a,g,g,g,g,g,c,a,g,t,g,g,g,g,a,a,g,c,a,a,a,a,g,t,g,g,g,g,t,g,g,c,t,g,t,c,c,t,t,g,t,g,a,t,g,g,t,c,c,a,a,g,t,g,t,t,g,g,g,t,a,c,c,c,a,t,g,t,a,t,t,g,g,t,g,t,c,a,t,g,t,a,t,c,t,t,t,t,t,a,a,t,g,t,a,t,t,t,t,t,a,t,g,t,g,t,g,t,a,t,t,t,g,t,a,t,g,a,g,t,a,t,g,t,g,c,t,t,a,t,t,t,t,t,c,t,g,t,g,1
+g,a,t,g,c,a,t,t,g,t,c,a,t,g,c,a,t,a,t,t,t,t,t,t,g,t,a,g,a,a,t,a,a,a,t,t,c,t,c,c,t,t,t,g,c,t,a,t,a,a,g,t,a,g,c,t,t,a,t,t,t,t,t,c,t,c,c,c,c,c,t,c,t,t,t,t,t,t,c,a,a,g,g,c,t,c,a,t,a,a,c,g,g,g,t,t,c,t,t,t,t,t,c,t,t,c,t,t,t,t,a,g,t,c,t,a,a,c,t,t,c,g,t,a,a,a,t,a,a,a,a,t,t,c,g,t,c,a,c,a,a,t,t,t,a,t,c,c,t,c,t,t,t,t,t,t,c,a,a,t,t,t,t,a,a,t,a,c,a,t,t,t,a,t,t,a,a,g,g,c,g,g,c,a,t,g,t,t,c,a,a,a,g,t,c,t,t,c,a,a,t,g,g,a,c,a,g,c,a,a,c,a,a,a,a,c,a,g,a,a,a,g,c,c,a,a,a,a,a,a,t,g,a,c,t,a,g,g,g,c,t,t,c,t,a,a,t,a,a,g,1
+c,t,c,c,a,a,c,t,g,g,a,t,g,t,t,g,a,c,g,t,a,t,a,t,a,t,a,a,a,c,a,g,a,a,c,t,c,c,c,t,t,c,a,a,a,a,g,c,c,a,a,a,a,c,t,g,t,c,t,t,c,a,g,t,c,a,g,t,c,t,t,t,c,c,t,c,a,c,a,t,c,a,g,t,g,a,a,c,c,a,a,g,a,g,c,t,a,a,g,a,g,a,t,t,c,a,c,a,t,t,t,a,a,t,t,a,g,c,t,c,c,a,g,t,a,t,a,a,a,g,t,t,g,t,t,g,t,g,a,g,g,a,t,g,g,g,g,c,c,c,t,t,a,t,t,c,c,a,c,t,c,c,t,c,t,t,c,c,t,t,c,t,t,t,t,t,g,g,a,t,t,g,t,c,a,g,g,c,a,g,a,g,t,t,c,t,g,a,t,a,t,a,t,t,c,c,a,c,c,c,t,t,g,a,a,a,t,g,g,a,g,t,g,t,t,t,t,t,a,g,t,a,a,a,c,c,c,t,t,g,c,a,t,c,c,c,t,t,c,c,1
+c,a,g,c,t,g,c,c,c,t,c,c,g,a,c,c,c,c,t,c,a,c,t,t,t,g,t,g,c,c,t,t,t,a,g,t,a,a,a,c,a,c,t,g,t,g,c,t,t,t,g,t,a,c,t,t,g,c,t,g,g,t,c,c,t,g,t,c,t,c,t,t,t,g,g,a,g,t,g,g,g,t,c,t,a,g,g,g,c,t,g,a,c,a,g,c,g,a,a,c,g,g,g,a,g,g,a,t,t,c,a,a,c,c,c,a,g,c,g,g,g,c,c,c,c,c,t,c,c,a,g,a,g,t,g,c,g,g,a,t,g,c,t,g,c,c,t,g,a,a,g,g,g,a,g,t,c,g,g,g,g,t,g,g,g,g,g,g,t,a,c,a,g,g,g,a,a,g,a,g,g,g,a,a,c,a,c,g,c,t,t,g,t,c,a,c,a,c,g,c,c,t,c,a,g,c,c,c,t,g,c,c,c,g,g,g,g,a,a,g,a,c,g,a,g,g,g,g,t,t,t,g,g,g,t,g,c,t,g,a,g,g,g,g,g,g,c,a,c,g,1
+t,a,t,t,t,a,t,t,t,a,a,t,g,t,t,a,t,g,t,t,g,t,g,t,t,c,t,a,a,t,a,a,a,a,c,a,a,a,a,a,t,a,g,a,c,a,a,c,t,g,t,t,c,a,a,t,t,t,g,c,t,g,c,t,g,g,c,c,t,c,t,g,t,c,t,t,a,g,c,a,a,t,t,g,a,a,g,t,t,a,g,c,a,c,a,g,t,c,c,a,t,t,g,a,g,t,a,c,a,t,g,c,c,c,a,g,t,t,t,g,g,a,g,g,a,a,g,g,g,t,c,t,g,a,g,c,a,c,a,t,g,t,g,g,c,t,g,a,g,c,a,t,c,c,c,c,a,t,t,t,c,t,c,t,g,g,a,g,a,a,g,t,c,t,c,a,a,g,g,t,t,g,c,a,a,g,g,c,a,c,a,c,c,a,g,a,g,g,t,g,g,a,a,g,t,g,a,t,c,t,a,g,c,a,g,g,a,c,t,t,a,g,t,g,g,g,g,a,t,g,t,g,g,g,g,a,g,c,a,g,g,g,a,c,a,c,a,g,g,c,1
+g,c,t,t,c,t,t,t,g,a,g,a,a,t,g,t,a,a,g,a,g,a,a,a,t,t,a,a,a,t,c,t,g,a,a,t,a,a,a,g,a,a,t,t,c,t,t,c,c,t,g,t,t,c,a,c,t,g,g,c,t,c,t,t,t,t,c,t,t,c,t,c,c,a,t,g,c,a,c,t,g,a,g,c,a,t,c,t,g,c,t,t,t,t,t,g,g,a,a,g,g,c,c,c,t,g,g,g,t,t,a,g,t,a,g,t,g,g,a,g,a,t,g,c,t,a,a,g,g,t,a,a,g,c,c,a,g,a,c,t,c,a,t,a,c,c,c,a,c,c,c,a,t,a,g,g,g,t,c,g,t,a,g,a,g,t,c,t,a,g,g,a,g,c,t,g,c,a,g,t,c,a,c,g,t,a,a,t,c,g,a,g,g,t,g,g,c,a,a,g,a,t,g,t,c,c,t,c,t,a,a,a,g,a,t,g,t,a,g,g,g,a,a,a,a,g,t,g,a,g,a,g,a,g,g,g,g,t,g,a,g,g,g,t,g,t,g,g,g,g,1
+c,t,t,c,a,g,c,a,g,t,t,t,c,a,g,t,t,c,a,t,g,t,t,t,c,t,c,t,t,c,a,g,t,a,a,a,t,t,t,t,g,t,t,c,a,g,t,g,t,t,c,c,a,g,t,g,g,t,g,t,c,t,t,g,c,c,t,c,t,g,c,t,g,t,g,t,g,a,a,a,c,t,g,g,g,g,t,g,g,g,a,g,g,t,g,g,t,c,t,g,c,t,g,g,g,g,a,t,g,g,g,g,c,c,a,c,a,g,t,g,g,c,c,a,g,g,c,t,g,a,c,a,t,c,g,a,g,g,t,g,t,g,t,g,t,g,g,g,g,c,a,g,g,g,t,c,t,a,t,g,a,g,g,g,c,c,t,g,t,g,g,g,g,t,g,c,c,t,t,g,g,g,c,t,g,c,a,t,g,g,a,g,c,c,t,g,g,c,a,a,c,a,g,g,a,t,g,c,t,g,g,t,g,g,t,c,a,t,g,a,g,c,a,g,t,g,a,c,t,g,g,c,t,g,g,g,t,a,c,c,a,a,a,g,g,c,a,c,t,c,1
+t,t,c,t,t,t,g,a,g,a,a,t,g,c,a,a,g,c,g,a,a,a,t,t,a,a,a,t,c,t,g,a,a,t,a,a,a,t,a,a,t,t,c,t,t,c,c,t,c,t,t,c,a,c,t,g,g,c,t,c,g,t,t,t,c,t,t,t,t,c,c,g,t,t,c,a,c,t,c,a,g,c,a,t,c,t,g,c,t,c,t,g,t,g,g,g,a,g,g,c,c,c,t,g,g,g,t,t,a,g,t,a,g,t,g,g,g,g,a,t,g,c,t,a,a,g,g,t,a,a,g,c,c,a,g,a,c,t,c,a,c,g,c,c,t,a,c,c,c,a,t,a,g,g,g,c,t,g,t,a,g,a,g,c,c,t,a,g,g,a,c,c,t,g,c,a,g,t,c,a,t,a,t,a,a,t,t,a,a,g,g,t,g,g,t,g,a,g,a,a,g,t,c,c,t,g,t,a,a,g,a,t,g,t,a,g,a,g,g,a,a,a,t,g,t,a,a,g,a,g,a,g,g,g,g,t,g,a,g,g,g,t,g,t,g,g,c,g,c,t,1
+t,t,c,t,t,t,g,a,g,a,a,t,g,c,a,a,a,a,g,a,a,a,t,t,a,a,a,t,c,t,g,a,a,t,a,a,a,t,a,a,t,t,c,t,t,c,c,t,g,t,t,c,a,c,t,g,g,c,t,c,a,t,t,t,c,t,t,t,a,c,c,a,t,t,c,a,c,t,c,a,g,c,a,t,c,t,g,c,t,c,t,g,t,g,g,a,a,g,g,c,c,c,t,g,g,t,a,g,t,a,g,t,g,g,g,g,a,t,t,c,t,a,a,g,g,t,a,a,g,c,c,a,g,a,c,t,c,a,c,g,t,c,t,a,c,c,c,a,t,a,g,g,g,t,c,a,t,a,g,a,g,t,c,t,a,g,g,a,g,c,t,g,c,a,g,t,c,a,t,g,t,a,a,t,t,a,a,g,g,t,g,g,c,g,a,g,a,a,g,t,c,c,t,c,t,a,g,g,a,t,g,t,a,g,t,g,g,a,a,a,t,g,t,a,a,g,a,c,a,g,g,g,g,t,g,a,g,g,g,t,g,t,g,g,g,g,t,t,c,c,1
+g,g,a,t,a,t,c,c,t,t,g,g,c,t,t,c,t,t,t,g,a,g,a,a,t,t,t,a,a,g,a,g,a,a,a,t,t,a,a,a,t,c,t,g,a,a,t,a,a,a,t,a,a,t,t,c,t,t,c,c,t,g,t,t,c,a,c,t,g,g,c,t,c,a,t,t,t,a,t,t,t,t,c,c,a,t,t,c,a,c,t,c,a,g,c,a,t,c,t,g,c,t,c,t,g,t,g,g,a,a,g,g,c,t,c,t,g,c,g,t,t,a,g,t,a,g,t,g,c,g,g,a,t,g,c,t,a,a,g,g,t,a,a,g,c,a,a,g,a,c,t,c,a,c,g,c,c,t,a,c,c,c,g,t,a,g,g,g,t,t,g,t,a,g,a,g,c,c,t,a,g,g,a,c,c,t,g,c,a,g,t,c,a,t,a,t,a,a,t,t,a,a,g,g,t,g,g,c,a,a,g,a,a,g,t,c,c,t,g,t,a,a,g,a,t,g,t,a,g,a,g,g,a,a,a,t,a,t,a,a,g,a,g,a,a,g,g,g,t,g,1
+t,t,t,a,t,a,t,g,a,g,a,t,g,t,g,c,a,t,t,t,t,g,a,t,g,a,g,c,a,a,a,t,a,a,a,a,g,c,a,g,t,a,a,a,g,a,c,a,c,t,t,g,t,a,c,a,c,g,g,g,a,g,t,t,c,t,g,c,a,a,g,t,g,g,g,a,g,t,a,a,a,t,g,g,t,g,t,a,g,g,a,g,a,a,a,t,c,c,g,g,t,g,g,g,a,a,g,a,a,a,g,a,c,c,t,c,t,a,t,a,g,g,a,c,a,g,g,a,c,t,t,c,t,c,a,g,a,a,a,c,a,g,a,t,g,t,t,t,t,g,g,a,a,g,a,g,a,t,g,g,g,a,a,a,a,g,g,t,t,c,a,g,t,g,a,a,g,a,c,c,t,g,g,g,g,g,c,t,g,g,a,t,t,g,a,t,t,g,c,a,g,c,t,g,a,g,t,a,g,c,a,a,g,g,a,t,g,g,t,t,c,t,t,a,a,g,g,a,a,g,g,g,a,a,a,g,t,g,t,t,c,c,a,a,g,c,t,t,t,a,1
+a,a,a,a,g,a,g,a,a,a,a,g,c,a,a,g,g,g,a,a,c,c,g,t,a,c,a,a,g,g,c,a,t,t,a,a,t,g,g,g,t,g,a,c,a,c,t,t,c,t,a,c,c,t,c,c,a,a,a,g,a,g,c,a,g,a,a,a,t,t,a,t,c,a,a,g,a,a,c,t,c,t,t,g,a,t,a,c,a,a,a,g,a,t,a,a,t,a,c,t,g,g,c,a,c,t,g,c,a,g,a,g,g,t,t,c,t,a,g,g,g,a,a,g,a,c,c,t,c,a,a,c,c,c,t,a,a,g,a,c,a,t,a,g,c,c,t,c,a,a,g,g,g,t,a,a,t,g,c,t,a,c,g,a,t,t,a,a,a,c,t,c,c,a,a,c,a,a,t,t,a,c,t,g,a,g,a,a,a,a,t,a,a,t,g,t,g,c,t,c,a,a,t,t,a,a,a,g,g,c,a,t,a,a,t,g,a,t,t,a,c,t,c,a,a,g,a,c,a,a,t,g,t,t,a,t,g,t,t,g,t,c,t,t,t,c,t,t,c,c,1
+g,g,g,c,c,t,t,g,a,g,c,a,t,c,t,g,g,a,t,t,c,t,g,c,c,t,a,a,t,a,a,a,a,a,a,c,a,t,t,t,a,t,t,t,t,c,a,t,t,g,c,a,a,t,g,a,t,g,t,a,t,t,t,a,a,a,t,t,a,t,t,t,c,t,g,a,a,t,a,t,t,t,t,a,c,t,a,a,a,a,a,g,g,g,a,a,t,g,t,g,g,g,a,g,g,t,c,a,g,t,g,c,a,t,t,t,a,a,a,a,c,a,t,a,a,a,g,a,a,a,t,g,a,a,g,a,g,c,t,a,g,t,t,c,a,a,a,c,c,t,t,g,g,g,a,a,a,a,t,a,c,a,c,t,a,t,a,t,c,t,t,a,a,a,c,t,c,c,a,t,g,a,a,a,g,a,a,g,g,t,g,a,g,g,c,t,g,c,a,a,a,c,a,g,c,t,a,a,t,g,c,a,c,a,t,t,g,g,c,a,a,c,a,g,c,c,c,c,t,g,a,t,g,c,a,t,a,t,g,c,c,t,t,a,t,t,c,a,t,c,1
+c,c,c,a,a,c,a,g,a,t,t,c,a,t,a,c,c,a,g,a,a,t,g,c,t,t,a,g,a,c,t,c,t,t,t,t,c,t,c,t,g,a,a,a,a,g,a,t,a,t,t,g,a,g,a,g,a,t,a,t,t,g,a,g,a,t,g,t,a,t,t,g,c,c,t,a,a,a,a,a,a,a,a,g,a,a,a,g,a,a,a,a,g,c,a,g,c,a,a,c,a,a,t,a,a,t,a,a,a,c,a,a,a,a,a,t,c,a,g,t,g,c,c,a,t,a,a,a,a,a,a,g,a,a,a,a,a,a,t,t,a,t,t,a,a,a,a,t,t,g,t,a,g,a,t,t,t,a,c,t,c,t,g,a,g,t,c,c,a,t,g,a,c,a,a,a,t,g,a,c,c,t,t,a,a,a,a,a,a,t,a,t,t,t,a,a,a,t,a,t,a,g,t,c,a,g,a,g,a,a,t,c,a,a,c,a,a,a,c,a,a,g,t,t,c,c,a,t,t,g,t,g,t,c,a,g,c,c,t,g,g,a,c,a,c,a,t,g,t,a,1
+a,g,c,a,a,a,t,t,c,g,t,g,a,c,c,a,t,a,t,t,g,t,g,a,a,a,g,t,g,t,t,t,t,t,c,t,t,c,a,a,a,a,a,a,g,t,a,a,c,t,t,g,a,t,c,g,t,t,a,g,t,g,a,c,t,c,c,t,a,t,a,g,a,g,a,t,t,t,a,g,g,g,t,t,g,g,t,t,c,t,a,a,g,t,a,a,a,a,a,c,c,t,a,a,a,t,a,t,a,a,t,g,a,a,a,g,t,c,a,c,a,g,a,t,c,a,a,t,a,t,t,c,t,c,a,a,a,c,t,a,c,t,a,g,c,t,c,a,a,c,a,c,a,t,a,c,c,t,g,t,a,a,t,t,c,t,a,g,c,t,a,t,g,t,c,t,c,a,c,t,t,t,t,t,a,g,t,a,t,t,t,g,c,t,t,t,g,a,a,t,c,t,a,t,a,t,t,t,t,g,a,t,a,a,a,t,t,t,g,g,a,a,t,c,a,t,t,t,a,t,c,t,g,t,g,t,c,t,t,a,t,t,t,a,c,t,t,t,a,t,1
+c,a,c,a,t,t,a,g,a,g,a,t,a,a,g,g,t,a,g,t,a,a,a,a,a,c,a,t,t,c,t,g,t,t,c,c,a,a,a,g,a,t,g,a,g,g,c,t,t,g,a,a,a,t,t,t,g,a,t,t,g,a,a,a,t,a,g,t,t,t,c,t,t,c,a,t,a,a,a,g,a,t,a,a,t,a,g,c,t,c,a,c,c,t,a,t,t,a,c,t,a,g,a,c,c,t,a,t,g,a,g,a,t,c,c,a,g,t,c,a,a,t,g,g,t,t,t,g,g,g,g,t,a,t,c,a,t,t,a,t,g,a,t,t,g,a,t,g,a,a,t,a,a,a,t,t,a,a,t,g,t,g,t,c,t,g,t,a,t,a,c,a,c,a,c,a,c,c,t,a,c,a,a,a,c,a,t,a,t,a,t,a,c,a,c,a,t,a,t,a,t,a,t,t,c,a,t,a,t,c,t,c,t,g,c,a,a,g,c,a,t,t,t,t,t,c,t,a,g,g,t,a,t,a,t,t,a,a,t,a,g,a,a,a,t,g,a,a,a,a,1
+t,g,c,a,g,g,a,a,c,a,a,g,g,a,a,t,g,g,a,a,a,a,g,g,a,a,g,a,g,t,a,c,c,t,a,a,t,a,c,a,t,a,c,g,a,g,g,t,t,c,t,g,a,a,t,g,c,a,a,t,t,t,t,a,t,g,a,a,a,t,t,t,c,a,g,t,g,a,g,a,g,a,a,a,t,g,t,c,t,t,g,t,c,a,t,a,a,a,a,a,t,t,a,t,a,t,t,c,t,a,a,t,a,t,g,t,g,g,c,t,t,t,a,t,t,g,g,c,t,c,t,c,t,t,c,t,g,t,a,t,t,t,a,a,a,t,a,c,a,t,t,g,a,a,t,t,t,c,t,c,c,a,t,c,t,g,c,t,t,t,t,c,a,t,a,c,c,a,c,a,t,t,t,t,g,a,g,a,t,c,t,g,t,t,g,c,t,g,c,a,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,g,a,g,a,c,a,g,a,g,t,c,t,t,g,c,t,c,t,g,t,t,g,c,c,c,a,g,g,c,t,g,g,1
+c,t,a,a,a,c,a,g,a,t,t,a,g,a,g,t,g,a,g,a,g,t,t,g,t,a,g,c,a,a,a,a,t,t,g,t,g,t,c,a,a,t,g,g,a,a,g,a,t,t,t,a,a,c,a,g,t,c,a,t,a,t,g,t,g,a,c,a,g,a,a,a,a,c,c,t,g,g,a,a,a,t,g,t,c,t,g,g,t,a,a,g,a,t,a,t,t,t,a,a,g,g,t,a,a,a,t,t,t,g,a,g,a,a,a,c,c,t,a,a,t,a,t,t,t,g,a,c,a,c,c,a,a,g,a,a,t,t,a,t,c,a,a,c,a,c,a,t,a,t,t,t,t,t,a,t,c,g,t,t,a,t,c,a,c,a,g,a,c,t,t,a,t,t,t,t,a,t,t,c,a,c,t,c,t,a,g,a,t,a,c,t,g,a,g,a,a,t,g,g,g,a,a,t,a,a,a,a,c,t,g,t,a,a,c,c,a,g,g,a,a,g,t,a,c,g,t,t,g,c,c,t,t,a,t,g,t,c,c,c,c,a,t,t,t,c,a,g,t,t,1
+g,t,g,t,c,a,a,c,g,g,a,a,g,a,t,t,t,a,a,c,a,g,t,c,a,t,a,t,g,t,g,a,c,a,g,a,a,a,a,c,c,t,g,g,a,a,a,t,g,t,c,t,g,g,t,a,a,g,a,t,a,t,t,t,a,a,g,g,t,a,a,a,t,t,t,g,a,g,a,a,a,c,c,t,a,a,t,a,t,t,t,g,a,c,a,c,c,a,a,g,a,a,t,t,a,t,c,a,a,c,a,c,a,t,a,t,t,t,t,t,g,t,t,g,t,t,g,t,c,a,t,a,g,a,g,t,t,a,t,t,t,t,a,t,t,c,a,c,t,c,t,g,g,a,t,a,c,t,g,c,g,a,a,t,g,a,g,a,a,t,a,g,a,a,c,t,a,t,a,a,a,c,a,g,g,a,a,g,t,a,c,g,t,t,g,c,c,t,t,a,t,g,t,c,c,c,c,a,t,t,t,c,a,g,t,t,a,a,g,c,a,g,a,a,t,a,a,a,a,a,t,a,a,a,t,g,t,c,t,t,a,t,g,a,t,a,g,c,a,t,1
+t,c,c,c,g,c,c,t,g,t,g,c,t,a,a,a,c,c,c,c,a,t,t,g,t,c,t,a,c,a,g,t,g,t,g,a,a,g,a,c,c,a,a,g,c,a,a,a,t,t,t,g,a,a,g,a,a,t,g,a,t,c,t,t,t,c,a,a,g,t,g,t,t,c,c,a,g,a,g,g,c,a,a,a,a,a,a,a,a,t,a,g,g,g,t,c,t,a,g,t,a,g,a,a,t,g,g,a,a,t,c,a,t,g,t,g,t,a,a,g,a,a,g,c,a,g,a,g,t,a,a,g,t,a,t,c,c,a,c,t,g,g,a,a,g,a,a,t,t,a,a,t,t,a,t,t,t,a,a,t,t,t,t,c,c,a,c,a,g,t,t,a,t,g,g,t,g,c,a,t,c,a,a,a,t,t,t,t,g,c,a,c,a,t,c,t,g,g,g,g,a,a,a,t,g,c,a,g,g,a,g,t,g,g,g,t,a,a,g,g,c,t,t,g,t,g,g,g,t,g,a,a,g,a,t,a,c,a,t,a,a,c,a,g,g,t,c,a,t,t,1
+t,g,g,t,g,c,t,c,a,g,t,g,a,g,t,a,g,g,a,t,g,t,c,c,c,t,c,c,g,t,g,t,t,t,g,g,t,g,g,t,a,c,a,g,g,g,c,t,c,c,t,g,a,t,a,c,t,a,a,a,g,t,t,t,c,t,g,t,g,a,g,a,a,c,t,c,a,g,c,t,c,a,c,c,a,a,g,c,a,t,g,a,a,a,t,g,a,t,c,a,t,t,c,a,c,g,t,a,c,a,c,a,t,a,a,g,t,g,c,a,t,a,t,a,t,g,t,g,c,a,t,g,t,a,g,c,t,t,c,c,t,g,t,c,c,c,t,g,g,a,a,g,t,a,t,g,c,c,t,g,t,g,t,a,t,a,t,t,g,a,t,g,c,a,a,a,c,t,t,a,c,a,a,g,c,c,c,c,a,a,a,g,a,a,t,g,a,a,c,a,t,g,a,t,c,c,a,c,c,c,a,c,t,g,g,t,a,c,a,t,t,a,c,a,t,a,t,c,a,a,t,g,a,c,a,t,a,g,g,a,a,g,g,g,c,c,a,g,a,g,1
+c,c,a,a,a,c,a,g,a,t,c,g,g,g,g,a,c,a,g,g,g,t,t,a,t,c,c,a,a,g,g,a,t,g,t,t,g,t,g,g,a,a,a,c,a,t,c,c,c,c,t,g,a,g,c,a,a,a,g,g,g,t,c,a,g,t,g,t,a,t,c,c,c,c,a,t,c,a,c,t,t,a,c,a,t,t,g,c,c,c,c,a,c,t,a,a,t,g,t,g,g,g,g,a,c,a,t,t,a,a,t,g,a,a,c,a,t,t,t,g,a,c,a,g,g,c,t,a,t,t,a,c,t,t,a,t,t,a,t,c,a,c,t,a,a,g,t,c,a,g,c,t,c,t,g,t,a,a,a,t,a,a,c,t,g,g,c,t,c,a,g,a,g,g,t,a,a,g,c,a,a,c,c,c,t,c,t,a,g,a,g,g,c,a,a,g,a,g,a,a,a,c,a,a,t,t,t,t,c,a,g,g,g,t,a,c,c,t,a,g,a,a,a,a,g,a,g,a,t,a,c,c,t,g,a,g,a,g,a,t,g,t,g,a,t,g,g,a,t,a,1
+t,a,a,a,a,a,c,a,a,a,a,c,a,a,a,t,c,c,g,c,a,a,g,g,c,t,a,t,g,c,t,c,a,g,t,c,t,g,c,t,g,c,t,t,a,c,a,a,a,a,t,g,a,a,c,a,g,a,c,a,t,a,g,t,t,t,t,a,t,t,t,g,a,t,a,c,a,a,a,c,c,t,g,g,c,a,t,g,a,a,t,g,a,c,t,t,g,c,a,c,t,g,t,a,g,a,a,a,a,g,c,g,a,a,c,t,t,g,c,t,c,t,c,t,t,a,c,t,g,c,c,t,a,t,t,g,c,a,t,g,t,g,g,g,t,t,t,t,t,a,a,a,a,t,a,t,t,t,t,t,c,a,t,t,c,a,c,c,a,a,a,c,a,a,a,t,a,g,t,a,a,a,t,a,t,g,t,t,g,t,a,t,a,t,t,t,g,g,t,c,a,t,a,a,a,a,t,a,t,a,a,g,t,a,t,g,a,t,a,t,a,t,c,a,c,c,c,a,a,g,a,c,a,t,t,t,g,t,a,g,t,g,g,a,a,t,t,a,g,g,1
+g,c,a,c,t,g,a,t,c,t,c,a,c,a,g,g,g,t,t,g,t,g,a,t,g,c,a,g,a,t,t,a,a,a,g,g,a,g,a,t,g,g,c,a,t,g,t,g,t,a,a,t,g,t,a,t,a,c,a,g,c,t,g,g,t,g,c,c,t,g,g,t,a,a,a,t,g,t,c,g,g,t,t,c,t,g,t,c,a,t,t,c,c,c,t,c,a,c,c,t,c,t,t,c,a,g,t,c,c,c,t,g,c,c,t,c,t,g,a,c,t,a,c,c,a,c,c,a,t,c,c,c,a,a,g,a,c,t,a,c,t,a,a,c,a,a,g,t,a,g,g,a,a,a,g,a,g,c,c,g,a,g,a,g,t,g,a,g,g,c,t,g,g,a,g,a,a,t,t,t,a,a,t,t,c,c,t,a,a,t,g,g,a,t,g,a,c,c,t,c,c,a,g,g,a,t,t,g,g,g,a,c,a,t,c,t,g,c,c,a,g,a,g,c,t,c,t,c,c,c,a,t,c,a,t,c,c,c,a,g,a,t,g,g,g,g,g,c,c,t,1
+c,a,t,t,a,g,c,t,g,c,g,g,g,t,t,t,c,c,t,t,t,c,a,t,c,t,t,c,g,c,t,g,t,g,g,c,a,g,a,c,g,t,t,t,c,t,a,t,t,t,t,a,g,c,a,c,t,t,g,c,g,c,t,c,g,c,c,g,a,g,t,g,g,c,g,t,c,a,c,c,a,g,c,g,g,t,a,c,t,g,t,a,a,t,g,a,c,g,a,t,t,g,c,a,g,c,a,g,g,a,g,g,a,t,g,a,c,a,g,c,t,t,a,g,a,a,a,g,a,a,g,a,g,g,g,c,a,a,t,g,g,g,g,c,t,t,c,c,t,c,c,c,a,g,a,g,g,c,g,g,t,g,c,g,g,c,a,c,a,g,a,g,g,a,g,c,g,c,t,c,g,c,t,t,c,a,c,a,a,g,g,t,g,a,c,c,c,t,a,g,c,t,c,c,c,a,c,c,g,c,c,a,c,c,g,c,c,g,c,g,g,t,c,g,c,g,g,t,c,c,a,g,a,c,c,g,c,g,c,t,c,c,a,g,c,a,g,c,t,c,0
+a,a,g,g,g,g,c,c,g,a,c,c,c,g,c,g,c,g,a,g,g,c,t,g,g,g,a,c,c,g,g,c,g,g,a,a,g,g,g,g,c,g,t,g,g,c,c,t,g,c,t,a,g,a,g,g,g,g,c,g,g,g,g,c,g,a,t,a,g,g,g,a,t,c,c,a,g,a,g,t,c,t,t,g,g,g,g,a,t,c,c,a,g,a,g,t,c,t,t,g,g,g,g,c,t,c,c,a,t,g,t,g,a,g,t,t,t,g,c,t,g,t,a,c,c,g,g,t,t,g,t,c,c,c,g,g,t,c,a,c,g,g,c,a,t,g,g,g,g,c,g,a,g,c,g,g,a,c,a,c,t,c,c,a,c,g,a,c,a,c,c,c,c,c,c,g,c,c,c,c,c,g,g,c,t,g,c,a,g,g,g,t,t,t,g,g,g,g,t,c,c,a,c,c,g,g,g,g,c,g,c,a,t,t,t,c,t,g,a,t,c,c,c,a,g,t,g,g,c,t,c,t,t,c,g,g,g,t,g,c,t,c,t,t,g,g,c,c,g,g,0
+a,a,g,g,g,g,c,c,g,a,c,c,c,g,c,g,c,g,a,g,g,c,t,g,g,g,a,c,c,g,g,c,g,g,a,a,g,g,g,g,c,g,t,g,g,c,c,t,g,c,t,g,a,a,g,g,g,g,c,g,g,g,g,c,g,a,t,a,g,g,g,a,t,c,c,a,g,a,g,t,c,t,t,g,g,g,g,a,t,c,c,a,g,a,g,t,c,t,t,g,g,g,g,c,t,c,c,a,t,g,t,g,a,g,t,t,t,g,c,t,g,t,a,c,c,g,g,t,t,g,t,c,c,c,g,g,t,c,a,c,g,g,c,a,t,g,g,g,g,c,g,a,g,c,g,g,a,c,a,c,t,c,c,a,c,g,a,c,a,c,c,c,c,c,c,g,c,c,c,c,c,g,g,c,t,g,c,a,g,g,g,t,t,t,g,g,g,g,t,c,c,a,c,c,g,g,g,g,c,g,c,a,t,t,t,c,t,g,a,t,c,c,c,a,g,t,g,g,c,t,c,t,t,c,g,g,g,t,g,c,t,c,t,t,g,g,c,c,g,g,0
+t,g,t,g,g,t,c,a,g,a,c,t,c,t,g,g,c,c,a,a,c,a,c,c,c,c,c,t,g,t,a,a,g,g,c,c,a,c,a,g,g,a,g,a,g,g,a,a,c,a,t,a,g,g,t,g,a,t,a,g,c,c,c,c,c,a,a,a,c,c,c,c,a,g,t,c,c,c,a,c,c,a,g,g,c,c,c,t,g,a,g,g,g,c,c,c,c,t,t,t,g,t,c,a,c,t,g,g,a,t,c,t,g,a,t,a,a,g,a,a,a,c,a,c,c,a,c,c,c,c,t,g,c,a,g,c,c,c,c,c,t,c,c,c,c,t,c,a,c,c,t,g,a,c,c,a,a,t,g,g,c,c,a,c,a,g,c,c,t,g,g,c,t,g,g,g,c,c,c,a,g,c,t,c,c,c,t,g,t,a,t,a,t,a,a,g,g,g,g,a,c,c,c,t,g,g,g,g,g,c,t,g,a,g,c,a,c,t,a,c,c,a,a,g,g,c,c,a,g,t,c,c,t,g,a,g,c,a,g,g,c,c,c,a,a,c,t,c,c,a,0
+c,a,c,g,t,g,g,c,a,g,c,t,g,c,t,g,c,t,t,g,g,c,t,t,c,t,g,g,c,c,c,c,c,t,t,a,t,c,t,g,c,c,c,c,c,g,c,c,c,c,t,a,a,c,g,c,c,c,t,g,g,c,a,g,c,a,c,c,a,t,g,a,g,c,c,g,c,c,a,g,c,t,t,c,t,g,c,c,t,g,t,a,c,t,g,c,t,g,c,t,g,c,t,g,c,t,g,c,t,c,a,g,g,g,c,t,t,c,g,t,g,c,c,c,a,t,g,g,g,g,t,c,a,g,g,a,a,c,a,g,g,g,a,g,c,g,a,g,g,a,g,c,c,c,c,t,c,g,g,a,g,g,a,g,c,c,t,c,c,a,g,a,g,g,a,g,g,a,a,a,t,c,c,c,c,a,a,g,g,a,g,g,a,t,g,g,g,a,t,c,t,t,g,g,t,g,c,t,g,a,g,c,c,g,c,c,a,c,a,c,c,c,t,g,g,g,c,c,t,g,g,c,c,c,t,g,c,g,g,g,a,g,c,a,c,c,c,t,g,c,0
+c,t,g,t,a,g,t,c,c,c,g,c,c,t,a,c,t,c,g,t,c,c,t,g,g,c,c,g,c,a,g,a,g,t,c,a,g,c,g,t,c,t,c,c,g,g,a,g,c,g,t,g,a,c,c,t,t,c,t,c,c,c,g,c,c,c,t,g,g,g,g,c,t,c,a,c,g,t,g,g,g,a,a,t,t,t,c,a,c,c,c,t,c,c,a,t,t,g,g,a,g,g,g,g,g,c,t,c,a,g,a,c,c,a,g,g,g,c,t,t,c,t,a,g,a,c,c,t,c,c,t,t,t,t,g,g,t,c,c,g,t,g,a,a,t,t,t,a,t,t,t,t,t,g,a,g,a,c,a,g,a,g,t,c,t,t,g,c,t,c,t,a,t,t,g,c,t,c,a,g,g,c,t,g,g,a,g,t,g,c,a,g,c,g,g,t,g,c,a,g,t,c,a,c,a,g,c,t,c,a,c,t,g,c,a,g,c,c,t,c,a,a,t,c,t,c,c,t,g,g,g,c,t,c,a,c,g,c,g,a,t,c,c,t,c,c,t,g,c,c,0
+a,g,g,t,g,a,g,c,a,c,a,t,a,c,c,t,g,c,t,t,c,g,c,a,c,c,c,c,a,t,g,c,g,c,c,t,a,a,c,c,a,c,a,a,g,g,t,t,c,c,t,a,g,c,c,t,c,c,a,g,g,a,a,g,g,c,c,g,t,t,g,t,c,t,t,c,c,c,t,g,g,g,a,c,g,a,c,t,t,g,c,c,a,g,c,t,c,t,g,a,g,g,c,a,t,g,a,c,a,g,t,a,c,g,g,g,c,c,c,c,c,a,g,a,a,g,g,g,t,g,a,c,c,a,g,g,a,g,g,c,c,c,t,c,c,t,c,g,t,c,c,c,a,g,c,t,g,c,c,g,g,c,g,t,c,g,c,c,g,c,c,c,a,c,t,g,c,a,g,g,g,c,c,c,g,g,g,c,t,g,t,g,a,c,t,c,g,t,g,g,g,g,a,c,g,g,t,t,c,c,c,t,g,c,g,c,c,c,c,g,g,c,g,g,g,g,g,a,g,g,t,g,g,g,c,g,g,g,g,a,g,g,g,g,c,g,g,c,g,g,0
+a,g,g,t,g,a,g,c,a,c,a,t,a,c,c,t,g,c,t,t,c,g,c,a,c,c,c,c,a,t,g,c,g,c,c,t,a,a,c,c,a,c,a,a,g,g,t,t,c,c,t,a,a,c,c,t,c,c,a,g,g,a,a,g,g,c,c,g,t,t,g,t,c,t,t,c,c,c,t,g,g,g,a,c,g,a,c,t,t,g,c,c,a,g,c,t,c,t,g,a,g,g,c,a,t,g,a,c,a,g,t,a,c,g,g,g,c,c,c,c,c,a,g,a,a,g,g,g,t,g,a,c,c,a,g,g,a,g,g,c,c,c,t,c,c,t,c,g,t,c,c,c,a,g,c,t,g,c,c,g,g,c,g,t,c,g,c,c,g,c,c,c,a,c,t,g,c,a,g,g,g,c,c,c,g,g,g,c,t,g,t,g,a,c,t,c,g,t,g,g,g,g,a,c,g,g,t,t,c,c,c,t,g,c,g,c,c,c,c,g,g,c,g,g,g,g,g,a,g,g,t,g,g,g,c,g,g,g,g,a,g,g,g,g,c,g,g,c,g,g,0
+c,t,g,g,g,c,a,g,g,g,a,t,a,t,a,a,a,g,g,g,c,c,c,a,g,g,c,t,c,a,g,g,g,a,g,c,t,c,c,a,t,a,c,c,t,g,c,a,c,a,t,a,g,c,c,c,t,c,t,c,a,c,c,t,g,c,t,c,c,t,c,t,a,c,c,t,g,c,t,c,c,a,c,c,c,t,c,a,a,t,c,c,a,c,c,a,g,a,a,c,c,a,t,g,g,g,c,t,g,c,t,g,t,g,g,c,t,g,c,t,c,t,g,g,a,g,g,c,t,g,t,g,g,c,t,c,c,g,g,c,t,g,t,g,g,g,g,g,c,t,g,t,g,g,c,t,c,t,g,g,c,t,g,t,g,g,g,g,g,c,t,g,t,g,g,g,t,c,c,a,g,c,t,g,c,t,g,t,g,t,g,c,c,c,a,t,c,t,g,c,t,g,c,t,g,c,a,a,g,c,c,c,g,t,g,t,g,c,t,g,c,t,g,t,g,t,g,c,c,a,g,c,c,t,g,t,t,c,c,t,g,c,a,c,c,a,g,c,t,g,0
+c,c,c,c,g,c,c,c,c,c,g,t,c,t,c,a,c,t,c,c,g,t,c,t,g,a,a,t,t,c,c,t,c,t,c,c,g,t,c,t,c,c,c,t,c,c,c,a,c,c,t,a,a,g,c,c,g,t,c,t,a,t,g,c,t,c,c,a,g,g,c,c,c,t,c,t,c,c,t,c,g,c,g,g,t,g,c,c,g,g,t,g,a,a,c,c,c,g,c,c,a,g,c,c,g,c,c,c,c,g,a,t,g,t,a,c,a,g,c,a,t,g,a,t,g,a,t,g,g,a,g,a,c,c,g,a,c,c,t,g,c,a,c,t,c,g,c,c,c,g,g,c,g,g,c,g,c,c,c,a,g,g,c,c,c,c,c,a,c,g,a,a,c,c,t,c,t,c,g,g,g,c,c,c,c,g,c,c,g,g,g,g,c,g,g,g,c,g,g,c,g,g,c,g,g,g,g,g,c,g,g,a,g,g,c,g,g,g,g,g,c,g,g,c,g,g,c,g,g,c,g,g,c,g,g,g,g,g,c,g,c,c,a,a,g,g,c,c,a,a,0
+a,g,g,t,g,a,g,c,a,c,a,t,a,c,c,t,g,c,t,t,c,g,c,a,c,c,c,c,a,t,g,c,g,c,c,t,a,a,c,c,a,c,a,a,g,g,t,t,c,c,t,g,a,c,c,t,c,c,a,g,g,a,a,g,g,c,c,g,t,t,g,t,c,t,t,c,c,c,t,g,g,g,a,c,g,a,c,t,t,g,c,c,a,g,c,t,c,t,g,a,g,g,c,a,t,g,a,c,a,g,t,a,c,g,g,g,c,c,c,c,c,a,g,a,a,g,g,g,t,g,a,c,c,a,g,g,a,g,g,c,c,c,t,c,c,t,c,g,t,c,c,c,a,g,c,t,g,c,c,g,g,c,g,t,c,g,c,c,g,c,c,c,a,c,t,g,c,a,g,g,g,c,c,c,g,g,g,c,t,g,t,g,a,c,t,c,g,t,g,g,g,g,a,c,g,g,t,t,c,c,c,t,g,c,g,c,c,c,c,g,g,c,g,g,g,g,g,a,g,g,t,g,g,g,c,g,g,g,g,a,g,g,g,g,c,g,g,c,g,g,0
+g,c,t,g,c,g,g,g,a,t,a,c,c,g,c,g,g,c,c,a,g,g,g,a,a,a,g,c,g,c,g,t,g,g,a,g,a,g,c,c,g,a,a,a,g,g,t,g,c,g,t,a,g,g,g,c,g,c,a,g,a,g,g,g,c,g,g,g,c,t,g,g,c,t,g,c,g,g,g,g,c,g,a,c,c,g,c,g,c,g,c,c,g,g,g,g,c,c,a,t,g,c,c,g,c,g,c,t,c,c,t,t,c,c,t,g,g,t,g,g,a,c,t,c,g,c,t,a,g,t,g,c,t,g,c,g,c,g,a,g,g,c,g,g,g,c,g,a,g,a,a,g,a,a,g,g,c,g,c,c,c,g,a,g,g,g,c,a,g,c,c,c,g,c,c,g,c,c,g,c,t,c,t,t,c,c,c,c,t,a,c,g,c,t,g,t,g,c,c,c,c,c,g,c,c,g,c,a,c,g,c,g,c,t,g,c,a,c,g,g,t,c,t,c,t,c,g,c,c,t,g,g,c,g,c,c,t,g,c,c,a,c,g,c,g,c,g,c,a,a,0
+g,c,c,g,g,t,c,c,g,c,g,c,t,g,g,c,t,g,t,g,g,g,t,t,c,c,c,t,c,t,g,a,g,a,t,c,a,g,t,g,c,g,g,a,g,c,t,g,t,c,t,a,a,g,c,g,a,g,c,a,g,g,g,g,t,g,g,c,g,c,c,g,g,g,a,g,t,g,g,g,a,a,c,g,c,c,a,c,a,c,a,g,t,g,c,c,a,a,a,t,c,c,c,c,g,g,c,t,c,c,a,g,c,t,c,c,c,g,a,c,t,c,c,c,g,g,c,t,c,c,c,g,g,c,t,c,c,c,g,g,c,t,c,c,c,g,g,t,g,c,c,c,a,a,t,c,c,c,g,g,g,c,c,g,c,a,g,c,c,a,t,g,a,a,c,g,g,c,g,a,g,g,a,g,c,a,g,t,a,c,t,a,c,g,c,g,g,c,c,a,c,g,c,a,g,c,t,t,t,a,c,a,a,g,g,a,c,c,c,a,t,g,c,g,c,g,t,t,c,c,a,g,c,g,a,g,g,c,c,c,g,g,c,g,c,c,g,g,a,g,0
+c,a,g,c,c,t,g,g,g,c,a,a,c,a,a,g,a,g,t,a,a,a,a,c,t,c,c,g,t,c,t,a,a,a,a,a,a,a,a,a,g,a,a,a,a,a,a,a,a,g,t,a,a,a,t,t,g,c,c,a,g,a,g,t,c,t,t,g,g,c,g,a,t,t,t,g,g,c,c,c,g,a,c,g,c,g,c,t,c,c,g,c,t,t,t,c,g,c,t,a,c,a,g,c,a,t,g,g,t,g,g,c,c,t,a,c,t,g,g,a,g,a,c,a,g,g,c,t,g,g,a,c,t,c,a,g,c,t,a,c,a,t,c,c,g,a,t,a,c,t,c,c,c,a,g,a,t,c,t,g,t,g,c,a,a,a,a,g,t,a,g,t,g,a,g,a,g,a,t,g,c,a,c,t,g,a,a,g,a,c,a,g,a,a,t,t,c,a,a,a,g,c,a,a,a,t,g,c,c,a,a,a,a,a,g,a,c,t,t,c,t,g,g,c,a,a,c,a,g,c,g,t,a,a,a,a,a,t,t,g,t,g,a,a,a,g,t,a,a,a,0
+g,g,g,a,a,g,c,t,a,a,a,a,a,g,a,a,a,a,t,t,c,a,a,g,t,t,c,t,t,t,g,a,a,a,a,t,t,a,g,a,a,a,t,a,a,t,a,a,c,t,t,a,a,t,g,a,a,t,c,t,t,g,a,a,g,t,g,c,c,a,g,a,g,a,g,a,t,g,t,t,a,c,a,a,g,t,g,a,t,a,a,a,c,t,a,t,g,t,a,t,t,a,t,g,t,g,t,t,a,t,g,t,t,a,a,a,t,g,a,c,t,g,a,a,a,c,a,t,c,c,c,t,g,t,c,t,t,c,t,c,a,g,t,g,c,t,t,c,c,c,t,a,t,g,t,c,g,g,t,c,c,t,c,a,a,t,a,a,t,a,c,c,a,t,t,g,c,t,g,a,g,c,c,t,c,t,g,a,t,c,t,t,c,c,t,c,c,t,g,a,t,g,g,g,c,a,t,t,c,c,a,g,g,c,c,t,g,a,a,a,g,c,c,a,c,c,c,a,g,t,a,c,t,g,g,a,t,c,t,c,c,a,t,c,c,c,t,t,t,t,0
+a,g,a,a,t,c,t,t,a,a,t,t,a,t,t,t,t,t,c,t,t,t,c,c,t,c,a,t,a,g,t,t,c,a,g,t,g,t,c,t,t,c,a,a,c,c,a,a,c,c,t,g,a,g,c,a,a,t,a,t,t,c,a,a,t,a,a,c,a,c,c,a,c,t,t,c,g,t,c,t,t,c,c,t,c,a,a,a,c,t,t,c,c,t,c,c,t,c,a,c,t,g,c,a,t,t,c,c,c,t,g,g,g,c,t,g,g,a,a,t,g,t,g,c,t,c,a,t,g,t,c,t,g,g,a,t,c,t,c,c,a,t,t,c,c,a,g,t,c,t,g,c,t,g,t,c,t,c,t,a,c,a,c,c,a,t,t,g,c,c,c,t,c,t,t,g,g,g,a,a,a,c,a,g,t,a,t,g,a,t,c,t,t,t,c,t,t,g,t,c,a,t,c,a,t,t,a,c,t,a,a,g,c,g,g,a,g,a,c,t,c,c,a,c,a,a,a,c,c,c,a,t,g,t,a,t,t,a,t,t,t,c,c,t,c,t,c,c,a,t,0
+t,t,c,a,t,t,t,a,t,a,t,g,g,t,t,t,c,a,g,a,t,c,c,g,g,c,t,a,a,c,g,a,g,c,t,c,a,t,a,t,c,t,c,c,c,t,c,a,t,t,t,g,a,t,c,t,g,t,t,c,t,c,a,a,t,a,a,c,t,c,c,g,a,a,g,t,c,a,a,g,c,t,t,t,t,c,c,t,t,c,t,g,a,t,t,g,g,g,a,t,c,c,c,a,g,g,a,c,t,g,g,a,a,c,a,t,g,c,c,c,a,c,a,t,t,t,g,g,t,t,c,t,c,c,a,t,c,c,c,c,a,t,t,t,g,c,c,t,c,a,t,g,t,a,c,c,t,g,c,t,t,g,c,c,a,t,c,a,t,g,g,g,c,a,a,c,t,g,c,a,c,c,a,t,t,c,t,c,t,t,t,a,t,t,a,t,a,a,a,g,a,c,a,g,a,g,c,c,c,t,c,g,c,t,t,c,a,t,g,a,g,c,c,c,a,t,g,t,a,t,t,a,t,t,t,c,c,t,t,g,c,c,a,t,g,t,t,g,g,c,0
+a,g,g,a,a,a,a,c,a,c,g,a,a,c,c,a,t,t,c,c,t,c,a,c,t,a,c,t,t,g,c,t,g,a,a,t,t,a,c,t,c,a,a,a,g,t,c,a,c,t,t,g,a,g,g,a,g,a,c,t,g,g,a,a,t,a,a,c,a,g,t,g,a,t,g,c,t,g,t,g,g,a,g,c,c,c,a,t,a,t,t,t,a,t,c,c,t,g,a,g,g,g,g,t,t,t,t,c,c,t,g,g,a,c,t,g,g,a,g,t,a,t,g,t,t,c,a,t,t,c,t,t,g,g,c,t,c,t,c,c,a,t,c,c,t,c,t,t,c,t,g,t,c,t,t,g,c,a,t,a,t,t,t,g,g,t,a,g,c,a,t,t,t,a,t,g,g,g,t,a,a,t,g,t,t,a,c,c,a,t,c,c,t,g,t,c,t,g,t,c,a,t,t,t,g,g,a,t,a,g,a,a,t,c,c,t,c,t,c,t,c,c,a,t,c,a,g,c,c,c,a,t,g,t,a,t,t,a,c,t,t,t,a,t,t,t,c,c,a,t,0
+a,g,c,t,g,c,t,g,c,t,t,c,t,a,c,a,t,g,t,g,g,c,a,a,g,t,t,c,t,c,c,t,a,c,a,c,t,g,t,g,a,t,t,t,g,g,a,a,a,a,t,a,a,t,t,t,t,a,t,c,a,c,a,a,c,a,a,g,a,g,c,a,t,a,t,t,t,c,a,c,c,c,a,g,t,c,a,c,a,t,t,t,t,t,c,c,t,c,a,t,t,g,g,a,a,t,c,c,c,a,g,g,t,c,t,g,g,a,a,g,a,c,t,t,c,c,a,c,a,t,g,t,g,g,a,t,c,t,c,c,g,g,g,c,c,t,t,t,c,t,g,c,t,c,t,g,t,t,t,a,c,c,t,t,g,t,g,g,c,t,t,t,g,c,t,g,g,g,c,a,a,t,g,c,c,a,c,c,a,t,t,c,t,g,c,t,a,g,t,c,a,t,c,a,a,g,g,t,a,g,a,a,c,a,g,a,c,t,c,t,c,c,g,g,g,a,g,c,c,c,a,t,g,t,t,c,t,a,c,t,t,c,c,t,g,g,c,c,a,t,0
+c,t,t,g,a,a,a,t,a,a,g,g,c,c,c,a,g,g,c,a,g,a,a,c,c,g,c,g,g,t,t,c,t,a,g,t,c,t,c,c,c,a,g,c,t,c,c,a,g,c,t,a,g,g,c,c,t,t,t,g,g,g,t,t,t,g,c,t,g,t,g,g,t,g,t,c,c,t,t,g,t,c,t,c,c,t,g,c,a,g,g,a,c,c,g,g,c,c,g,c,a,g,c,a,t,g,g,a,c,g,c,t,c,c,c,a,g,g,c,g,g,t,t,t,c,c,g,a,c,g,c,t,c,g,t,g,c,a,a,c,t,g,a,t,g,c,a,g,c,c,a,a,a,a,g,c,a,a,t,g,c,c,a,g,t,g,g,a,g,g,t,g,c,t,c,g,g,t,c,a,c,c,t,c,c,c,t,a,a,g,c,g,g,t,t,c,t,c,c,t,g,g,t,t,c,c,a,c,t,c,t,g,a,g,t,t,c,c,t,g,a,a,g,a,a,t,c,c,g,a,a,g,g,t,a,g,t,t,c,g,c,c,t,t,g,a,g,g,t,t,0
+t,c,c,g,c,c,c,c,t,c,a,a,a,g,t,g,c,t,g,a,g,a,t,c,a,c,a,g,g,c,g,t,g,a,g,c,c,a,c,g,g,c,a,c,t,c,c,g,c,c,t,a,g,a,t,t,c,c,t,g,a,c,t,t,g,t,a,c,t,g,c,c,c,c,a,g,t,g,g,t,g,t,t,a,c,a,g,c,c,t,c,g,a,a,c,c,c,a,g,t,t,t,c,c,a,g,a,c,c,t,a,a,g,t,c,a,c,c,g,c,c,g,g,c,a,t,c,c,a,g,a,g,t,c,c,c,a,t,g,a,t,g,g,a,a,a,g,g,g,a,g,g,c,t,a,g,g,t,t,c,c,c,c,t,g,g,g,a,a,g,g,a,c,c,t,t,g,c,a,c,c,a,c,t,g,c,t,g,c,a,a,g,t,g,c,a,c,c,c,c,a,g,a,a,a,t,c,g,t,c,c,c,a,a,g,c,t,t,t,t,c,t,c,a,a,a,g,g,g,a,c,c,t,g,c,a,g,c,c,a,t,t,t,a,t,a,a,a,a,g,0
+g,g,c,g,c,g,g,c,g,g,g,t,g,g,g,g,c,g,g,g,g,c,g,c,g,c,g,c,g,g,c,t,c,c,c,g,c,g,c,a,c,g,g,a,t,t,c,t,t,c,t,g,a,g,g,c,c,g,c,a,g,c,a,c,c,g,g,c,c,g,c,c,g,g,c,c,c,g,c,c,c,c,g,c,c,c,g,c,c,c,c,g,c,c,c,c,g,c,g,c,c,t,c,t,c,t,a,g,a,c,t,c,t,c,g,g,c,g,a,g,c,a,g,c,g,t,c,g,c,c,c,g,c,g,g,a,g,c,c,g,c,g,c,t,g,g,t,g,c,t,g,t,g,g,c,c,c,g,g,g,c,c,c,t,g,g,c,a,g,c,c,c,t,c,c,c,g,g,g,a,g,g,c,g,a,g,c,c,g,g,g,g,a,g,g,c,g,g,t,g,g,c,c,c,c,t,g,c,c,g,g,t,t,g,c,g,g,c,g,g,g,g,c,g,c,g,g,g,a,a,g,a,g,g,c,g,g,g,a,c,t,c,t,t,t,g,a,c,g,c,0
+g,a,t,c,c,c,g,g,g,c,t,g,c,c,c,a,t,c,t,c,a,c,g,c,c,a,g,g,g,g,g,c,g,g,a,a,c,t,t,c,c,t,g,c,a,g,c,c,t,c,t,a,a,g,c,c,t,c,c,g,c,a,t,c,c,t,c,g,t,g,g,g,c,c,c,t,g,a,c,c,t,t,c,t,c,t,c,t,g,a,g,a,g,c,c,g,g,g,c,a,g,a,g,g,c,t,c,c,g,g,a,g,c,c,a,t,g,c,a,g,g,c,c,g,a,a,g,g,c,c,g,g,g,g,c,a,c,a,g,g,g,g,g,t,t,c,g,a,c,g,g,g,c,g,a,t,g,c,t,g,a,t,g,g,c,c,c,a,g,g,a,g,g,c,c,c,t,g,g,c,a,t,t,c,c,t,g,a,t,g,g,c,c,c,a,g,g,g,g,g,c,a,a,t,g,c,t,g,g,c,g,g,c,c,c,a,g,g,a,g,a,g,g,c,g,g,g,t,g,c,c,a,c,g,g,g,c,g,g,c,a,g,a,g,g,t,c,c,c,c,0
+g,g,g,g,c,g,g,g,g,c,g,g,a,g,c,g,g,g,a,g,c,t,g,c,g,g,g,a,t,t,c,c,g,g,c,t,t,c,a,g,g,g,g,c,g,g,g,g,c,a,t,a,g,g,c,c,t,c,t,g,g,g,c,g,g,a,g,a,t,c,t,g,c,t,g,c,c,g,c,g,t,t,c,t,a,c,c,c,t,t,c,c,g,g,c,c,c,g,t,g,t,t,c,t,a,t,c,c,g,c,c,g,c,c,t,c,c,a,c,c,t,t,c,c,a,t,c,c,g,g,c,g,c,c,g,g,c,t,t,t,c,g,g,c,g,c,g,a,c,g,g,t,c,g,c,c,g,c,g,t,t,c,c,a,t,c,g,t,c,g,c,g,c,g,g,c,c,c,t,t,c,g,g,g,c,g,c,c,c,g,a,g,c,c,c,g,c,a,a,t,g,t,c,g,g,g,c,c,c,c,a,a,c,g,g,a,g,a,c,c,t,g,g,g,g,a,t,g,c,c,g,g,t,g,g,a,g,g,c,g,g,g,a,g,c,g,g,a,a,g,0
+g,g,g,g,g,g,c,a,g,g,a,a,c,t,g,a,g,g,g,g,t,g,c,g,g,a,t,c,c,g,g,g,c,c,c,c,c,c,a,g,c,c,t,g,c,g,a,a,g,c,t,g,a,c,t,c,g,c,a,g,g,t,c,g,a,g,c,g,g,g,c,g,t,c,g,t,c,c,a,c,c,c,t,t,c,g,g,a,g,c,c,c,c,g,c,t,t,t,c,a,t,g,c,g,t,g,a,a,a,t,t,c,c,c,a,g,a,a,g,t,c,g,c,c,t,g,c,g,a,c,c,g,c,c,t,c,c,c,t,g,c,t,t,c,a,a,a,c,a,c,c,a,g,a,g,a,g,g,g,c,c,c,g,g,g,g,t,c,c,t,g,g,c,c,g,g,a,g,a,c,a,g,g,c,c,g,a,a,c,c,t,c,c,g,g,a,g,c,t,g,c,t,t,c,t,g,c,a,c,c,c,g,g,t,a,c,a,t,t,g,a,t,c,g,a,t,c,t,g,a,t,g,g,g,c,t,g,c,g,c,g,c,c,c,g,g,a,a,g,a,0
+g,g,c,g,g,g,g,c,c,g,c,a,g,t,c,t,c,c,c,a,g,g,t,c,c,c,a,g,c,t,g,g,g,g,c,t,g,a,c,g,t,c,g,t,c,c,t,g,g,t,t,a,a,t,g,c,c,c,a,a,a,a,t,a,g,c,c,g,g,c,t,c,c,g,c,c,c,t,c,t,t,c,t,c,c,c,g,g,c,a,g,c,c,c,c,t,g,c,a,g,g,c,c,c,c,c,a,c,c,c,c,c,c,c,a,g,g,g,g,a,c,a,g,g,c,g,g,a,g,c,c,g,g,c,c,t,t,c,t,c,c,c,c,g,t,c,t,c,t,a,g,t,a,g,t,t,t,c,c,g,c,a,c,c,g,c,t,g,a,c,g,c,a,t,g,c,c,t,g,c,g,c,g,c,a,c,a,g,c,t,g,g,g,c,c,g,g,g,c,g,c,g,t,c,c,t,a,c,g,c,a,g,c,a,g,c,c,g,c,g,a,g,c,c,g,g,g,c,t,g,c,g,g,g,t,g,c,c,a,g,a,c,g,g,t,t,c,c,c,g,0
+g,g,g,g,g,c,t,g,a,t,g,t,c,a,g,g,a,g,g,g,a,t,a,c,a,a,a,t,a,g,t,g,c,c,g,a,c,g,g,c,t,g,g,g,g,g,c,c,c,t,t,a,g,t,c,c,c,c,t,c,g,c,c,g,c,a,t,c,c,a,c,t,c,t,c,c,g,g,c,c,g,g,c,c,g,c,c,t,g,c,c,c,g,c,c,g,c,c,t,c,c,t,c,c,g,t,g,c,g,c,c,c,g,c,c,a,g,c,c,t,c,g,c,c,c,g,c,g,c,c,g,t,c,a,c,c,a,t,g,a,g,c,c,a,g,g,c,c,t,a,c,t,c,g,t,c,c,a,g,c,c,a,g,c,g,c,g,t,g,t,c,c,t,c,c,t,a,c,c,g,c,c,g,c,a,c,c,t,t,c,g,g,c,g,g,g,g,c,c,c,c,g,g,g,c,t,t,c,c,c,a,c,t,c,g,g,c,t,c,c,c,c,g,c,t,g,a,g,t,t,c,g,c,c,c,g,t,g,t,t,c,c,c,g,c,g,g,g,c,g,0
+g,g,t,g,c,a,c,g,t,g,c,c,c,c,g,c,t,t,c,c,t,g,c,c,g,c,g,g,g,g,c,c,t,g,a,g,g,c,g,c,c,t,g,a,c,g,c,t,g,c,t,g,a,a,c,g,a,c,c,a,c,a,t,c,g,a,g,c,g,c,a,t,c,c,c,t,g,g,c,t,a,c,g,c,g,t,t,c,g,c,g,c,a,c,a,t,g,a,a,g,c,c,a,g,g,c,c,t,a,g,a,g,t,t,c,c,t,g,c,a,c,c,t,g,t,c,c,c,a,c,a,a,c,a,g,g,c,t,g,c,a,g,g,c,t,g,a,c,g,g,c,a,t,c,c,a,c,a,g,c,g,t,g,t,c,c,t,t,c,c,t,g,g,g,c,c,t,g,c,g,c,g,c,c,t,c,g,c,t,g,g,c,g,g,a,g,c,t,g,c,t,c,c,t,g,g,a,t,c,a,t,a,a,c,c,a,g,g,t,g,c,a,g,g,c,c,a,t,c,c,c,a,c,g,c,g,g,c,c,t,c,c,t,g,g,g,c,c,t,c,0
+c,t,c,c,c,g,g,g,c,g,g,g,c,c,c,c,g,c,c,c,t,c,t,c,c,g,c,c,g,c,t,a,g,c,c,a,a,t,c,c,t,c,g,c,g,t,t,g,a,t,t,g,a,g,t,t,t,g,g,g,c,t,c,g,c,g,g,c,c,c,c,a,g,c,c,t,c,c,c,a,g,c,t,c,t,c,a,g,g,g,c,a,c,g,g,c,c,g,g,t,c,t,g,t,g,c,c,g,g,c,t,g,c,t,c,c,c,g,c,g,g,t,t,a,g,g,t,c,c,c,g,c,c,c,c,g,c,g,c,a,g,c,g,c,g,c,g,c,a,g,c,c,t,g,c,g,g,a,g,c,c,a,g,c,g,g,c,c,g,t,g,a,c,g,c,g,a,c,a,a,c,g,a,t,t,c,g,g,c,t,g,t,g,a,c,g,c,g,a,c,a,a,c,g,a,t,t,c,g,g,c,t,g,t,g,a,c,g,c,g,a,g,c,g,c,g,g,c,c,g,c,t,c,c,c,g,a,t,g,c,g,c,t,c,g,t,g,c,c,g,0
+g,g,c,g,c,g,g,c,g,g,g,t,g,g,g,g,c,g,g,g,g,c,g,c,g,c,g,c,g,g,c,t,c,c,c,g,c,g,c,a,c,g,g,a,t,t,c,t,t,c,t,g,a,g,g,c,c,g,c,a,g,c,a,c,c,g,g,c,c,g,c,c,g,g,c,c,c,g,c,c,c,c,g,c,c,c,g,c,c,c,c,g,c,c,c,c,g,c,g,c,c,t,c,t,c,t,a,g,a,c,t,c,t,c,g,g,c,g,a,g,c,a,g,c,g,t,c,g,c,c,c,g,c,g,g,a,g,c,c,g,c,g,c,t,g,g,t,g,c,t,g,t,g,g,c,c,c,g,g,g,c,c,c,t,g,g,c,a,g,c,c,c,t,c,c,c,g,g,g,a,g,g,c,g,a,g,c,c,g,g,g,g,a,g,g,c,g,g,t,g,g,c,c,c,c,t,g,c,c,g,g,t,t,g,c,g,g,c,g,g,g,g,c,g,c,g,g,g,a,a,g,a,g,g,c,g,g,g,a,c,t,c,t,t,t,g,a,c,g,c,0
+g,a,t,c,c,c,g,g,g,c,t,g,c,c,c,a,t,c,t,c,a,c,g,c,c,a,g,g,g,g,g,c,g,g,a,a,c,t,t,c,c,t,g,c,a,g,c,c,t,c,t,a,g,g,c,c,t,c,c,g,c,a,t,c,c,t,c,g,t,g,g,g,c,c,c,t,g,a,c,c,t,t,c,t,c,t,c,t,g,a,g,a,g,c,c,g,g,g,c,a,g,a,g,g,c,t,c,c,g,g,a,g,c,c,a,t,g,c,a,g,g,c,c,g,a,a,g,g,c,c,g,g,g,g,c,a,c,a,g,g,g,g,g,t,t,c,g,a,c,g,g,g,c,g,a,t,g,c,t,g,a,t,g,g,c,c,c,a,g,g,a,g,g,c,c,c,t,g,g,c,a,t,t,c,c,t,g,a,t,g,g,c,c,c,a,g,g,g,g,g,c,a,a,t,g,c,t,g,g,c,g,g,c,c,c,a,g,g,a,g,a,g,g,c,g,g,g,t,g,c,c,a,c,g,g,g,c,g,g,c,a,g,a,g,g,t,c,c,c,c,0
+t,t,t,g,t,c,c,c,g,c,g,g,a,g,c,c,c,c,t,c,c,c,t,c,a,t,g,a,g,t,g,c,t,g,a,g,c,c,c,a,a,g,g,g,c,c,a,g,g,c,t,a,a,c,c,c,c,a,g,g,g,g,c,g,g,a,g,a,g,t,t,g,c,g,g,a,c,c,c,t,t,c,c,c,g,a,t,c,c,g,g,t,a,a,t,g,g,g,c,c,t,g,g,g,a,g,a,t,g,c,c,a,g,a,t,t,a,g,c,g,t,g,g,t,g,c,c,t,g,t,c,c,g,g,a,g,a,g,a,c,g,g,g,c,c,a,g,c,t,g,a,t,g,c,c,c,a,g,g,t,c,g,g,g,g,c,c,c,t,g,c,c,g,c,t,g,g,c,c,a,c,a,c,t,g,g,g,c,t,c,c,g,g,t,c,c,a,a,g,g,c,t,a,g,a,a,g,g,c,t,g,g,c,c,c,c,t,g,c,t,g,c,a,a,c,c,c,c,t,c,t,c,c,g,g,c,t,c,c,t,c,t,g,c,c,a,c,c,c,a,0
+a,g,t,g,c,a,a,a,c,g,a,g,g,c,g,t,g,g,g,t,c,c,c,g,g,a,a,g,c,t,c,t,g,t,t,c,t,g,c,g,g,g,t,g,g,c,c,g,c,t,t,g,a,g,c,c,t,g,c,g,c,a,g,t,g,g,a,g,g,c,g,g,c,c,c,a,g,g,c,c,c,g,c,c,t,t,c,c,g,c,a,g,g,g,t,g,t,c,g,c,c,g,c,t,g,t,g,c,c,g,c,t,a,g,c,g,g,t,g,c,c,c,c,g,c,c,t,g,c,t,g,c,g,g,t,g,g,c,a,c,c,a,g,c,c,a,g,g,a,g,g,c,g,g,a,g,t,g,g,a,a,g,t,g,g,c,c,g,t,g,g,g,g,c,g,g,g,t,a,t,g,g,g,a,c,t,a,g,c,t,g,g,c,g,t,g,t,g,c,g,c,c,c,t,g,a,g,a,c,g,c,t,c,a,g,c,g,g,g,c,t,a,t,a,t,a,c,t,c,g,t,c,g,g,t,g,g,g,g,c,c,g,g,c,g,g,t,c,a,g,0
+c,t,g,g,g,c,a,g,g,g,a,t,a,t,a,a,a,g,g,g,c,c,c,a,g,g,c,t,c,a,g,g,g,a,g,c,t,c,c,a,t,a,c,c,t,g,c,a,c,a,t,a,g,c,c,c,t,c,t,c,a,c,c,t,g,c,t,c,c,t,c,t,a,c,c,t,g,c,t,c,c,a,c,c,c,t,c,a,a,t,c,c,a,c,c,a,g,a,a,c,c,a,t,g,g,g,c,t,g,c,t,g,t,g,g,c,t,g,c,t,c,t,g,g,a,g,g,c,t,g,t,g,g,c,t,c,c,g,g,c,t,g,t,g,g,g,g,g,c,t,g,t,g,g,c,t,c,t,g,g,c,t,g,t,g,g,g,g,g,c,t,g,t,g,g,g,t,c,c,a,g,c,t,g,c,t,g,t,g,t,g,c,c,c,a,t,c,t,g,c,t,g,c,t,g,c,a,a,g,c,c,c,g,t,g,t,g,c,t,g,c,t,g,t,g,t,g,c,c,a,g,c,c,t,g,t,t,c,c,t,g,c,a,c,c,a,g,c,t,g,0
+t,t,g,a,g,t,a,c,t,a,g,a,a,a,g,t,c,a,t,g,g,a,t,g,a,a,t,a,a,t,t,a,c,g,t,c,t,g,t,g,g,t,t,t,t,c,t,a,t,g,t,g,a,g,t,t,c,c,a,t,g,t,c,a,g,a,t,a,a,a,g,a,t,c,c,t,t,c,c,g,a,c,g,c,c,t,g,c,c,c,c,a,c,a,c,c,a,c,c,a,c,c,t,c,c,c,c,c,c,g,c,c,t,t,g,c,c,c,g,g,g,g,t,t,g,t,g,g,g,c,a,c,c,t,t,g,c,t,g,c,t,g,c,a,c,a,t,a,t,a,a,g,g,c,g,g,g,a,g,g,c,t,g,t,t,g,c,c,a,a,c,t,c,t,t,c,a,g,a,g,c,c,c,c,a,c,g,a,a,g,g,a,c,c,a,g,a,a,c,a,a,g,a,c,a,g,a,g,t,g,c,c,t,c,c,t,g,c,c,g,a,t,c,c,a,a,a,c,a,t,g,a,g,c,c,g,c,c,t,g,c,c,c,g,t,c,c,t,g,c,0
+c,c,c,c,a,c,c,t,c,c,c,c,c,g,g,c,g,g,c,g,c,c,c,c,a,g,g,c,t,g,c,a,g,t,g,t,t,c,c,g,g,g,a,g,c,t,g,g,g,t,t,a,a,a,a,a,a,t,g,c,c,g,g,g,t,t,a,a,g,c,g,g,c,a,a,c,t,c,a,g,a,c,t,c,a,g,g,a,t,c,c,c,g,c,t,c,a,c,g,a,c,a,t,g,g,c,c,t,c,g,g,g,c,g,c,t,c,a,g,c,t,c,c,c,g,c,c,g,c,a,g,c,c,g,t,c,g,a,g,c,t,c,a,g,a,g,g,t,c,a,g,c,g,c,c,g,t,c,c,a,g,a,g,c,c,c,a,g,g,c,g,g,g,c,g,t,c,c,c,g,g,c,g,c,c,g,g,t,c,t,g,g,a,g,g,a,a,a,c,a,g,c,c,c,t,g,g,g,c,g,t,t,c,c,t,c,t,c,c,c,g,c,c,g,t,c,t,c,c,g,g,g,g,g,a,g,g,c,c,c,c,t,c,t,g,c,c,c,c,g,0
+g,g,g,c,a,g,c,t,g,t,c,a,c,c,t,g,t,a,a,g,g,c,g,a,g,c,g,c,g,g,c,g,c,g,g,g,g,g,a,t,g,g,a,a,g,c,a,g,g,c,t,a,a,c,a,t,t,g,g,a,c,a,g,a,a,t,a,c,a,a,a,g,g,c,a,g,a,a,a,c,c,t,a,c,c,c,c,g,a,a,g,g,c,c,g,g,g,g,c,c,c,g,g,c,g,g,g,g,c,g,c,t,g,g,g,g,g,t,g,g,g,c,g,c,t,c,c,c,c,g,c,g,g,c,c,c,c,c,g,g,c,g,c,c,c,t,t,c,g,c,c,c,c,g,a,g,a,c,g,c,c,c,c,g,g,c,c,c,a,g,c,g,g,c,a,c,t,g,g,c,g,c,g,a,c,c,g,a,g,g,t,c,c,a,g,c,t,t,c,g,g,g,g,a,c,a,c,g,c,c,c,g,g,c,t,g,g,c,c,g,c,g,g,g,g,a,a,g,g,c,a,c,c,a,g,g,t,g,a,g,c,g,c,g,g,c,c,g,c,g,0
+a,a,a,g,t,g,c,a,t,g,c,a,g,t,g,g,c,a,t,c,c,c,c,c,t,c,a,a,g,g,c,c,t,g,g,c,t,c,c,a,t,g,a,t,t,c,t,g,a,g,t,g,a,a,c,t,a,g,a,a,t,c,a,g,g,a,c,a,g,t,c,a,g,a,t,c,t,g,t,g,g,t,c,a,c,a,t,c,c,t,g,c,c,c,a,a,t,t,c,c,a,g,c,t,c,t,g,a,g,g,t,c,c,a,t,c,a,a,a,c,c,a,t,c,t,g,c,t,t,c,t,c,c,c,t,t,g,g,c,a,a,g,a,a,g,c,t,c,c,c,t,c,t,g,t,c,t,g,a,c,t,g,g,c,a,g,c,a,g,g,g,t,c,a,g,t,g,g,c,c,a,t,c,c,t,t,t,t,c,t,a,c,c,t,t,c,a,g,c,t,g,t,t,g,t,g,c,a,t,c,t,c,c,t,c,c,a,c,g,t,t,t,t,c,c,t,g,g,a,g,t,a,a,a,g,g,a,a,c,a,a,g,c,a,g,g,t,t,c,t,0
+c,t,t,g,a,a,a,t,a,a,g,g,c,c,c,a,g,g,c,a,g,a,a,c,c,g,c,g,g,t,t,c,t,a,g,t,c,t,c,c,c,a,g,c,t,c,c,a,g,c,t,a,g,g,c,c,t,t,t,g,g,g,t,t,t,g,c,t,g,t,g,g,t,g,t,c,c,t,t,g,t,c,t,c,c,t,g,c,a,g,g,a,c,c,g,g,c,c,g,c,a,g,c,a,t,g,g,a,c,g,c,t,c,c,c,a,g,g,c,g,g,t,t,t,c,c,g,a,c,g,c,t,c,g,t,g,c,a,a,c,t,g,a,t,g,c,a,g,c,c,a,a,a,a,g,c,a,a,t,g,c,c,a,g,t,g,g,a,g,g,t,g,c,t,c,g,g,t,c,a,c,c,t,c,c,c,t,a,a,g,c,g,g,t,t,c,t,c,c,t,g,g,t,t,c,c,a,c,t,c,t,g,a,g,t,t,c,c,t,g,a,a,g,a,a,t,c,c,g,a,a,g,g,t,a,g,t,t,c,g,c,c,t,t,g,a,g,g,t,t,0
+t,t,t,g,t,c,c,c,g,c,g,g,a,g,c,c,c,c,t,c,c,c,t,c,a,t,g,a,g,t,g,c,t,g,a,g,c,c,c,a,a,g,g,g,c,c,a,g,g,c,t,a,g,c,c,c,c,a,g,g,g,g,c,g,g,a,g,a,g,t,t,g,c,g,g,a,c,c,c,t,t,c,c,c,g,a,t,c,c,g,g,t,a,a,t,g,g,g,c,c,t,g,g,g,a,g,a,t,g,c,c,a,g,a,t,t,a,g,c,g,t,g,g,t,g,c,c,t,g,t,c,c,g,g,a,g,a,g,a,c,g,g,g,c,c,a,g,c,t,g,a,t,g,c,c,c,a,g,g,t,c,g,g,g,g,c,c,c,t,g,c,c,g,c,t,g,g,c,c,a,c,a,c,t,g,g,g,c,t,c,c,g,g,t,c,c,a,a,g,g,c,t,a,g,a,a,g,g,c,t,g,g,c,c,c,c,t,g,c,t,g,c,a,a,c,c,c,c,t,c,t,c,c,g,g,c,t,c,c,t,c,t,g,c,c,a,c,c,c,a,0
+t,c,g,c,t,t,g,g,g,g,t,g,g,t,g,c,t,g,g,a,c,g,t,c,g,g,g,a,g,c,g,c,t,g,g,c,c,t,c,t,g,c,t,c,t,g,c,t,g,a,t,a,g,g,c,a,g,g,t,g,g,g,a,g,t,g,c,a,g,g,g,t,g,a,g,c,c,c,g,g,c,g,c,a,g,g,g,g,a,t,a,g,g,a,g,g,t,g,g,g,g,g,a,g,t,c,g,a,g,a,g,c,t,g,g,a,g,t,c,a,g,g,c,g,c,c,g,c,t,c,a,c,g,c,t,g,g,g,a,t,g,a,c,g,g,a,g,t,g,t,t,a,a,c,c,t,c,a,g,a,c,t,c,t,g,g,g,t,c,c,c,t,t,t,g,g,g,c,c,g,a,a,g,c,t,t,t,a,a,g,a,a,a,a,c,a,g,g,g,g,c,a,g,c,g,a,g,c,c,c,g,g,c,g,t,c,c,c,a,a,g,g,a,g,c,c,t,t,g,c,c,a,a,a,c,t,g,g,g,c,a,t,g,g,a,g,a,a,c,g,0
+t,t,g,a,g,t,a,c,t,a,g,a,a,a,g,t,c,a,t,g,g,a,t,g,a,a,t,a,a,t,t,a,c,g,t,c,t,g,t,g,g,t,t,t,t,c,t,a,t,g,t,a,a,g,t,t,c,c,a,t,g,t,c,a,g,a,t,a,a,a,g,a,t,c,c,t,t,c,c,g,a,c,g,c,c,t,g,c,c,c,c,a,c,a,c,c,a,c,c,a,c,c,t,c,c,c,c,c,c,g,c,c,t,t,g,c,c,c,g,g,g,g,t,t,g,t,g,g,g,c,a,c,c,t,t,g,c,t,g,c,t,g,c,a,c,a,t,a,t,a,a,g,g,c,g,g,g,a,g,g,c,t,g,t,t,g,c,c,a,a,c,t,c,t,t,c,a,g,a,g,c,c,c,c,a,c,g,a,a,g,g,a,c,c,a,g,a,a,c,a,a,g,a,c,a,g,a,g,t,g,c,c,t,c,c,t,g,c,c,g,a,t,c,c,a,a,a,c,a,t,g,a,g,c,c,g,c,c,t,g,c,c,c,g,t,c,c,t,g,c,0
+c,t,c,g,g,t,t,t,c,a,g,c,a,a,t,t,t,t,a,a,a,t,c,t,a,t,a,t,a,t,a,g,a,g,a,t,a,t,c,t,t,t,g,t,c,a,g,c,a,t,t,a,g,a,t,c,g,t,t,a,g,c,t,t,c,t,c,c,t,g,a,t,a,a,a,c,t,a,a,t,t,g,c,c,t,c,a,c,a,t,t,g,t,c,a,c,t,g,c,a,a,a,t,c,g,a,c,a,c,c,t,a,t,t,a,a,t,g,g,g,t,c,t,c,a,c,c,t,c,c,c,a,a,c,t,g,c,t,t,c,c,c,c,c,t,c,t,g,t,t,c,t,t,c,c,t,g,c,t,a,g,c,a,t,g,t,g,c,c,g,g,c,a,a,c,t,t,t,g,t,c,c,a,c,g,g,a,c,a,c,a,a,g,t,g,c,g,a,t,a,t,c,a,c,c,t,t,a,c,a,g,g,a,g,a,t,c,a,t,c,a,a,a,a,c,t,t,t,g,a,a,c,a,g,c,c,t,c,a,c,a,g,a,g,c,a,g,a,a,g,0
+c,c,c,c,a,c,c,t,c,c,c,c,c,g,g,c,g,g,c,g,c,c,c,c,a,g,g,c,t,g,c,a,g,t,g,t,t,c,c,g,g,g,a,g,c,t,g,g,g,t,t,g,a,a,a,a,a,t,g,c,c,g,g,g,t,t,a,a,g,c,g,g,c,a,a,c,t,c,a,g,a,c,t,c,a,g,g,a,t,c,c,c,g,c,t,c,a,c,g,a,c,a,t,g,g,c,c,t,c,g,g,g,c,g,c,t,c,a,g,c,t,c,c,c,g,c,c,g,c,a,g,c,c,g,t,c,g,a,g,c,t,c,a,g,a,g,g,t,c,a,g,c,g,c,c,g,t,c,c,a,g,a,g,c,c,c,a,g,g,c,g,g,g,c,g,t,c,c,c,g,g,c,g,c,c,g,g,t,c,t,g,g,a,g,g,a,a,a,c,a,g,c,c,c,t,g,g,g,c,g,t,t,c,c,t,c,t,c,c,c,g,c,c,g,t,c,t,c,c,g,g,g,g,g,a,g,g,c,c,c,c,t,c,t,g,c,c,c,c,g,0
+g,g,g,c,a,g,c,t,g,t,c,a,c,c,t,g,t,a,a,g,g,c,g,a,g,c,g,c,g,g,c,g,c,g,g,g,g,g,a,t,g,g,a,a,g,c,a,g,g,c,t,a,a,c,a,t,t,g,g,a,c,a,g,a,a,t,a,c,a,a,a,g,g,c,a,g,a,a,a,c,c,t,a,c,c,c,c,g,a,a,g,g,c,c,g,g,g,g,c,c,c,g,g,c,g,g,g,g,c,g,c,t,g,g,g,g,g,t,g,g,g,c,g,c,t,c,c,c,c,g,c,g,g,c,c,c,c,c,g,g,c,g,c,c,c,t,t,c,g,c,c,c,c,g,a,g,a,c,g,c,c,c,c,g,g,c,c,c,a,g,c,g,g,c,a,c,t,g,g,c,g,c,g,a,c,c,g,a,g,g,t,c,c,a,g,c,t,t,c,g,g,g,g,a,c,a,c,g,c,c,c,g,g,c,t,g,g,c,c,g,c,g,g,g,g,a,a,g,g,c,a,c,c,a,g,g,t,g,a,g,c,g,c,g,g,c,c,g,c,g,0
+a,a,a,g,t,g,c,a,t,g,c,a,g,t,g,g,c,a,t,c,c,c,c,c,t,c,a,a,g,g,c,c,t,g,g,c,t,c,c,a,t,g,a,t,t,c,t,g,a,g,t,a,a,a,c,t,a,g,a,a,t,c,a,g,g,a,c,a,g,t,c,a,g,a,t,c,t,g,t,g,g,t,c,a,c,a,t,c,c,t,g,c,c,c,a,a,t,t,c,c,a,g,c,t,c,t,g,a,g,g,t,c,c,a,t,c,a,a,a,c,c,a,t,c,t,g,c,t,t,c,t,c,c,c,t,t,g,g,c,a,a,g,a,a,g,c,t,c,c,c,t,c,t,g,t,c,t,g,a,c,t,g,g,c,a,g,c,a,g,g,g,t,c,a,g,t,g,g,c,c,a,t,c,c,t,t,t,t,c,t,a,c,c,t,t,c,a,g,c,t,g,t,t,g,t,g,c,a,t,c,t,c,c,t,c,c,a,c,g,t,t,t,t,c,c,t,g,g,a,g,t,a,a,a,g,g,a,a,c,a,a,g,c,a,g,g,t,t,c,t,0
+c,g,c,c,a,a,t,g,g,c,c,c,t,g,c,g,g,t,c,t,c,c,c,g,g,a,c,g,a,c,g,c,g,g,a,g,g,g,g,t,c,c,g,c,g,c,t,g,c,a,t,g,a,c,c,g,c,c,g,c,g,c,c,c,c,c,g,c,c,c,c,g,t,g,t,c,c,g,c,a,c,t,g,c,a,g,a,g,a,g,c,c,g,c,g,g,c,g,a,g,c,a,g,g,c,g,c,c,g,g,c,g,c,a,c,t,g,g,c,c,c,a,c,g,t,g,c,t,g,c,g,c,g,a,g,c,g,a,g,g,g,a,g,a,g,c,c,a,c,a,g,t,c,t,g,a,g,c,g,a,a,c,g,t,c,c,g,c,g,c,t,g,g,g,a,g,c,c,a,g,g,g,g,t,g,c,c,c,g,a,c,c,c,c,c,g,t,c,c,g,c,c,g,c,c,g,c,c,g,c,c,g,c,c,g,c,c,g,c,g,c,a,t,a,g,c,c,c,c,c,g,g,a,g,a,g,c,c,c,t,c,t,g,g,g,g,a,c,c,c,0
+g,g,t,g,c,a,c,g,t,g,c,c,c,c,g,c,t,t,c,c,t,g,c,c,g,c,g,g,g,g,c,c,t,g,a,g,g,c,g,c,c,t,g,a,c,g,c,t,g,c,t,g,a,a,c,g,a,c,c,a,c,a,t,c,g,a,g,c,g,c,a,t,c,c,c,t,g,g,c,t,a,c,g,c,g,t,t,c,g,c,g,c,a,c,a,t,g,a,a,g,c,c,a,g,g,c,c,t,a,g,a,g,t,t,c,c,t,g,c,a,c,c,t,g,t,c,c,c,a,c,a,a,c,a,g,g,c,t,g,c,a,g,g,c,t,g,a,c,g,g,c,a,t,c,c,a,c,a,g,c,g,t,g,t,c,c,t,t,c,c,t,g,g,g,c,c,t,g,c,g,c,g,c,c,t,c,g,c,t,g,g,c,g,g,a,g,c,t,g,c,t,c,c,t,g,g,a,t,c,a,t,a,a,c,c,a,g,g,t,g,c,a,g,g,c,c,a,t,c,c,c,a,c,g,c,g,g,c,c,t,c,c,t,g,g,g,c,c,t,c,0
+g,g,g,a,a,g,c,t,a,a,a,a,a,g,a,a,a,a,t,t,c,a,a,g,t,t,c,t,t,t,g,a,a,a,a,t,t,a,g,a,a,a,t,a,a,t,a,a,c,t,t,g,a,t,g,a,a,t,c,t,t,g,a,a,g,t,g,c,c,a,g,a,g,a,g,a,t,g,t,t,a,c,a,a,g,t,g,a,t,a,a,a,c,t,a,t,g,t,a,t,t,a,t,g,t,g,t,t,a,t,g,t,t,a,a,a,t,g,a,c,t,g,a,a,a,c,a,t,c,c,c,t,g,t,c,t,t,c,t,c,a,g,t,g,c,t,t,c,c,c,t,a,t,g,t,c,g,g,t,c,c,t,c,a,a,t,a,a,t,a,c,c,a,t,t,g,c,t,g,a,g,c,c,t,c,t,g,a,t,c,t,t,c,c,t,c,c,t,g,a,t,g,g,g,c,a,t,t,c,c,a,g,g,c,c,t,g,a,a,a,g,c,c,a,c,c,c,a,g,t,a,c,t,g,g,a,t,c,t,c,c,a,t,c,c,c,t,t,t,t,0
+a,g,a,a,t,c,t,t,a,a,t,t,a,t,t,t,t,t,c,t,t,t,c,c,t,c,a,t,a,g,t,t,c,a,g,t,g,t,c,t,t,c,a,a,c,c,a,a,c,c,t,a,a,g,c,a,a,t,a,t,t,c,a,a,t,a,a,c,a,c,c,a,c,t,t,c,g,t,c,t,t,c,c,t,c,a,a,a,c,t,t,c,c,t,c,c,t,c,a,c,t,g,c,a,t,t,c,c,c,t,g,g,g,c,t,g,g,a,a,t,g,t,g,c,t,c,a,t,g,t,c,t,g,g,a,t,c,t,c,c,a,t,t,c,c,a,g,t,c,t,g,c,t,g,t,c,t,c,t,a,c,a,c,c,a,t,t,g,c,c,c,t,c,t,t,g,g,g,a,a,a,c,a,g,t,a,t,g,a,t,c,t,t,t,c,t,t,g,t,c,a,t,c,a,t,t,a,c,t,a,a,g,c,g,g,a,g,a,c,t,c,c,a,c,a,a,a,c,c,c,a,t,g,t,a,t,t,a,t,t,t,c,c,t,c,t,c,c,a,t,0
+t,t,c,a,t,t,t,a,t,a,t,g,g,t,t,t,c,a,g,a,t,c,c,g,g,c,t,a,a,c,g,a,g,c,t,c,a,t,a,t,c,t,c,c,c,t,c,a,t,t,t,a,g,t,c,t,g,t,t,c,t,c,a,a,t,a,a,c,t,c,c,g,a,a,g,t,c,a,a,g,c,t,t,t,t,c,c,t,t,c,t,g,a,t,t,g,g,g,a,t,c,c,c,a,g,g,a,c,t,g,g,a,a,c,a,t,g,c,c,c,a,c,a,t,t,t,g,g,t,t,c,t,c,c,a,t,c,c,c,c,a,t,t,t,g,c,c,t,c,a,t,g,t,a,c,c,t,g,c,t,t,g,c,c,a,t,c,a,t,g,g,g,c,a,a,c,t,g,c,a,c,c,a,t,t,c,t,c,t,t,t,a,t,t,a,t,a,a,a,g,a,c,a,g,a,g,c,c,c,t,c,g,c,t,t,c,a,t,g,a,g,c,c,c,a,t,g,t,a,t,t,a,t,t,t,c,c,t,t,g,c,c,a,t,g,t,t,g,g,c,0
+a,g,g,a,a,a,a,c,a,c,g,a,a,c,c,a,t,t,c,c,t,c,a,c,t,a,c,t,t,g,c,t,g,a,a,t,t,a,c,t,c,a,a,a,g,t,c,a,c,t,t,a,g,g,g,a,g,a,c,t,g,g,a,a,t,a,a,c,a,g,t,g,a,t,g,c,t,g,t,g,g,a,g,c,c,c,a,t,a,t,t,t,a,t,c,c,t,g,a,g,g,g,g,t,t,t,t,c,c,t,g,g,a,c,t,g,g,a,g,t,a,t,g,t,t,c,a,t,t,c,t,t,g,g,c,t,c,t,c,c,a,t,c,c,t,c,t,t,c,t,g,t,c,t,t,g,c,a,t,a,t,t,t,g,g,t,a,g,c,a,t,t,t,a,t,g,g,g,t,a,a,t,g,t,t,a,c,c,a,t,c,c,t,g,t,c,t,g,t,c,a,t,t,t,g,g,a,t,a,g,a,a,t,c,c,t,c,t,c,t,c,c,a,t,c,a,g,c,c,c,a,t,g,t,a,t,t,a,c,t,t,t,a,t,t,t,c,c,a,t,0
+a,g,c,t,g,c,t,g,c,t,t,c,t,a,c,a,t,g,t,g,g,c,a,a,g,t,t,c,t,c,c,t,a,c,a,c,t,g,t,g,a,t,t,t,g,g,a,a,a,a,t,g,a,t,t,t,t,a,t,c,a,c,a,a,c,a,a,g,a,g,c,a,t,a,t,t,t,c,a,c,c,c,a,g,t,c,a,c,a,t,t,t,t,t,c,c,t,c,a,t,t,g,g,a,a,t,c,c,c,a,g,g,t,c,t,g,g,a,a,g,a,c,t,t,c,c,a,c,a,t,g,t,g,g,a,t,c,t,c,c,g,g,g,c,c,t,t,t,c,t,g,c,t,c,t,g,t,t,t,a,c,c,t,t,g,t,g,g,c,t,t,t,g,c,t,g,g,g,c,a,a,t,g,c,c,a,c,c,a,t,t,c,t,g,c,t,a,g,t,c,a,t,c,a,a,g,g,t,a,g,a,a,c,a,g,a,c,t,c,t,c,c,g,g,g,a,g,c,c,c,a,t,g,t,t,c,t,a,c,t,t,c,c,t,g,g,c,c,a,t,0
+g,g,g,g,g,g,c,a,g,g,a,a,c,t,g,a,g,g,g,g,t,g,c,g,g,a,t,c,c,g,g,g,c,c,c,c,c,c,a,g,c,c,t,g,c,g,a,a,g,c,t,a,a,c,t,c,g,c,a,g,g,t,c,g,a,g,c,g,g,g,c,g,t,c,g,t,c,c,a,c,c,c,t,t,c,g,g,a,g,c,c,c,c,g,c,t,t,t,c,a,t,g,c,g,t,g,a,a,a,t,t,c,c,c,a,g,a,a,g,t,c,g,c,c,t,g,c,g,a,c,c,g,c,c,t,c,c,c,t,g,c,t,t,c,a,a,a,c,a,c,c,a,g,a,g,a,g,g,g,c,c,c,g,g,g,g,t,c,c,t,g,g,c,c,g,g,a,g,a,c,a,g,g,c,c,g,a,a,c,c,t,c,c,g,g,a,g,c,t,g,c,t,t,c,t,g,c,a,c,c,c,g,g,t,a,c,a,t,t,g,a,t,c,g,a,t,c,t,g,a,t,g,g,g,c,t,g,c,g,c,g,c,c,c,g,g,a,a,g,a,0
+a,g,t,g,g,a,c,g,g,a,g,g,a,t,g,g,a,a,c,a,c,a,g,a,g,c,g,c,g,g,c,c,g,g,g,a,c,a,a,a,g,g,g,g,c,a,g,g,c,c,t,g,a,c,a,g,c,c,g,t,g,a,c,a,g,a,g,a,a,a,c,t,a,g,g,c,g,g,t,c,c,g,c,t,c,c,t,g,g,g,a,c,g,c,g,g,t,c,t,c,g,g,g,g,g,c,g,g,g,t,t,c,g,c,c,c,c,t,g,a,g,g,c,c,c,g,g,t,g,a,c,c,c,t,t,c,g,c,c,c,g,c,a,a,c,c,a,g,g,g,c,t,a,g,c,g,c,t,t,g,t,g,t,g,c,g,c,c,c,a,c,g,g,a,a,g,c,a,c,c,c,g,a,g,c,g,a,c,c,g,g,a,g,a,a,a,g,a,a,a,a,a,g,t,g,g,t,c,a,a,g,g,g,g,a,c,c,t,c,c,t,t,c,c,a,g,c,t,c,t,a,c,g,c,g,c,c,t,c,t,c,a,t,t,c,a,g,a,g,a,0
+g,c,c,c,c,g,c,g,c,c,g,c,g,c,g,c,t,c,t,t,c,a,c,t,t,c,t,t,g,g,g,g,g,c,t,t,t,t,t,a,a,a,a,c,a,g,c,g,c,c,t,a,a,g,g,g,g,t,c,t,t,c,t,c,c,a,t,g,c,g,g,c,t,c,g,g,g,c,t,a,t,g,a,c,a,g,c,c,t,c,c,g,t,g,c,t,c,c,t,c,c,a,c,c,c,c,c,g,c,t,g,g,a,t,c,g,a,g,c,c,c,a,c,c,g,t,c,a,t,g,t,t,t,c,t,c,t,a,c,g,a,c,a,a,c,g,g,c,g,g,c,g,g,c,c,t,g,g,t,g,g,c,c,g,a,c,g,a,g,c,t,c,a,a,c,a,a,g,a,a,c,a,t,g,g,a,a,g,g,g,g,c,g,g,c,g,g,c,g,g,c,t,g,c,a,g,c,a,g,c,g,g,c,t,g,c,a,g,c,g,g,c,g,g,c,g,g,c,t,g,c,c,g,g,g,g,c,c,g,g,g,g,g,c,g,g,g,g,g,c,0
+a,t,a,g,a,t,t,t,c,c,a,c,g,t,c,a,g,c,t,t,a,c,g,t,c,t,c,c,a,a,a,t,t,t,c,t,a,c,t,t,c,a,c,g,g,a,t,c,c,g,t,a,g,c,a,a,a,g,a,g,g,c,a,g,c,t,g,c,a,g,t,g,g,a,g,a,a,t,c,a,t,g,t,t,a,a,g,c,t,c,g,g,c,t,a,c,t,g,c,g,g,a,g,a,g,c,c,c,a,a,g,g,t,a,g,c,c,c,a,a,t,a,a,t,g,g,a,t,t,t,t,g,a,t,g,a,g,c,g,t,g,g,t,c,c,c,t,g,c,t,c,c,t,c,t,a,a,c,a,t,g,t,a,t,t,t,g,c,c,a,a,g,t,t,g,t,a,c,t,t,a,c,t,a,c,g,t,c,t,c,g,g,g,t,c,c,a,g,a,t,t,t,c,t,c,c,a,g,c,c,t,c,c,c,t,t,c,t,t,t,t,c,t,g,c,c,c,c,a,g,a,c,c,c,c,g,t,c,t,t,c,g,c,g,c,c,c,a,a,t,0
+g,g,t,g,a,c,t,g,t,a,c,t,t,c,c,c,c,c,c,c,g,g,t,g,c,c,a,c,c,a,a,g,t,t,g,t,t,a,c,a,t,g,a,a,a,t,c,t,g,c,t,a,g,t,t,c,a,t,a,a,t,t,t,c,c,g,t,g,g,g,t,c,g,g,g,c,c,g,g,g,c,g,g,g,c,c,a,g,g,c,g,c,t,g,g,g,c,a,c,g,g,t,g,a,t,g,g,c,c,a,c,c,a,c,t,g,g,g,g,c,c,c,t,g,g,g,c,a,a,c,t,a,c,t,a,c,g,t,g,g,a,c,t,c,g,t,t,c,c,t,g,c,t,g,g,g,c,g,c,c,g,a,c,g,c,c,g,c,g,g,a,t,g,a,g,c,t,g,a,g,c,g,t,t,g,g,c,c,g,c,t,a,t,g,c,g,c,c,g,g,g,g,a,c,c,c,t,g,g,g,c,c,a,g,c,c,t,c,c,c,c,g,g,c,a,g,g,c,g,g,c,g,a,c,g,c,t,g,g,c,c,g,a,g,c,a,c,c,c,c,0
+c,t,t,t,t,t,c,c,t,a,g,g,c,c,t,t,g,c,c,c,c,c,c,c,a,a,a,g,c,c,c,c,t,c,c,a,a,a,a,g,a,g,g,g,a,a,c,t,t,t,t,a,g,t,c,t,g,a,g,g,g,g,g,c,t,c,c,a,a,g,g,a,g,a,a,g,g,c,c,a,t,g,a,a,t,t,a,c,g,a,a,t,t,t,g,a,g,c,g,a,g,a,g,a,t,t,g,g,t,t,t,t,a,t,c,a,a,t,a,g,c,c,a,g,c,c,g,t,c,g,c,t,c,g,c,t,g,a,g,t,g,c,c,t,g,a,c,a,t,c,t,t,t,t,c,c,c,c,c,t,g,t,c,g,c,t,g,a,t,a,c,a,t,t,t,c,a,a,a,g,t,t,c,a,t,c,a,a,t,c,a,a,g,a,c,c,t,c,g,a,c,g,c,t,t,t,c,a,c,a,c,t,c,g,a,c,a,c,t,g,a,t,t,c,c,t,c,c,t,c,c,t,t,t,t,g,a,g,c,a,g,a,c,c,a,t,t,c,c,c,0
+c,c,c,t,c,t,t,g,c,g,c,a,c,t,g,t,a,c,a,t,t,c,a,t,a,t,c,a,t,t,t,t,t,c,t,t,c,t,c,c,g,g,c,c,c,c,a,t,g,g,t,a,a,a,a,g,t,g,a,g,a,a,a,g,t,t,g,g,c,a,c,a,g,t,c,a,c,g,c,c,g,g,g,c,t,t,c,g,c,a,g,g,a,c,c,a,g,g,t,c,a,c,t,c,a,g,t,g,a,c,a,g,a,t,g,g,a,c,a,a,t,g,c,a,a,g,a,a,t,g,a,a,c,t,c,c,t,t,c,c,t,g,g,a,a,t,a,c,c,c,c,a,t,a,c,t,t,a,g,c,a,g,t,g,g,c,g,a,c,t,c,g,g,g,g,a,c,c,t,g,c,t,c,a,g,c,c,c,g,a,g,c,c,t,a,c,c,c,c,t,c,g,g,a,c,c,a,t,a,g,g,a,t,t,a,c,a,a,c,t,t,t,c,c,a,g,t,c,g,t,g,c,g,c,g,g,t,c,a,g,c,g,c,c,a,a,c,a,g,t,0
+c,c,a,g,t,c,t,a,c,a,t,t,a,a,a,a,a,t,t,a,g,c,a,a,c,c,c,g,a,a,a,g,g,a,t,g,g,g,t,a,a,c,c,t,t,c,g,a,g,g,t,a,a,a,a,g,a,g,g,a,t,t,t,t,g,g,t,g,t,g,a,a,a,g,g,g,a,a,g,t,c,a,a,a,g,t,c,a,g,c,t,t,g,t,t,c,a,g,a,c,t,t,a,c,t,g,g,g,t,a,a,t,c,a,g,c,c,a,a,g,t,t,c,a,t,t,t,t,c,t,g,g,c,t,c,c,a,a,c,c,t,g,a,c,a,t,t,g,a,a,t,g,a,t,g,a,c,t,g,g,a,a,t,a,a,a,g,g,t,a,c,a,a,a,t,g,t,c,t,c,c,t,t,c,t,g,t,g,t,g,t,t,g,c,c,g,t,c,a,a,g,a,a,g,a,c,c,t,c,c,t,c,c,a,c,c,t,c,c,t,g,t,c,c,c,t,c,t,g,c,t,c,c,c,g,c,c,c,g,g,c,a,c,c,a,g,c,c,c,t,0
+c,c,a,g,t,c,t,a,c,a,t,t,a,a,a,a,a,t,t,a,g,c,a,a,c,c,c,g,a,a,a,g,g,a,t,g,g,g,t,a,a,c,c,t,t,c,g,a,g,g,t,g,a,a,a,g,a,g,g,a,t,t,t,t,g,g,t,g,t,g,a,a,a,g,g,g,a,a,g,t,c,a,a,a,g,t,c,a,g,c,t,t,g,t,t,c,a,g,a,c,t,t,a,c,t,g,g,g,t,a,a,t,c,a,g,c,c,a,a,g,t,t,c,a,t,t,t,t,c,t,g,g,c,t,c,c,a,a,c,c,t,g,a,c,a,t,t,g,a,a,t,g,a,t,g,a,c,t,g,g,a,a,t,a,a,a,g,g,t,a,c,a,a,a,t,g,t,c,t,c,c,t,t,c,t,g,t,g,t,g,t,t,g,c,c,g,t,c,a,a,g,a,a,g,a,c,c,t,c,c,t,c,c,a,c,c,t,c,c,t,g,t,c,c,c,t,c,t,g,c,t,c,c,c,g,c,c,c,g,g,c,a,c,c,a,g,c,c,c,t,0
+g,c,c,a,g,a,a,a,a,g,a,t,g,g,a,g,c,a,c,a,c,g,c,t,g,g,g,t,g,g,t,g,g,c,c,c,c,g,c,t,t,c,c,t,c,a,c,t,g,g,t,a,a,g,a,g,a,t,g,g,t,g,c,t,c,t,t,c,t,t,t,t,t,t,c,t,t,t,c,t,g,a,a,t,t,g,t,g,g,c,c,a,c,c,t,t,c,a,t,a,c,c,a,g,t,c,t,g,t,c,a,t,g,g,a,a,c,a,c,t,t,a,a,g,c,c,g,c,t,t,g,a,g,t,g,t,c,t,g,c,t,g,g,t,a,c,t,c,c,c,a,g,c,c,c,t,g,c,c,a,t,g,c,c,t,g,a,g,c,c,c,c,c,t,g,c,a,c,a,c,a,a,g,g,a,g,c,c,a,g,g,a,g,t,a,a,t,c,a,g,g,g,c,a,g,a,c,c,c,a,t,t,a,g,g,g,c,a,c,g,g,g,g,a,c,t,t,c,t,g,g,a,t,t,g,t,g,a,a,a,t,t,g,g,c,t,c,t,c,t,0
+c,g,c,c,a,g,g,g,c,c,g,c,g,c,c,t,t,c,c,c,t,c,c,c,a,c,a,g,c,g,c,g,c,g,c,t,g,c,g,c,g,t,g,c,g,a,a,g,g,t,t,a,a,g,c,g,g,c,t,c,t,t,g,g,g,a,c,t,g,g,c,g,g,g,g,c,t,g,c,g,c,g,c,g,g,g,g,t,t,a,g,g,g,t,g,g,g,g,g,t,a,c,g,g,g,a,a,g,g,c,t,c,a,a,c,c,c,a,g,g,a,c,c,t,g,c,g,t,a,c,c,t,t,g,c,t,t,t,g,g,g,g,g,c,g,c,a,c,t,a,a,g,c,a,c,c,t,g,c,c,g,g,g,a,g,c,a,g,g,g,g,g,c,g,c,a,c,c,g,g,g,a,a,c,t,c,g,c,a,g,a,t,t,t,c,g,c,c,a,g,t,t,g,g,g,c,g,c,a,c,t,g,g,g,g,a,t,c,t,g,t,g,g,a,c,t,g,c,g,t,c,c,g,g,g,g,g,a,t,g,g,g,c,t,a,g,g,g,g,g,0
+g,g,g,g,c,t,c,g,g,c,t,a,c,t,c,t,c,c,g,g,c,c,c,g,g,g,g,t,a,c,t,g,g,c,a,t,t,t,c,c,c,t,g,g,g,g,c,c,c,a,t,a,a,g,g,c,g,a,g,t,g,c,c,c,c,t,a,t,t,t,t,t,c,c,c,a,t,g,a,g,g,c,c,t,c,a,g,c,c,a,a,g,a,g,g,a,g,g,t,t,c,g,g,g,a,a,g,a,a,a,g,g,a,a,a,a,c,a,c,a,g,g,t,g,a,g,g,a,g,a,g,a,g,a,a,g,g,g,c,g,g,g,c,a,g,a,g,a,g,g,t,a,c,c,a,c,g,c,c,a,t,t,a,g,t,g,c,t,g,a,t,g,g,g,g,a,g,a,g,g,c,g,g,c,t,c,c,a,g,c,c,c,g,g,c,a,c,t,g,c,t,g,t,c,c,t,t,a,c,g,a,g,g,c,a,t,g,t,t,t,c,c,t,t,t,t,t,a,t,t,c,g,g,a,g,g,a,a,g,a,g,a,a,g,c,a,g,a,g,g,0
+g,g,c,g,a,a,g,g,a,g,g,c,c,t,g,g,c,t,g,g,t,g,g,a,g,t,c,c,t,t,t,t,c,t,g,c,g,g,c,c,c,a,g,g,c,g,t,c,g,c,t,g,a,a,t,c,c,a,g,t,c,c,c,t,c,t,c,g,t,c,c,a,a,g,g,a,c,g,t,g,c,a,g,g,g,t,c,t,g,t,a,c,t,t,g,c,c,c,a,g,t,c,g,c,a,c,t,g,g,g,a,c,t,t,c,a,a,a,t,t,g,g,g,g,a,t,g,c,a,g,a,c,a,c,g,g,c,c,c,t,g,c,t,c,c,t,g,g,t,g,t,g,c,g,c,g,a,a,g,c,c,c,g,c,t,c,a,g,c,c,g,g,c,c,a,g,c,t,c,g,c,c,t,g,c,a,c,g,c,c,c,g,c,c,g,c,g,t,c,c,c,t,g,g,g,c,c,c,c,a,g,g,a,g,g,g,c,c,c,c,c,g,t,a,t,c,c,a,g,c,t,c,c,g,a,c,c,a,a,a,c,a,g,c,a,a,g,c,c,c,0
+g,c,c,g,c,g,g,c,c,g,c,c,c,g,g,a,g,c,g,t,a,t,a,a,a,a,g,c,c,t,c,g,g,g,c,c,g,c,c,c,g,c,c,c,c,a,a,a,c,t,t,a,g,a,c,a,a,c,a,a,c,t,c,t,t,c,c,c,c,g,c,t,g,a,g,a,g,g,a,g,a,c,a,g,c,c,a,g,t,g,c,g,a,c,t,c,c,a,c,c,c,t,c,c,a,g,c,t,c,g,a,c,g,g,c,a,g,c,c,g,c,c,c,c,g,g,c,c,g,a,c,a,g,c,c,c,c,g,a,g,a,c,g,a,c,a,g,c,c,c,g,g,c,g,c,g,t,c,c,c,g,g,t,c,c,c,c,a,c,c,t,c,c,g,a,c,c,a,c,c,g,c,c,a,g,c,g,c,t,c,c,a,g,g,c,c,c,c,g,c,c,g,c,t,c,c,c,c,g,c,t,c,g,c,c,g,c,c,a,c,c,g,c,g,c,c,c,t,c,c,g,c,t,c,c,g,c,c,c,g,c,a,g,t,g,c,c,a,a,c,0
+a,a,a,t,t,a,t,g,t,t,t,c,g,a,g,g,g,g,t,t,g,t,g,c,g,t,a,g,a,g,t,g,c,g,c,g,c,t,g,c,g,c,c,t,c,g,a,c,g,t,t,g,a,c,a,a,c,c,a,t,t,g,g,t,g,t,c,t,g,t,g,t,c,a,t,t,a,c,t,a,a,t,a,g,a,g,t,c,t,t,g,t,a,a,a,c,a,c,t,c,g,t,t,a,a,t,c,a,c,g,g,a,a,g,g,c,c,g,c,c,g,g,c,c,t,g,g,g,g,c,t,c,c,g,c,a,c,g,c,c,a,g,c,c,t,g,t,g,g,c,g,g,g,t,c,t,t,c,c,c,c,g,c,c,t,c,t,g,c,a,g,c,c,t,a,g,t,g,g,g,a,a,g,g,a,g,g,t,g,g,g,a,g,g,a,a,a,g,a,a,g,g,a,a,g,a,a,a,g,g,g,a,g,g,g,a,g,g,g,a,g,g,a,g,g,c,a,g,g,c,c,a,g,a,g,g,g,a,g,g,g,a,c,c,g,c,c,t,c,g,0
+g,g,t,t,t,g,a,a,g,t,c,c,a,a,c,t,c,c,t,a,a,g,c,c,a,g,t,g,c,c,a,g,a,a,g,a,g,c,c,a,a,g,g,a,c,a,g,g,t,a,t,a,g,c,t,g,t,c,a,t,c,a,c,t,t,a,g,a,c,c,t,c,a,c,c,c,t,g,t,g,g,a,g,c,c,a,c,a,c,c,c,t,a,g,g,g,t,t,g,g,c,c,a,a,t,c,t,a,c,t,c,c,c,a,g,g,a,g,c,a,g,g,g,a,g,g,g,c,a,g,g,a,g,c,c,a,g,g,g,c,t,g,g,g,c,a,t,a,a,a,a,g,t,c,a,g,g,g,c,a,g,a,g,c,c,a,t,c,t,a,t,t,g,c,t,t,a,c,a,t,t,t,g,c,t,t,c,t,g,a,c,a,c,a,a,c,t,g,t,g,t,t,c,a,c,t,a,g,c,a,a,c,c,t,c,a,a,a,c,a,g,a,c,a,c,c,a,t,g,g,t,g,c,a,t,c,t,g,a,c,t,c,c,t,g,a,g,g,a,g,0
+c,a,t,t,g,t,a,t,t,c,a,g,g,t,g,a,a,a,t,t,g,a,a,a,c,a,t,t,t,c,c,t,t,t,g,a,a,a,a,a,a,t,a,c,t,c,t,c,a,c,t,a,a,t,t,t,c,t,c,a,g,t,t,c,c,a,g,a,a,t,g,a,t,t,a,c,t,t,c,a,g,t,a,a,g,c,c,c,t,a,g,c,a,c,c,a,g,c,a,c,g,a,a,t,t,c,t,t,c,c,t,t,t,c,t,t,c,t,c,a,c,t,g,g,a,t,t,t,t,c,t,g,g,c,a,t,g,g,a,g,c,a,g,c,a,a,t,a,c,c,c,c,t,g,g,c,t,t,t,c,c,a,t,c,c,c,c,t,t,c,t,c,c,t,c,a,a,t,c,t,a,t,g,c,c,a,t,g,g,t,g,c,t,t,t,t,g,g,g,c,a,a,t,t,g,c,a,t,g,g,t,t,c,t,c,c,a,t,g,t,g,a,t,a,t,g,g,a,c,t,g,a,g,c,c,a,a,g,c,c,t,g,c,a,c,c,a,g,c,c,0
+g,a,a,t,a,g,a,a,g,a,t,g,a,a,a,c,a,g,c,a,a,a,t,c,t,a,c,c,a,c,t,t,g,a,t,t,c,t,g,a,t,g,a,a,c,a,a,a,t,c,t,g,a,c,c,g,a,c,a,t,t,c,a,a,t,g,g,c,t,c,a,g,t,c,t,t,c,a,t,g,c,c,c,t,c,t,g,c,g,t,t,t,a,t,a,c,t,a,a,t,t,g,g,g,a,t,t,c,c,t,g,g,t,c,t,g,g,a,g,t,c,a,g,t,g,c,a,g,t,g,t,t,g,g,a,t,t,g,g,g,a,t,t,c,c,t,t,t,c,t,c,t,g,c,c,a,t,g,t,a,t,c,t,t,a,t,t,g,g,t,g,t,g,a,t,t,g,g,a,a,a,t,t,c,c,c,t,a,a,t,t,t,t,a,g,t,t,a,t,a,a,t,c,a,a,a,t,a,t,g,a,a,a,a,c,a,g,c,c,t,c,c,a,t,a,t,a,c,c,c,a,t,g,t,a,c,a,t,t,t,t,t,t,t,g,g,c,c,a,t,0
+a,a,c,t,t,t,g,t,g,a,t,t,g,g,a,t,a,a,g,c,a,t,a,a,a,a,t,a,t,a,t,a,a,a,a,g,t,a,c,a,g,a,g,a,a,t,c,a,c,a,t,a,g,t,g,g,c,a,a,a,c,t,t,t,c,t,c,c,c,c,t,t,t,c,t,a,a,g,a,a,g,a,c,c,c,c,t,g,a,a,t,g,g,c,c,c,t,g,c,c,t,a,t,t,a,c,a,a,a,t,g,g,t,a,c,c,t,t,g,t,t,c,a,t,g,c,c,t,t,t,t,g,t,g,c,t,g,a,c,a,t,t,t,a,t,t,g,g,g,a,t,c,c,c,c,g,g,t,t,t,t,g,a,a,t,c,t,g,t,a,c,a,a,t,g,c,t,g,g,a,t,t,g,g,g,a,t,t,c,c,a,t,t,c,t,g,t,g,c,t,a,c,g,t,a,t,g,t,c,a,t,t,g,c,t,c,t,g,a,t,t,g,g,a,a,a,t,t,c,t,c,t,a,c,t,t,t,t,g,a,t,c,a,t,c,a,t,c,a,a,0
+g,g,g,t,g,a,g,c,a,t,a,c,a,t,t,t,c,t,g,t,a,g,a,c,t,g,t,g,g,a,c,t,t,a,t,g,c,a,t,t,c,a,c,a,a,g,c,a,g,g,t,a,a,t,t,c,c,t,t,c,c,c,a,a,t,g,a,c,a,c,c,c,a,g,t,t,t,c,a,c,c,c,c,t,c,c,t,c,c,t,t,c,c,t,g,t,t,g,c,t,g,g,g,g,a,t,c,c,c,a,g,g,a,c,t,a,g,a,a,a,c,a,c,t,t,c,a,c,a,t,c,t,g,g,a,t,c,g,g,c,t,t,t,c,c,c,t,t,c,t,g,t,g,c,t,g,t,g,t,a,c,a,t,g,a,t,c,g,c,a,c,t,c,a,t,a,g,g,g,a,a,c,t,t,c,a,c,t,a,t,t,c,t,a,c,t,t,g,t,g,a,t,c,a,a,g,a,c,t,g,a,c,a,g,c,a,g,c,c,t,a,c,a,c,c,a,g,c,c,c,a,t,g,t,t,c,t,a,c,t,t,c,c,t,g,g,c,c,a,t,0
+t,g,a,g,g,t,c,a,g,g,t,g,t,a,t,c,t,g,t,a,t,t,t,t,t,c,a,t,a,g,c,a,g,a,g,c,c,c,t,a,t,g,a,a,t,g,a,a,t,c,t,a,a,t,c,c,a,t,t,a,t,c,a,a,c,a,c,a,t,c,a,t,a,t,g,t,t,g,a,a,a,t,c,a,c,c,a,c,c,t,t,c,t,t,c,t,t,g,g,t,t,g,g,g,a,t,g,c,c,a,g,g,g,c,t,a,g,a,a,t,a,t,g,c,a,c,a,c,a,t,c,t,g,g,a,t,c,t,c,t,a,t,c,c,c,c,a,t,c,t,g,c,a,g,c,a,t,g,t,a,t,c,t,t,a,t,t,g,c,t,a,t,t,c,t,a,g,g,a,a,a,t,g,g,c,a,c,c,a,t,t,c,t,t,t,t,t,a,t,c,a,t,c,a,a,g,a,c,a,g,a,g,c,c,c,t,c,c,t,t,g,c,a,t,g,g,g,c,c,c,a,t,g,t,a,c,t,a,t,t,t,t,c,t,t,t,c,c,a,t,0
+t,a,c,t,a,a,a,t,t,t,a,c,a,g,a,t,a,t,t,c,c,t,a,t,t,t,t,a,c,c,a,a,c,a,c,a,a,g,c,a,t,c,t,g,t,a,t,t,t,t,t,g,a,t,a,g,c,a,g,a,g,c,c,c,t,a,t,g,a,a,t,g,a,a,t,c,a,t,g,t,c,c,a,t,t,a,t,c,a,a,c,a,c,a,t,c,a,t,a,t,g,t,t,g,a,a,a,t,c,a,c,c,a,c,c,t,t,c,t,t,c,t,t,g,g,t,t,g,g,g,a,t,g,c,c,a,g,g,g,c,t,a,g,a,a,t,a,t,g,c,a,c,a,c,a,t,c,t,g,g,a,t,c,t,c,t,a,t,c,c,c,c,a,t,c,t,g,c,a,g,c,a,t,g,t,a,t,c,t,t,a,t,t,g,c,t,a,t,t,c,t,a,g,g,a,a,a,t,g,g,c,a,c,c,a,t,t,c,t,t,t,t,t,a,t,c,a,t,c,a,a,g,a,c,a,g,a,g,c,c,c,t,c,c,t,t,g,c,a,t,0
+a,g,c,t,g,t,g,a,g,c,c,a,a,g,t,g,g,a,g,g,a,g,t,c,c,a,g,c,c,c,c,a,c,c,c,g,a,t,g,g,t,g,a,g,a,a,c,a,a,c,t,a,g,a,c,g,a,a,c,t,t,g,a,a,t,g,c,a,t,c,a,c,a,g,g,c,c,a,a,c,c,a,c,c,g,t,a,a,c,t,t,c,a,t,t,c,t,g,a,c,a,g,g,t,a,t,c,c,c,a,g,g,a,a,c,g,c,c,a,g,a,c,a,a,g,a,a,c,c,c,a,t,g,g,t,t,g,g,c,c,t,t,t,c,c,c,c,t,g,g,g,a,t,t,t,c,t,c,t,a,c,a,c,a,c,t,c,a,c,a,c,t,c,c,t,g,g,g,a,a,a,t,g,g,t,a,c,c,a,t,c,c,t,a,g,c,t,g,t,c,a,t,c,a,a,g,g,t,g,g,a,g,c,c,a,a,g,t,c,t,c,c,a,t,g,a,g,c,c,c,a,c,g,t,a,t,t,a,c,t,t,c,c,t,t,t,c,t,a,t,0
+a,g,t,g,c,a,t,g,a,g,t,c,a,g,g,g,a,a,g,g,g,a,a,g,a,t,g,c,a,g,g,c,t,a,t,t,t,t,g,g,a,a,c,g,t,t,t,c,a,t,t,a,a,a,a,t,t,t,g,g,c,a,c,g,c,g,a,t,t,a,a,g,t,a,a,a,c,c,t,t,t,c,t,a,a,t,c,a,t,t,t,t,t,c,a,g,g,t,t,c,c,a,g,a,g,t,t,c,a,a,c,g,t,g,g,a,a,t,c,c,t,g,a,a,c,t,a,t,g,t,c,a,a,c,a,t,t,a,c,c,a,a,c,t,c,a,g,a,t,a,g,c,c,c,c,c,a,a,t,a,g,c,a,g,c,a,c,t,t,c,a,a,t,g,g,c,c,c,c,c,a,c,c,t,t,c,t,t,g,c,t,g,g,t,g,g,g,c,a,t,g,c,c,a,g,g,c,c,t,a,t,c,a,g,g,t,g,c,a,c,c,c,t,c,c,t,g,g,t,g,g,a,c,a,t,t,g,c,c,c,c,t,c,a,t,t,g,c,t,g,0
+a,t,c,t,g,c,a,g,a,g,a,g,t,a,g,a,t,t,g,c,g,t,t,c,c,c,a,g,c,a,g,a,g,a,c,c,a,t,a,t,t,a,a,c,c,a,g,t,c,c,t,a,g,g,t,g,c,t,g,g,c,t,t,c,a,g,g,g,a,a,c,a,g,c,t,c,t,t,c,t,c,a,t,c,c,t,g,t,g,t,c,c,t,t,c,a,t,c,c,t,g,c,t,t,g,g,a,a,t,c,c,c,a,g,g,c,c,t,g,g,a,g,a,g,t,t,t,c,c,a,g,t,t,g,t,g,g,a,t,t,g,c,c,t,t,t,c,c,g,t,t,c,t,g,t,g,c,c,a,c,g,t,a,t,g,c,t,g,t,g,g,c,t,g,t,t,g,t,t,g,g,a,a,a,t,a,t,c,a,c,t,c,t,c,c,t,c,c,a,t,g,t,a,a,t,c,a,g,a,a,t,t,g,a,c,c,a,c,a,c,c,c,t,g,c,a,t,g,a,g,c,c,c,a,t,g,t,a,c,c,t,c,t,t,t,c,t,g,g,c,0
+t,c,t,a,t,a,g,g,a,t,g,g,a,a,g,c,a,t,t,g,t,g,a,g,g,a,c,a,a,a,t,g,c,t,g,c,a,a,a,a,c,c,a,g,g,a,c,a,c,c,t,g,a,g,a,a,a,t,c,c,t,a,a,g,c,a,a,c,t,c,a,a,c,a,t,c,t,a,a,a,t,t,t,c,c,a,a,c,c,t,t,c,t,t,g,t,t,g,a,c,c,g,g,c,a,t,t,c,c,t,g,g,c,c,t,a,g,a,g,t,c,t,g,c,c,c,a,t,g,t,c,t,g,g,a,t,c,t,c,c,a,t,t,c,c,t,t,t,c,t,g,t,t,g,t,t,t,t,t,a,t,g,c,c,a,t,t,g,c,c,c,t,c,t,c,t,g,g,g,a,a,c,a,g,c,g,t,g,a,t,c,c,t,g,t,t,t,g,t,c,a,t,c,a,t,t,a,c,c,c,a,g,c,a,g,a,g,t,c,t,c,c,a,t,g,a,a,c,c,c,a,t,g,t,a,t,t,a,t,t,t,c,c,t,c,t,t,c,a,g,0
+g,a,a,c,c,g,t,a,t,a,t,a,a,g,t,g,c,a,g,t,a,g,t,c,g,c,c,g,t,g,a,a,c,g,t,t,c,t,t,t,t,t,c,g,c,a,a,c,g,g,t,g,a,t,g,c,c,g,c,c,a,g,a,a,c,a,c,a,g,g,t,a,a,g,t,g,c,c,g,t,g,t,g,t,g,g,t,t,c,c,c,g,c,g,g,g,c,c,t,g,g,c,c,t,c,t,t,t,a,c,g,g,g,t,t,a,t,g,g,c,c,c,t,t,g,c,g,t,g,c,c,t,t,g,a,a,t,t,a,c,t,t,c,c,a,c,g,c,c,c,c,t,g,g,c,t,g,c,a,g,t,a,c,g,t,g,a,t,t,c,t,t,g,a,t,c,c,c,g,a,g,c,t,t,c,g,g,g,t,t,g,g,a,a,g,t,g,g,g,t,g,g,g,a,g,a,g,t,t,c,g,a,g,g,c,c,t,t,g,c,g,c,t,t,a,a,g,g,a,g,c,c,c,c,t,t,c,g,c,c,t,c,g,t,g,c,t,t,g,a,0
+g,a,t,c,c,c,g,g,g,c,t,g,c,c,c,a,t,c,t,c,a,c,g,c,c,a,g,g,g,g,g,c,g,g,a,a,c,t,t,c,c,t,g,c,a,g,c,c,t,c,t,a,a,g,c,c,t,c,c,g,c,a,t,c,c,t,c,g,t,g,g,g,c,c,c,t,g,a,c,c,t,t,c,t,c,t,c,t,g,a,g,a,g,c,c,g,g,g,c,a,g,a,g,g,c,t,c,c,g,g,a,g,c,c,a,t,g,c,a,g,g,c,c,g,a,a,g,g,c,c,a,g,g,g,c,a,c,a,g,g,g,g,g,t,t,c,g,a,c,g,g,g,c,g,a,t,g,c,t,g,a,t,g,g,c,c,c,a,g,g,a,g,g,c,c,c,t,g,g,c,a,t,t,c,c,t,g,a,t,g,g,c,c,c,a,g,g,g,g,g,c,a,a,t,g,c,t,g,g,c,g,g,c,c,c,a,g,g,a,g,a,g,g,c,g,g,g,t,g,c,c,a,c,g,g,g,c,g,g,c,a,g,a,g,g,t,c,c,c,c,0
+g,a,t,c,c,c,g,g,g,c,t,g,c,c,c,a,t,c,t,c,a,c,g,c,c,a,g,g,g,g,g,c,g,g,a,a,c,t,t,c,c,t,g,c,a,g,c,c,t,c,t,a,g,g,c,c,t,c,c,g,c,a,t,c,c,t,c,g,t,g,g,g,c,c,c,t,g,a,c,c,t,t,c,t,c,t,c,t,g,a,g,a,g,c,c,g,g,g,c,a,g,a,g,g,c,t,c,c,g,g,a,g,c,c,a,t,g,c,a,g,g,c,c,g,a,a,g,g,c,c,g,g,g,g,c,a,c,a,g,g,g,g,g,t,t,c,g,a,c,g,g,g,c,g,a,t,g,c,t,g,a,t,g,g,c,c,c,a,g,g,a,g,g,c,c,c,t,g,g,c,a,t,t,c,c,t,g,a,t,g,g,c,c,c,a,g,g,g,g,g,c,a,a,t,g,c,t,g,g,c,g,g,c,c,c,a,g,g,a,g,a,g,g,c,g,g,g,t,g,c,c,a,c,g,g,g,c,g,g,c,a,g,a,g,g,t,c,c,c,c,0
+a,c,a,g,a,g,a,g,g,g,c,g,g,g,g,c,g,t,a,g,g,a,c,c,t,g,c,g,c,t,t,c,g,g,g,g,g,t,g,g,a,g,t,c,g,g,a,g,c,g,t,a,a,c,g,g,c,g,g,c,g,g,t,c,a,t,g,c,g,g,g,a,c,g,c,g,g,a,t,g,c,a,g,a,c,g,c,a,g,g,c,g,g,a,g,g,c,g,c,t,g,a,c,g,g,c,g,g,g,g,a,t,g,g,c,c,g,g,g,g,t,g,g,c,c,a,c,a,g,c,t,g,c,c,g,c,g,g,g,g,g,c,g,t,g,g,a,c,a,c,a,g,c,c,g,c,a,g,c,t,c,c,g,g,c,c,g,g,t,g,g,a,g,c,t,c,c,c,c,c,a,g,c,g,c,a,c,g,c,g,c,c,a,g,g,t,c,c,g,g,g,c,a,g,a,g,a,c,g,c,c,g,c,g,t,c,t,g,c,g,g,c,c,a,g,g,g,g,g,t,c,a,c,g,a,a,t,g,c,g,g,c,c,g,c,a,c,a,t,a,0
+g,c,c,c,t,c,c,c,c,g,g,c,g,c,g,g,g,g,c,g,c,c,c,c,c,g,t,g,t,g,a,c,c,c,a,g,c,g,c,g,c,g,g,c,c,g,c,g,g,c,t,g,a,c,a,a,g,a,t,g,g,c,g,g,c,g,g,g,c,c,c,g,g,g,c,a,c,c,g,c,c,c,c,t,t,c,c,g,c,c,c,c,g,c,c,g,g,g,c,g,t,c,g,c,a,c,g,a,g,g,c,c,g,g,c,t,c,g,a,a,g,g,g,g,a,a,g,t,g,a,g,t,c,a,g,t,g,t,c,c,g,c,g,g,a,c,c,c,g,g,c,c,g,g,c,c,c,a,g,g,c,c,c,g,c,g,c,c,c,g,c,c,g,c,g,g,c,c,c,t,g,a,g,a,g,g,c,c,c,c,g,g,c,a,g,g,t,c,c,c,g,g,c,c,c,g,g,c,g,g,c,g,g,c,a,g,c,c,a,t,g,g,c,c,g,g,g,g,g,g,c,c,g,g,g,c,c,c,g,g,g,g,g,a,g,c,c,c,g,c,0
+a,a,g,t,g,g,g,c,g,g,a,t,c,t,c,c,g,c,a,c,a,c,c,t,c,g,g,c,g,g,a,a,g,a,g,g,c,a,g,a,t,t,c,a,g,g,a,a,g,c,t,a,a,t,a,c,g,c,t,g,c,t,g,g,c,t,g,g,c,a,g,c,g,g,c,c,g,g,g,c,c,g,g,t,c,g,g,g,g,c,t,g,g,g,c,c,c,t,a,c,g,c,a,c,t,t,t,g,c,g,t,a,g,c,g,a,g,g,g,g,g,g,t,t,a,c,c,a,a,a,g,g,c,c,t,a,g,t,g,c,t,t,g,g,c,c,t,c,g,a,g,c,a,a,g,c,c,t,g,g,c,c,t,a,t,c,c,c,c,t,g,t,a,g,g,g,g,g,t,g,g,g,t,g,a,g,g,g,g,c,g,a,g,g,c,t,g,a,g,g,a,a,g,a,a,g,a,g,a,a,g,g,g,g,a,a,t,t,g,g,g,g,c,g,c,t,t,g,a,g,g,g,g,a,t,t,a,t,a,a,t,t,t,c,t,t,t,a,a,a,0
+t,a,g,g,c,a,g,g,g,c,t,g,g,c,a,g,c,a,g,g,t,g,a,c,t,g,g,a,t,g,g,t,g,c,t,g,a,g,a,a,g,g,c,a,g,g,c,a,g,a,t,a,g,g,g,g,g,c,g,t,g,g,g,c,c,c,t,g,g,c,a,a,g,t,g,c,a,c,t,c,c,t,c,a,g,c,c,a,a,t,c,a,g,c,g,t,c,c,t,g,c,c,c,g,g,c,t,g,g,t,g,g,a,t,t,c,g,g,t,t,a,c,a,a,g,c,c,c,a,a,g,a,t,c,a,c,c,c,c,a,t,a,c,t,c,c,a,g,c,c,t,c,t,t,t,c,c,t,c,c,t,c,c,t,c,c,c,g,c,a,g,c,t,c,c,a,t,t,c,a,t,t,g,g,t,c,c,c,g,c,c,g,c,a,c,c,g,g,g,c,c,t,g,c,t,g,g,g,c,t,c,c,g,c,t,t,c,c,g,t,t,c,c,a,c,t,g,c,t,c,a,g,c,t,g,c,c,g,c,c,t,g,g,t,g,g,g,g,c,c,0
+g,a,g,a,c,c,c,c,a,c,c,c,c,g,g,g,g,g,c,g,g,g,g,c,c,c,t,t,g,c,a,g,t,g,a,c,a,c,g,t,c,g,g,a,c,a,g,c,t,g,t,a,g,c,c,g,c,g,g,c,t,g,a,g,g,c,t,c,c,a,g,t,g,c,c,g,a,g,c,g,c,a,a,g,a,a,c,c,c,t,g,c,g,c,a,g,c,c,c,a,g,a,g,c,a,g,c,t,g,c,t,g,g,a,g,g,g,g,a,a,t,c,g,a,g,g,c,g,c,g,g,c,t,c,c,g,g,g,g,a,t,t,c,g,g,c,t,c,g,g,g,c,c,g,c,t,g,g,c,t,c,t,g,c,t,c,t,g,c,g,g,g,g,a,g,g,g,a,g,c,g,g,g,c,c,c,g,c,c,c,g,c,g,g,g,g,c,c,c,g,a,g,c,c,c,t,c,c,g,g,a,t,c,c,g,c,c,c,c,c,t,c,c,c,c,g,g,t,c,c,c,g,c,c,c,c,c,t,c,g,g,a,g,a,c,t,c,c,t,c,0
+g,a,t,c,c,c,g,g,g,c,t,g,c,c,c,a,t,c,t,c,a,c,g,c,c,a,g,g,g,g,g,c,g,g,a,a,c,t,t,c,c,t,g,c,a,g,c,c,t,c,t,a,a,g,c,c,t,c,c,g,c,a,t,c,c,t,c,g,t,g,g,g,c,c,c,t,g,a,c,c,t,t,c,t,c,t,c,t,g,a,g,a,g,c,c,g,g,g,c,a,g,a,g,g,c,t,c,c,g,g,a,g,c,c,a,t,g,c,a,g,g,c,c,g,a,a,g,g,c,c,a,g,g,g,c,a,c,a,g,g,g,g,g,t,t,c,g,a,c,g,g,g,c,g,a,t,g,c,t,g,a,t,g,g,c,c,c,a,g,g,a,g,g,c,c,c,t,g,g,c,a,t,t,c,c,t,g,a,t,g,g,c,c,c,a,g,g,g,g,g,c,a,a,t,g,c,t,g,g,c,g,g,c,c,c,a,g,g,a,g,a,g,g,c,g,g,g,t,g,c,c,a,c,g,g,g,c,g,g,c,a,g,a,g,g,t,c,c,c,c,0
+g,a,t,c,c,c,g,g,g,c,t,g,c,c,c,a,t,c,t,c,a,c,g,c,c,a,g,g,g,g,g,c,g,g,a,a,c,t,t,c,c,t,g,c,a,g,c,c,t,c,t,a,g,g,c,c,t,c,c,g,c,a,t,c,c,t,c,g,t,g,g,g,c,c,c,t,g,a,c,c,t,t,c,t,c,t,c,t,g,a,g,a,g,c,c,g,g,g,c,a,g,a,g,g,c,t,c,c,g,g,a,g,c,c,a,t,g,c,a,g,g,c,c,g,a,a,g,g,c,c,g,g,g,g,c,a,c,a,g,g,g,g,g,t,t,c,g,a,c,g,g,g,c,g,a,t,g,c,t,g,a,t,g,g,c,c,c,a,g,g,a,g,g,c,c,c,t,g,g,c,a,t,t,c,c,t,g,a,t,g,g,c,c,c,a,g,g,g,g,g,c,a,a,t,g,c,t,g,g,c,g,g,c,c,c,a,g,g,a,g,a,g,g,c,g,g,g,t,g,c,c,a,c,g,g,g,c,g,g,c,a,g,a,g,g,t,c,c,c,c,0
+a,c,a,g,a,g,a,g,g,g,c,g,g,g,g,c,g,t,a,g,g,a,c,c,t,g,c,g,c,t,t,c,g,g,g,g,g,t,g,g,a,g,t,c,g,g,a,g,c,g,t,a,a,c,g,g,c,g,g,c,g,g,t,c,a,t,g,c,g,g,g,a,c,g,c,g,g,a,t,g,c,a,g,a,c,g,c,a,g,g,c,g,g,a,g,g,c,g,c,t,g,a,c,g,g,c,g,g,g,g,a,t,g,g,c,c,g,g,g,g,t,g,g,c,c,a,c,a,g,c,t,g,c,c,g,c,g,g,g,g,g,c,g,t,g,g,a,c,a,c,a,g,c,c,g,c,a,g,c,t,c,c,g,g,c,c,g,g,t,g,g,a,g,c,t,c,c,c,c,c,a,g,c,g,c,a,c,g,c,g,c,c,a,g,g,t,c,c,g,g,g,c,a,g,a,g,a,c,g,c,c,g,c,g,t,c,t,g,c,g,g,c,c,a,g,g,g,g,g,t,c,a,c,g,a,a,t,g,c,g,g,c,c,g,c,a,c,a,t,a,0
+c,g,c,c,a,g,g,g,c,c,g,c,g,c,c,t,t,c,c,c,t,c,c,c,a,c,a,g,c,g,c,g,c,g,c,t,g,c,g,c,g,t,g,c,g,a,a,g,g,t,t,a,a,g,c,g,g,c,t,c,t,t,g,g,g,a,c,t,g,g,c,g,g,g,g,c,t,g,c,g,c,g,c,g,g,g,g,t,t,a,g,g,g,t,g,g,g,g,g,t,a,c,g,g,g,a,a,g,g,c,t,c,a,a,c,c,c,a,g,g,a,c,c,t,g,c,g,t,a,c,c,t,t,g,c,t,t,t,g,g,g,g,g,c,g,c,a,c,t,a,a,g,c,a,c,c,t,g,c,c,g,g,g,a,g,c,a,g,g,g,g,g,c,g,c,a,c,c,g,g,g,a,a,c,t,c,g,c,a,g,a,t,t,t,c,g,c,c,a,g,t,t,g,g,g,c,g,c,a,c,t,g,g,g,g,a,t,c,t,g,t,g,g,a,c,t,g,c,g,t,c,c,g,g,g,g,g,a,t,g,g,g,c,t,a,g,g,g,g,g,0
+a,t,a,g,a,t,t,t,c,c,a,c,g,t,c,a,g,c,t,t,a,c,g,t,c,t,c,c,a,a,a,t,t,t,c,t,a,c,t,t,c,a,c,g,g,a,t,c,c,g,t,a,g,c,a,a,a,g,a,g,g,c,a,g,c,t,g,c,a,g,t,g,g,a,g,a,a,t,c,a,t,g,t,t,a,a,g,c,t,c,g,g,c,t,a,c,t,g,c,g,g,a,g,a,g,c,c,c,a,a,g,g,t,a,g,c,c,c,a,a,t,a,a,t,g,g,a,t,t,t,t,g,a,t,g,a,g,c,g,t,g,g,t,c,c,c,t,g,c,t,c,c,t,c,t,a,a,c,a,t,g,t,a,t,t,t,g,c,c,a,a,g,t,t,g,t,a,c,t,t,a,c,t,a,c,g,t,c,t,c,g,g,g,t,c,c,a,g,a,t,t,t,c,t,c,c,a,g,c,c,t,c,c,c,t,t,c,t,t,t,t,c,t,g,c,c,c,c,a,g,a,c,c,c,c,g,t,c,t,t,c,g,c,g,c,c,c,a,a,t,0
+g,g,t,g,a,c,t,g,t,a,c,t,t,c,c,c,c,c,c,c,g,g,t,g,c,c,a,c,c,a,a,g,t,t,g,t,t,a,c,a,t,g,a,a,a,t,c,t,g,c,t,a,g,t,t,c,a,t,a,a,t,t,t,c,c,g,t,g,g,g,t,c,g,g,g,c,c,g,g,g,c,g,g,g,c,c,a,g,g,c,g,c,t,g,g,g,c,a,c,g,g,t,g,a,t,g,g,c,c,a,c,c,a,c,t,g,g,g,g,c,c,c,t,g,g,g,c,a,a,c,t,a,c,t,a,c,g,t,g,g,a,c,t,c,g,t,t,c,c,t,g,c,t,g,g,g,c,g,c,c,g,a,c,g,c,c,g,c,g,g,a,t,g,a,g,c,t,g,a,g,c,g,t,t,g,g,c,c,g,c,t,a,t,g,c,g,c,c,g,g,g,g,a,c,c,c,t,g,g,g,c,c,a,g,c,c,t,c,c,c,c,g,g,c,a,g,g,c,g,g,c,g,a,c,g,c,t,g,g,c,c,g,a,g,c,a,c,c,c,c,0
+a,c,c,a,c,c,t,g,t,g,a,g,g,a,c,t,g,c,t,g,a,g,a,t,t,g,g,c,g,g,a,g,g,c,g,g,t,c,a,t,g,t,g,g,g,c,g,g,t,c,t,g,a,t,g,c,t,g,c,g,g,c,g,a,g,c,t,c,c,g,t,c,c,a,a,a,a,g,a,a,a,a,t,g,g,g,g,t,t,t,g,g,t,g,t,a,a,a,t,c,t,g,g,g,g,g,t,g,t,a,a,t,g,t,t,a,t,c,a,t,a,t,a,t,c,a,c,t,c,t,a,c,c,t,c,g,t,a,a,a,a,c,c,g,a,c,a,c,t,g,a,a,a,g,c,t,g,c,c,g,g,a,c,a,a,c,a,a,a,t,c,a,c,a,g,g,t,c,a,a,a,a,t,t,a,t,g,a,g,t,t,c,t,t,c,g,t,a,t,t,a,t,g,t,g,a,a,c,g,c,g,c,t,t,t,t,t,a,g,c,a,a,a,t,a,t,a,c,g,g,c,g,g,g,g,g,c,t,t,c,t,c,t,g,t,t,c,c,a,a,0
+c,t,t,t,t,t,c,c,t,a,g,g,c,c,t,t,g,c,c,c,c,c,c,c,a,a,a,g,c,c,c,c,t,c,c,a,a,a,a,g,a,g,g,g,a,a,c,t,t,t,t,a,a,t,c,t,g,a,g,g,g,g,g,c,t,c,c,a,a,g,g,a,g,a,a,g,g,c,c,a,t,g,a,a,t,t,a,c,g,a,a,t,t,t,g,a,g,c,g,a,g,a,g,a,t,t,g,g,t,t,t,t,a,t,c,a,a,t,a,g,c,c,a,g,c,c,g,t,c,g,c,t,c,g,c,t,g,a,g,t,g,c,c,t,g,a,c,a,t,c,t,t,t,t,c,c,c,c,c,t,g,t,c,g,c,t,g,a,t,a,c,a,t,t,t,c,a,a,a,g,t,t,c,a,t,c,a,a,t,c,a,a,g,a,c,c,t,c,g,a,c,g,c,t,t,t,c,a,c,a,c,t,c,g,a,c,a,c,t,g,a,t,t,c,c,t,c,c,t,c,c,t,t,t,t,g,a,g,c,a,g,a,c,c,a,t,t,c,c,c,0
+c,c,c,t,c,t,t,g,c,g,c,a,c,t,g,t,a,c,a,t,t,c,a,t,a,t,c,a,t,t,t,t,t,c,t,t,c,t,c,c,g,g,c,c,c,c,a,t,g,g,t,a,a,a,a,g,t,g,a,g,a,a,a,g,t,t,g,g,c,a,c,a,g,t,c,a,c,g,c,c,g,g,g,c,t,t,c,g,c,a,g,g,a,c,c,a,g,g,t,c,a,c,t,c,a,g,t,g,a,c,a,g,a,t,g,g,a,c,a,a,t,g,c,a,a,g,a,a,t,g,a,a,c,t,c,c,t,t,c,c,t,g,g,a,a,t,a,c,c,c,c,a,t,a,c,t,t,a,g,c,a,g,t,g,g,c,g,a,c,t,c,g,g,g,g,a,c,c,t,g,c,t,c,a,g,c,c,c,g,a,g,c,c,t,a,c,c,c,c,t,c,g,g,a,c,c,a,t,a,g,g,a,t,t,a,c,a,a,c,t,t,t,c,c,a,g,t,c,g,t,g,c,g,c,g,g,t,c,a,g,c,g,c,c,a,a,c,a,g,t,0
+c,c,c,c,a,c,c,g,a,g,g,g,a,g,g,t,g,t,c,a,g,g,c,c,c,c,g,a,g,g,g,a,c,c,c,g,g,c,c,c,c,c,g,a,g,c,a,t,c,a,t,a,g,a,c,g,c,g,c,t,g,g,a,g,g,c,c,g,g,t,g,g,g,c,g,g,t,c,g,c,c,g,t,a,g,t,c,g,c,c,c,t,c,c,c,a,c,c,a,c,c,t,c,g,c,t,c,a,g,g,t,t,t,c,t,c,c,g,g,c,c,t,g,g,g,g,c,a,a,g,a,g,g,c,c,t,g,t,g,g,c,c,c,g,c,g,c,g,g,g,a,a,c,g,c,a,c,t,g,t,c,c,a,c,c,c,t,c,a,g,a,c,c,t,g,g,g,a,c,t,g,g,g,c,c,g,g,c,g,c,g,c,g,g,a,c,g,c,t,a,c,c,a,a,g,a,g,g,c,t,g,c,g,g,c,t,c,c,c,g,c,c,c,c,c,g,c,g,g,c,c,g,g,a,c,g,t,g,g,c,g,c,c,t,c,c,c,c,t,g,0
+a,c,c,a,c,c,t,g,t,g,a,g,g,a,c,t,g,c,t,g,a,g,a,t,t,g,g,c,g,g,a,g,g,c,g,g,t,c,a,t,g,t,g,g,g,c,g,g,t,c,t,a,a,t,g,c,t,g,c,g,g,c,g,a,g,c,t,c,c,g,t,c,c,a,a,a,a,g,a,a,a,a,t,g,g,g,g,t,t,t,g,g,t,g,t,a,a,a,t,c,t,g,g,g,g,g,t,g,t,a,a,t,g,t,t,a,t,c,a,t,a,t,a,t,c,a,c,t,c,t,a,c,c,t,c,g,t,a,a,a,a,c,c,g,a,c,a,c,t,g,a,a,a,g,c,t,g,c,c,g,g,a,c,a,a,c,a,a,a,t,c,a,c,a,g,g,t,c,a,a,a,a,t,t,a,t,g,a,g,t,t,c,t,t,c,g,t,a,t,t,a,t,g,t,g,a,a,c,g,c,g,c,t,t,t,t,t,a,g,c,a,a,a,t,a,t,a,c,g,g,c,g,g,g,g,g,c,t,t,c,t,c,t,g,t,t,c,c,a,a,0
+c,t,t,t,t,t,c,c,t,a,g,g,c,c,t,t,g,c,c,c,c,c,c,c,a,a,a,g,c,c,c,c,t,c,c,a,a,a,a,g,a,g,g,g,a,a,c,t,t,t,t,a,a,t,c,t,g,a,g,g,g,g,g,c,t,c,c,a,a,g,g,a,g,a,a,g,g,c,c,a,t,g,a,a,t,t,a,c,g,a,a,t,t,t,g,a,g,c,g,a,g,a,g,a,t,t,g,g,t,t,t,t,a,t,c,a,a,t,a,g,c,c,a,g,c,c,g,t,c,g,c,t,c,g,c,t,g,a,g,t,g,c,c,t,g,a,c,a,t,c,t,t,t,t,c,c,c,c,c,t,g,t,c,g,c,t,g,a,t,a,c,a,t,t,t,c,a,a,a,g,t,t,c,a,t,c,a,a,t,c,a,a,g,a,c,c,t,c,g,a,c,g,c,t,t,t,c,a,c,a,c,t,c,g,a,c,a,c,t,g,a,t,t,c,c,t,c,c,t,c,c,t,t,t,t,g,a,g,c,a,g,a,c,c,a,t,t,c,c,c,0
+c,c,c,t,c,t,t,g,c,g,c,a,c,t,g,t,a,c,a,t,t,c,a,t,a,t,c,a,t,t,t,t,t,c,t,t,c,t,c,c,g,g,c,c,c,c,a,t,g,g,t,g,a,a,a,g,t,g,a,g,a,a,a,g,t,t,g,g,c,a,c,a,g,t,c,a,c,g,c,c,g,g,g,c,t,t,c,g,c,a,g,g,a,c,c,a,g,g,t,c,a,c,t,c,a,g,t,g,a,c,a,g,a,t,g,g,a,c,a,a,t,g,c,a,a,g,a,a,t,g,a,a,c,t,c,c,t,t,c,c,t,g,g,a,a,t,a,c,c,c,c,a,t,a,c,t,t,a,g,c,a,g,t,g,g,c,g,a,c,t,c,g,g,g,g,a,c,c,t,g,c,t,c,a,g,c,c,c,g,a,g,c,c,t,a,c,c,c,c,t,c,g,g,a,c,c,a,t,a,g,g,a,t,t,a,c,a,a,c,t,t,t,c,c,a,g,t,c,g,t,g,c,g,c,g,g,t,c,a,g,c,g,c,c,a,a,c,a,g,t,0
+a,t,c,c,a,t,g,g,c,a,a,c,a,c,t,g,c,a,g,c,t,t,g,t,c,a,c,a,c,a,a,t,c,t,c,c,a,c,a,c,c,c,a,c,c,a,c,t,c,t,t,a,g,t,g,c,a,t,t,g,c,g,c,a,g,a,g,c,t,c,a,g,c,c,a,t,c,t,t,t,c,t,c,a,t,c,c,g,t,c,a,g,g,c,a,t,t,c,c,t,g,a,g,a,a,a,g,a,g,g,g,c,c,a,c,t,c,t,a,c,c,t,c,t,c,t,t,g,c,t,g,c,c,a,g,c,c,t,t,c,a,c,t,c,c,a,g,c,a,a,g,g,a,g,g,g,t,g,c,t,g,g,g,t,g,a,c,c,t,g,a,g,c,c,c,a,c,a,t,a,g,c,c,c,c,g,a,g,t,g,a,g,c,a,g,t,g,a,g,g,c,t,g,t,c,t,c,c,t,g,c,c,c,t,c,t,t,c,t,g,c,c,t,g,g,a,g,g,g,c,t,c,g,t,c,a,g,t,g,t,c,c,c,c,a,g,g,t,g,t,0
+g,g,t,t,t,g,a,a,g,t,c,c,a,a,c,t,c,c,t,a,a,g,c,c,a,g,t,g,c,c,a,g,a,a,g,a,g,c,c,a,a,g,g,a,c,a,g,g,t,a,t,a,a,c,t,g,t,c,a,t,c,a,c,t,t,a,g,a,c,c,t,c,a,c,c,c,t,g,t,g,g,a,g,c,c,a,c,a,c,c,c,t,a,g,g,g,t,t,g,g,c,c,a,a,t,c,t,a,c,t,c,c,c,a,g,g,a,g,c,a,g,g,g,a,g,g,g,c,a,g,g,a,g,c,c,a,g,g,g,c,t,g,g,g,c,a,t,a,a,a,a,g,t,c,a,g,g,g,c,a,g,a,g,c,c,a,t,c,t,a,t,t,g,c,t,t,a,c,a,t,t,t,g,c,t,t,c,t,g,a,c,a,c,a,a,c,t,g,t,g,t,t,c,a,c,t,a,g,c,a,a,c,c,t,c,a,a,a,c,a,g,a,c,a,c,c,a,t,g,g,t,g,c,a,t,c,t,g,a,c,t,c,c,t,g,a,g,g,a,g,0
+c,a,t,t,g,t,a,t,t,c,a,g,g,t,g,a,a,a,t,t,g,a,a,a,c,a,t,t,t,c,c,t,t,t,g,a,a,a,a,a,a,t,a,c,t,c,t,c,a,c,t,g,a,t,t,t,c,t,c,a,g,t,t,c,c,a,g,a,a,t,g,a,t,t,a,c,t,t,c,a,g,t,a,a,g,c,c,c,t,a,g,c,a,c,c,a,g,c,a,c,g,a,a,t,t,c,t,t,c,c,t,t,t,c,t,t,c,t,c,a,c,t,g,g,a,t,t,t,t,c,t,g,g,c,a,t,g,g,a,g,c,a,g,c,a,a,t,a,c,c,c,c,t,g,g,c,t,t,t,c,c,a,t,c,c,c,c,t,t,c,t,c,c,t,c,a,a,t,c,t,a,t,g,c,c,a,t,g,g,t,g,c,t,t,t,t,g,g,g,c,a,a,t,t,g,c,a,t,g,g,t,t,c,t,c,c,a,t,g,t,g,a,t,a,t,g,g,a,c,t,g,a,g,c,c,a,a,g,c,c,t,g,c,a,c,c,a,g,c,c,0
+g,a,a,t,a,g,a,a,g,a,t,g,a,a,a,c,a,g,c,a,a,a,t,c,t,a,c,c,a,c,t,t,g,a,t,t,c,t,g,a,t,g,a,a,c,a,a,a,t,c,t,g,a,c,c,g,a,c,a,t,t,c,a,a,t,g,g,c,t,c,a,g,t,c,t,t,c,a,t,g,c,c,c,t,c,t,g,c,g,t,t,t,a,t,a,c,t,a,a,t,t,g,g,g,a,t,t,c,c,t,g,g,t,c,t,g,g,a,g,t,c,a,g,t,g,c,a,g,t,g,t,t,g,g,a,t,t,g,g,g,a,t,t,c,c,t,t,t,c,t,c,t,g,c,c,a,t,g,t,a,t,c,t,t,a,t,t,g,g,t,g,t,g,a,t,t,g,g,a,a,a,t,t,c,c,c,t,a,a,t,t,t,t,a,g,t,t,a,t,a,a,t,c,a,a,a,t,a,t,g,a,a,a,a,c,a,g,c,c,t,c,c,a,t,a,t,a,c,c,c,a,t,g,t,a,c,a,t,t,t,t,t,t,t,g,g,c,c,a,t,0
+a,a,c,t,t,t,g,t,g,a,t,t,g,g,a,t,a,a,g,c,a,t,a,a,a,a,t,a,t,a,t,a,a,a,a,g,t,a,c,a,g,a,g,a,a,t,c,a,c,a,t,a,a,t,g,g,c,a,a,a,c,t,t,t,c,t,c,c,c,c,t,t,t,c,t,a,a,g,a,a,g,a,c,c,c,c,t,g,a,a,t,g,g,c,c,c,t,g,c,c,t,a,t,t,a,c,a,a,a,t,g,g,t,a,c,c,t,t,g,t,t,c,a,t,g,c,c,t,t,t,t,g,t,g,c,t,g,a,c,a,t,t,t,a,t,t,g,g,g,a,t,c,c,c,c,g,g,t,t,t,t,g,a,a,t,c,t,g,t,a,c,a,a,t,g,c,t,g,g,a,t,t,g,g,g,a,t,t,c,c,a,t,t,c,t,g,t,g,c,t,a,c,g,t,a,t,g,t,c,a,t,t,g,c,t,c,t,g,a,t,t,g,g,a,a,a,t,t,c,t,c,t,a,c,t,t,t,t,g,a,t,c,a,t,c,a,t,c,a,a,0
+g,g,g,t,g,a,g,c,a,t,a,c,a,t,t,t,c,t,g,t,a,g,a,c,t,g,t,g,g,a,c,t,t,a,t,g,c,a,t,t,c,a,c,a,a,g,c,a,g,g,t,a,a,t,t,c,c,t,t,c,c,c,a,a,t,g,a,c,a,c,c,c,a,g,t,t,t,c,a,c,c,c,c,t,c,c,t,c,c,t,t,c,c,t,g,t,t,g,c,t,g,g,g,g,a,t,c,c,c,a,g,g,a,c,t,a,g,a,a,a,c,a,c,t,t,c,a,c,a,t,c,t,g,g,a,t,c,g,g,c,t,t,t,c,c,c,t,t,c,t,g,t,g,c,t,g,t,g,t,a,c,a,t,g,a,t,c,g,c,a,c,t,c,a,t,a,g,g,g,a,a,c,t,t,c,a,c,t,a,t,t,c,t,a,c,t,t,g,t,g,a,t,c,a,a,g,a,c,t,g,a,c,a,g,c,a,g,c,c,t,a,c,a,c,c,a,g,c,c,c,a,t,g,t,t,c,t,a,c,t,t,c,c,t,g,g,c,c,a,t,0
+t,g,a,g,g,t,c,a,g,g,t,g,t,a,t,c,t,g,t,a,t,t,t,t,t,c,a,t,a,g,c,a,g,a,g,c,c,c,t,a,t,g,a,a,t,g,a,a,t,c,t,g,a,t,c,c,a,t,t,a,t,c,a,a,c,a,c,a,t,c,a,t,a,t,g,t,t,g,a,a,a,t,c,a,c,c,a,c,c,t,t,c,t,t,c,t,t,g,g,t,t,g,g,g,a,t,g,c,c,a,g,g,g,c,t,a,g,a,a,t,a,t,g,c,a,c,a,c,a,t,c,t,g,g,a,t,c,t,c,t,a,t,c,c,c,c,a,t,c,t,g,c,a,g,c,a,t,g,t,a,t,c,t,t,a,t,t,g,c,t,a,t,t,c,t,a,g,g,a,a,a,t,g,g,c,a,c,c,a,t,t,c,t,t,t,t,t,a,t,c,a,t,c,a,a,g,a,c,a,g,a,g,c,c,c,t,c,c,t,t,g,c,a,t,g,g,g,c,c,c,a,t,g,t,a,c,t,a,t,t,t,t,c,t,t,t,c,c,a,t,0
+t,a,c,t,a,a,a,t,t,t,a,c,a,g,a,t,a,t,t,c,c,t,a,t,t,t,t,a,c,c,a,a,c,a,c,a,a,g,c,a,t,c,t,g,t,a,t,t,t,t,t,g,a,t,a,g,c,a,g,a,g,c,c,c,t,a,t,g,a,a,t,g,a,a,t,c,a,t,g,t,c,c,a,t,t,a,t,c,a,a,c,a,c,a,t,c,a,t,a,t,g,t,t,g,a,a,a,t,c,a,c,c,a,c,c,t,t,c,t,t,c,t,t,g,g,t,t,g,g,g,a,t,g,c,c,a,g,g,g,c,t,a,g,a,a,t,a,t,g,c,a,c,a,c,a,t,c,t,g,g,a,t,c,t,c,t,a,t,c,c,c,c,a,t,c,t,g,c,a,g,c,a,t,g,t,a,t,c,t,t,a,t,t,g,c,t,a,t,t,c,t,a,g,g,a,a,a,t,g,g,c,a,c,c,a,t,t,c,t,t,t,t,t,a,t,c,a,t,c,a,a,g,a,c,a,g,a,g,c,c,c,t,c,c,t,t,g,c,a,t,0
+a,g,c,t,g,t,g,a,g,c,c,a,a,g,t,g,g,a,g,g,a,g,t,c,c,a,g,c,c,c,c,a,c,c,c,g,a,t,g,g,t,g,a,g,a,a,c,a,a,c,t,g,a,a,c,g,a,a,c,t,t,g,a,a,t,g,c,a,t,c,a,c,a,g,g,c,c,a,a,c,c,a,c,c,g,t,a,a,c,t,t,c,a,t,t,c,t,g,a,c,a,g,g,t,a,t,c,c,c,a,g,g,a,a,c,g,c,c,a,g,a,c,a,a,g,a,a,c,c,c,a,t,g,g,t,t,g,g,c,c,t,t,t,c,c,c,c,t,g,g,g,a,t,t,t,c,t,c,t,a,c,a,c,a,c,t,c,a,c,a,c,t,c,c,t,g,g,g,a,a,a,t,g,g,t,a,c,c,a,t,c,c,t,a,g,c,t,g,t,c,a,t,c,a,a,g,g,t,g,g,a,g,c,c,a,a,g,t,c,t,c,c,a,t,g,a,g,c,c,c,a,c,g,t,a,t,t,a,c,t,t,c,c,t,t,t,c,t,a,t,0
+a,g,t,g,c,a,t,g,a,g,t,c,a,g,g,g,a,a,g,g,g,a,a,g,a,t,g,c,a,g,g,c,t,a,t,t,t,t,g,g,a,a,c,g,t,t,t,c,a,t,t,a,g,a,a,t,t,t,g,g,c,a,c,g,c,g,a,t,t,a,a,g,t,a,a,a,c,c,t,t,t,c,t,a,a,t,c,a,t,t,t,t,t,c,a,g,g,t,t,c,c,a,g,a,g,t,t,c,a,a,c,g,t,g,g,a,a,t,c,c,t,g,a,a,c,t,a,t,g,t,c,a,a,c,a,t,t,a,c,c,a,a,c,t,c,a,g,a,t,a,g,c,c,c,c,c,a,a,t,a,g,c,a,g,c,a,c,t,t,c,a,a,t,g,g,c,c,c,c,c,a,c,c,t,t,c,t,t,g,c,t,g,g,t,g,g,g,c,a,t,g,c,c,a,g,g,c,c,t,a,t,c,a,g,g,t,g,c,a,c,c,c,t,c,c,t,g,g,t,g,g,a,c,a,t,t,g,c,c,c,c,t,c,a,t,t,g,c,t,g,0
+a,t,c,t,g,c,a,g,a,g,a,g,t,a,g,a,t,t,g,c,g,t,t,c,c,c,a,g,c,a,g,a,g,a,c,c,a,t,a,t,t,a,a,c,c,a,g,t,c,c,t,g,a,g,t,g,c,t,g,g,c,t,t,c,a,g,g,g,a,a,c,a,g,c,t,c,t,t,c,t,c,a,t,c,c,t,g,t,g,t,c,c,t,t,c,a,t,c,c,t,g,c,t,t,g,g,a,a,t,c,c,c,a,g,g,c,c,t,g,g,a,g,a,g,t,t,t,c,c,a,g,t,t,g,t,g,g,a,t,t,g,c,c,t,t,t,c,c,g,t,t,c,t,g,t,g,c,c,a,c,g,t,a,t,g,c,t,g,t,g,g,c,t,g,t,t,g,t,t,g,g,a,a,a,t,a,t,c,a,c,t,c,t,c,c,t,c,c,a,t,g,t,a,a,t,c,a,g,a,a,t,t,g,a,c,c,a,c,a,c,c,c,t,g,c,a,t,g,a,g,c,c,c,a,t,g,t,a,c,c,t,c,t,t,t,c,t,g,g,c,0
+t,c,t,a,t,a,g,g,a,t,g,g,a,a,g,c,a,t,t,g,t,g,a,g,g,a,c,a,a,a,t,g,c,t,g,c,a,a,a,a,c,c,a,g,g,a,c,a,c,c,t,a,g,g,a,a,a,t,c,c,t,a,a,g,c,a,a,c,t,c,a,a,c,a,t,c,t,a,a,a,t,t,t,c,c,a,a,c,c,t,t,c,t,t,g,t,t,g,a,c,c,g,g,c,a,t,t,c,c,t,g,g,c,c,t,a,g,a,g,t,c,t,g,c,c,c,a,t,g,t,c,t,g,g,a,t,c,t,c,c,a,t,t,c,c,t,t,t,c,t,g,t,t,g,t,t,t,t,t,a,t,g,c,c,a,t,t,g,c,c,c,t,c,t,c,t,g,g,g,a,a,c,a,g,c,g,t,g,a,t,c,c,t,g,t,t,t,g,t,c,a,t,c,a,t,t,a,c,c,c,a,g,c,a,g,a,g,t,c,t,c,c,a,t,g,a,a,c,c,c,a,t,g,t,a,t,t,a,t,t,t,c,c,t,c,t,t,c,a,g,0
+t,a,g,g,c,a,g,g,g,c,t,g,g,c,a,g,c,a,g,g,t,g,a,c,t,g,g,a,t,g,g,t,g,c,t,g,a,g,a,a,g,g,c,a,g,g,c,a,g,a,t,a,g,g,g,g,g,c,g,t,g,g,g,c,c,c,t,g,g,c,a,a,g,t,g,c,a,c,t,c,c,t,c,a,g,c,c,a,a,t,c,a,g,c,g,t,c,c,t,g,c,c,c,g,g,c,t,g,g,t,g,g,a,t,t,c,g,g,t,t,a,c,a,a,g,c,c,c,a,a,g,a,t,c,a,c,c,c,c,a,t,a,c,t,c,c,a,g,c,c,t,c,t,t,t,c,c,t,c,c,t,c,c,t,c,c,c,g,c,a,g,c,t,c,c,a,t,t,c,a,t,t,g,g,t,c,c,c,g,c,c,g,c,a,c,c,g,g,g,c,c,t,g,c,t,g,g,g,c,t,c,c,g,c,t,t,c,c,g,t,t,c,c,a,c,t,g,c,t,c,a,g,c,t,g,c,c,g,c,c,t,g,g,t,g,g,g,g,c,c,0

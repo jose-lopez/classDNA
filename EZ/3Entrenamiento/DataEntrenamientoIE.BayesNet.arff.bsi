@@ -1,0 +1,81 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.bayes.BayesNet -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+Relation:     ExonZona-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.CfsSubsetEval-Sweka.attributeSelection.BestFirst -D 1 -N 5
+Instances:    267
+Attributes:   17
+              B15
+              B33
+              B34
+              B51
+              B52
+              B53
+              B68
+              B133
+              B139
+              B140
+              B154
+              B222
+              B229
+              B233
+              B236
+              B248
+              CLASS
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Bayes Network Classifier
+not using ADTree
+#attributes=17 #classindex=16
+Network structure (nodes followed by parents)
+B15(4): CLASS 
+B33(4): CLASS 
+B34(4): CLASS 
+B51(4): CLASS 
+B52(4): CLASS 
+B53(4): CLASS 
+B68(4): CLASS 
+B133(4): CLASS 
+B139(4): CLASS 
+B140(4): CLASS 
+B154(4): CLASS 
+B222(4): CLASS 
+B229(4): CLASS 
+B233(4): CLASS 
+B236(4): CLASS 
+B248(4): CLASS 
+CLASS(2): 
+LogScore Bayes: -5617.707427250197
+LogScore BDeu: -5784.614586149132
+LogScore MDL: -5774.876653056722
+LogScore ENTROPY: -5503.895093124309
+LogScore AIC: -5600.895093124309
+
+
+Time taken to build model: 0 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         251               94.0075 %
+Incorrectly Classified Instances        16                5.9925 %
+Kappa statistic                          0.877 
+Mean absolute error                      0.0708
+Root mean squared error                  0.2127
+Relative absolute error                 14.5013 %
+Root relative squared error             43.0551 %
+Total Number of Instances              267     
+
+=== Detailed Accuracy By Class ===
+
+TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+  0.92      0.045      0.937     0.92      0.929      0.987    0
+  0.955     0.08       0.942     0.955     0.948      0.987    1
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 104   9 |   a = 0
+   7 147 |   b = 1
+

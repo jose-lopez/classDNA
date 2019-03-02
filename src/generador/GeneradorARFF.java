@@ -63,7 +63,7 @@ public class GeneradorARFF {
         
     }
 
-    public static void main(String[] args) throws Exception {    
+    public static void main(String[] args) throws Exception {   
 
         int sitio;        
         sitio = Integer.parseInt(args[0]);       
@@ -88,7 +88,7 @@ public class GeneradorARFF {
         }
         //cargaParametros(); // carga paràmetros de entrada del catalizador
         Catalizador cat = new Catalizador();
-        cat.initParam(args[1],tipo, args[2],Integer.parseInt(args[3]));
+        cat.initParam(args[1],tipo, args[2],Integer.parseInt(args[3]),Integer.parseInt(args[4]));
         cat.exec();    
         
 
