@@ -5,6 +5,7 @@
  */
 package generador;
 
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -33,5 +34,6 @@ public class EscribirArchivo {
         System.out.println(texto);
         print.printf("%s"+"%n", texto);
         print.close();
-    }
+    }    
+    
 }

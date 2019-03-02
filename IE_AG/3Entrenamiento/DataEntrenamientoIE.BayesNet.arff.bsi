@@ -1,0 +1,91 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.bayes.BayesNet -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+Relation:     IntronExon-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.CfsSubsetEval-Sweka.attributeSelection.BestFirst -D 1 -N 5
+Instances:    499
+Attributes:   22
+              B19
+              B59
+              B61
+              B67
+              B78
+              B83
+              B84
+              B86
+              B87
+              B88
+              B89
+              B90
+              B91
+              B92
+              B93
+              B94
+              B95
+              B96
+              B98
+              B99
+              B100
+              CLASS
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Bayes Network Classifier
+not using ADTree
+#attributes=22 #classindex=21
+Network structure (nodes followed by parents)
+B19(4): CLASS 
+B59(4): CLASS 
+B61(4): CLASS 
+B67(4): CLASS 
+B78(4): CLASS 
+B83(4): CLASS 
+B84(4): CLASS 
+B86(4): CLASS 
+B87(4): CLASS 
+B88(4): CLASS 
+B89(4): CLASS 
+B90(4): CLASS 
+B91(4): CLASS 
+B92(4): CLASS 
+B93(4): CLASS 
+B94(4): CLASS 
+B95(4): CLASS 
+B96(4): CLASS 
+B98(4): CLASS 
+B99(4): CLASS 
+B100(4): CLASS 
+CLASS(2): 
+LogScore Bayes: -12694.349175467245
+LogScore BDeu: -12913.4148215221
+LogScore MDL: -12906.9490960413
+LogScore ENTROPY: -12512.44860896108
+LogScore AIC: -12639.44860896108
+
+
+Time taken to build model: 0.03 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         493               98.7976 %
+Incorrectly Classified Instances         6                1.2024 %
+Kappa statistic                          0.9726
+Mean absolute error                      0.0161
+Root mean squared error                  0.1009
+Relative absolute error                  3.6593 %
+Root relative squared error             21.5138 %
+Total Number of Instances              499     
+
+=== Detailed Accuracy By Class ===
+
+TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+  0.975     0.006      0.988     0.975     0.981      0.998    0
+  0.994     0.025      0.988     0.994     0.991      0.998    1
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 159   4 |   a = 0
+   2 334 |   b = 1
+
