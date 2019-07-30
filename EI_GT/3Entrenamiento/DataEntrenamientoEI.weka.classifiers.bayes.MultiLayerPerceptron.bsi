@@ -1,0 +1,332 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.MultilayerPerceptron -L 0.3 -M 0.2 -N 1000 -V 0 -S 0 -E 20 -H a
+Relation:     ExonIntron-weka.filters.unsupervised.instance.RemoveDuplicates-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.CfsSubsetEval -P 1 -E 1-Sweka.attributeSelection.BestFirst -D 1 -N 5
+Instances:    561
+Attributes:   6
+              B5
+              B6
+              B7
+              B8
+              B10
+              CLASS
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    0.06564564665058399
+    Node 2    5.135026368582029
+    Node 3    -3.514444987951692
+    Node 4    -2.336613020947174
+    Node 5    -1.7326224370375611
+    Node 6    2.918547670257254
+    Node 7    3.7629963880956185
+    Node 8    -7.342531404638245
+    Node 9    5.0743938725156115
+    Node 10    -3.7381511468384754
+    Node 11    -5.2375495496467765
+    Node 12    7.130293003229925
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    -0.06564573235222905
+    Node 2    -5.1350211051670955
+    Node 3    3.514441590170409
+    Node 4    2.3366109310723493
+    Node 5    1.7326231211407306
+    Node 6    -2.9185456097428992
+    Node 7    -3.7629938493074797
+    Node 8    7.342519005710844
+    Node 9    -5.074388473305077
+    Node 10    3.7381484717214835
+    Node 11    5.237535833843379
+    Node 12    -7.130279842130085
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    -0.8928147248976644
+    Attrib B5=a    0.6941971271799083
+    Attrib B5=c    1.3656691101249891
+    Attrib B5=g    -0.33114854887364276
+    Attrib B5=t    -0.11597154538332699
+    Attrib B6=a    0.23031620844068837
+    Attrib B6=c    -0.03866388273372449
+    Attrib B6=g    -2.2408760499678424
+    Attrib B6=t    3.755078686163533
+    Attrib B7=a    4.19616643838552
+    Attrib B7=c    0.4685540673624056
+    Attrib B7=g    -2.7129944466201787
+    Attrib B7=t    -0.24990450083891366
+    Attrib B8=a    1.9233312162034304
+    Attrib B8=c    0.9280742112258802
+    Attrib B8=g    -5.19343336467192
+    Attrib B8=t    4.167917449701387
+    Attrib B10=a    3.2347507474876775
+    Attrib B10=c    -3.4442447486256778
+    Attrib B10=g    2.0228456975256397
+    Attrib B10=t    -0.2350730716390463
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    -1.395491629621874
+    Attrib B5=a    0.14191787178626145
+    Attrib B5=c    0.510795248498798
+    Attrib B5=g    2.4610946469774366
+    Attrib B5=t    -0.3425793497951778
+    Attrib B6=a    3.306077016702731
+    Attrib B6=c    1.200856533234425
+    Attrib B6=g    -2.8708801300236977
+    Attrib B6=t    1.1710274860813656
+    Attrib B7=a    -2.20059666198754
+    Attrib B7=c    -0.30258455106464627
+    Attrib B7=g    4.515308911217415
+    Attrib B7=t    0.6954184004521317
+    Attrib B8=a    3.2841981711766817
+    Attrib B8=c    -0.36030454399198103
+    Attrib B8=g    -0.16349073546759355
+    Attrib B8=t    -0.00979835902805607
+    Attrib B10=a    -0.7602020955686304
+    Attrib B10=c    -1.8414966793902163
+    Attrib B10=g    -0.9581682897196048
+    Attrib B10=t    6.316205776849421
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    -0.5367799730155957
+    Attrib B5=a    2.5297686890005724
+    Attrib B5=c    0.8549569834764102
+    Attrib B5=g    0.3237380854349875
+    Attrib B5=t    -2.607390665907121
+    Attrib B6=a    5.0520775907583735
+    Attrib B6=c    -1.6299462517517413
+    Attrib B6=g    -2.526558701143612
+    Attrib B6=t    0.34840110815257197
+    Attrib B7=a    -0.09470654685320533
+    Attrib B7=c    1.9890208227741202
+    Attrib B7=g    2.2452537586146
+    Attrib B7=t    -3.1228935994673606
+    Attrib B8=a    -1.481158560193294
+    Attrib B8=c    -1.6939627687021983
+    Attrib B8=g    0.9467757689515788
+    Attrib B8=t    3.3806341466647756
+    Attrib B10=a    0.6013056081338105
+    Attrib B10=c    -3.6044748132376667
+    Attrib B10=g    0.854875720625259
+    Attrib B10=t    3.3331421357034814
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    -1.3063228691378277
+    Attrib B5=a    3.1546696824174822
+    Attrib B5=c    -1.7340939588029851
+    Attrib B5=g    0.8162849037702316
+    Attrib B5=t    0.33458197627651665
+    Attrib B6=a    -0.17464571368216014
+    Attrib B6=c    -0.8082741303544095
+    Attrib B6=g    2.7595705342299914
+    Attrib B6=t    0.7796704879976115
+    Attrib B7=a    3.9956652248532034
+    Attrib B7=c    -0.4969939147980752
+    Attrib B7=g    2.1010353358100664
+    Attrib B7=t    -2.8861559355556534
+    Attrib B8=a    -0.8642406249185262
+    Attrib B8=c    3.6921087692853143
+    Attrib B8=g    -0.04584650641918654
+    Attrib B8=t    -0.30766983754456384
+    Attrib B10=a    1.4301090580151634
+    Attrib B10=c    1.9101164728000641
+    Attrib B10=g    1.7992678937514848
+    Attrib B10=t    -2.4024256061259424
+Sigmoid Node 6
+    Inputs    Weights
+    Threshold    -0.41358083465778245
+    Attrib B5=a    0.4138034924300513
+    Attrib B5=c    -0.06725138414022078
+    Attrib B5=g    0.15801794784195136
+    Attrib B5=t    0.2371477191087996
+    Attrib B6=a    -5.874466192724451
+    Attrib B6=c    0.9880133941123697
+    Attrib B6=g    3.167795288539281
+    Attrib B6=t    2.597725360899077
+    Attrib B7=a    -1.451075634764284
+    Attrib B7=c    -0.2665362867378884
+    Attrib B7=g    0.8790585865014896
+    Attrib B7=t    1.771950143959954
+    Attrib B8=a    -1.1633680954834718
+    Attrib B8=c    1.5569304114507252
+    Attrib B8=g    -2.1661921238618396
+    Attrib B8=t    2.6034006557873277
+    Attrib B10=a    -0.6698141723242039
+    Attrib B10=c    -1.5561241078735932
+    Attrib B10=g    2.927259031632213
+    Attrib B10=t    0.06483946841749769
+Sigmoid Node 7
+    Inputs    Weights
+    Threshold    0.9627161747175192
+    Attrib B5=a    -0.6460980992486014
+    Attrib B5=c    1.1694648204487172
+    Attrib B5=g    -3.6171567747482407
+    Attrib B5=t    1.1133047544933905
+    Attrib B6=a    -1.791774639473967
+    Attrib B6=c    0.22197729798049898
+    Attrib B6=g    -0.901574825313653
+    Attrib B6=t    0.6754678021151702
+    Attrib B7=a    -2.375841110313062
+    Attrib B7=c    -2.5740513366609292
+    Attrib B7=g    2.111708293270559
+    Attrib B7=t    0.9466620322124507
+    Attrib B8=a    0.8470372767119433
+    Attrib B8=c    1.1895619759439522
+    Attrib B8=g    -6.714613684459222
+    Attrib B8=t    2.822340240701179
+    Attrib B10=a    1.9946140255928329
+    Attrib B10=c    -2.3149422926765277
+    Attrib B10=g    -3.4122453002264685
+    Attrib B10=t    1.9906316054013427
+Sigmoid Node 8
+    Inputs    Weights
+    Threshold    -1.5000723588408642
+    Attrib B5=a    0.9989690172182721
+    Attrib B5=c    -0.4998806092840778
+    Attrib B5=g    -0.7177033101767331
+    Attrib B5=t    3.170452190949363
+    Attrib B6=a    3.785875389667733
+    Attrib B6=c    1.1942713165804568
+    Attrib B6=g    -2.5040665603810863
+    Attrib B6=t    0.400426140094634
+    Attrib B7=a    -1.1475456983377852
+    Attrib B7=c    1.0616519533855957
+    Attrib B7=g    0.3939764730562372
+    Attrib B7=t    2.5938545704144014
+    Attrib B8=a    2.837267802248709
+    Attrib B8=c    0.5268902191328614
+    Attrib B8=g    0.8250133597609076
+    Attrib B8=t    -1.3128481889016113
+    Attrib B10=a    0.9520888857654263
+    Attrib B10=c    -0.7366589725913001
+    Attrib B10=g    -0.6853649198942217
+    Attrib B10=t    3.4120506228999665
+Sigmoid Node 9
+    Inputs    Weights
+    Threshold    -0.4753800644835634
+    Attrib B5=a    2.056247261331779
+    Attrib B5=c    2.758683623815473
+    Attrib B5=g    -5.093445029428869
+    Attrib B5=t    1.3603678743708505
+    Attrib B6=a    3.269833158049111
+    Attrib B6=c    -1.6010750310522914
+    Attrib B6=g    -3.377073791097523
+    Attrib B6=t    2.5884967084556814
+    Attrib B7=a    -0.9801438783606394
+    Attrib B7=c    2.3508685470350943
+    Attrib B7=g    -0.10129312602640575
+    Attrib B7=t    -0.16720099142152164
+    Attrib B8=a    2.0823149890935753
+    Attrib B8=c    -2.768484934180002
+    Attrib B8=g    2.6995044980492917
+    Attrib B8=t    -1.0435420630514207
+    Attrib B10=a    -0.2404791616863264
+    Attrib B10=c    2.2971503280880334
+    Attrib B10=g    0.9982217760432324
+    Attrib B10=t    -1.9575756066010823
+Sigmoid Node 10
+    Inputs    Weights
+    Threshold    -1.1293838490862322
+    Attrib B5=a    5.100210876277313
+    Attrib B5=c    -1.212830945840758
+    Attrib B5=g    1.6271352563221593
+    Attrib B5=t    -3.1414426246884473
+    Attrib B6=a    3.742566090082792
+    Attrib B6=c    -2.4326375572343757
+    Attrib B6=g    0.2260381791405283
+    Attrib B6=t    0.8214047984103475
+    Attrib B7=a    3.411647272348325
+    Attrib B7=c    3.0150320407301177
+    Attrib B7=g    1.2108660476519215
+    Attrib B7=t    -5.181614645374239
+    Attrib B8=a    -3.258588722557073
+    Attrib B8=c    0.012282445616857627
+    Attrib B8=g    1.085867620198691
+    Attrib B8=t    4.533514654342477
+    Attrib B10=a    0.05651699701641058
+    Attrib B10=c    -1.456260223489914
+    Attrib B10=g    3.1508240618482026
+    Attrib B10=t    0.46327419596110225
+Sigmoid Node 11
+    Inputs    Weights
+    Threshold    -2.077853898393454
+    Attrib B5=a    -1.2380119094491635
+    Attrib B5=c    0.8786865962240167
+    Attrib B5=g    1.6746238950136325
+    Attrib B5=t    2.8240868844502054
+    Attrib B6=a    1.6022216964791662
+    Attrib B6=c    -3.0206592148890388
+    Attrib B6=g    2.82481306349193
+    Attrib B6=t    2.7822463217124294
+    Attrib B7=a    3.9326275146459864
+    Attrib B7=c    1.907745762388713
+    Attrib B7=g    0.8255010307727314
+    Attrib B7=t    -2.456700724629858
+    Attrib B8=a    -1.7528636980919088
+    Attrib B8=c    3.2319096983188835
+    Attrib B8=g    2.4002718259783973
+    Attrib B8=t    0.2616957992655201
+    Attrib B10=a    3.684491738754326
+    Attrib B10=c    -0.6736927602801661
+    Attrib B10=g    3.9876443268800346
+    Attrib B10=t    -2.8376547359425097
+Sigmoid Node 12
+    Inputs    Weights
+    Threshold    0.9275092138828755
+    Attrib B5=a    -0.6685815512043678
+    Attrib B5=c    2.7485426792646037
+    Attrib B5=g    -6.510596985082505
+    Attrib B5=t    2.6163770023407937
+    Attrib B6=a    -2.6309364827046333
+    Attrib B6=c    3.082567596483904
+    Attrib B6=g    -2.897360299609992
+    Attrib B6=t    0.5087131980553988
+    Attrib B7=a    -2.966797613174425
+    Attrib B7=c    1.9991586103593062
+    Attrib B7=g    2.7324875383139764
+    Attrib B7=t    -3.652715794600699
+    Attrib B8=a    -0.24298620158452583
+    Attrib B8=c    3.663162597628627
+    Attrib B8=g    -4.045730125077513
+    Attrib B8=t    -1.277911898305606
+    Attrib B10=a    -2.5245449404551614
+    Attrib B10=c    -0.04597959032360127
+    Attrib B10=g    0.9929583393061389
+    Attrib B10=t    -0.15862683604588396
+Class 0
+    Input
+    Node 0
+Class 1
+    Input
+    Node 1
+
+
+Time taken to build model: 5.1 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         477               85.0267 %
+Incorrectly Classified Instances        84               14.9733 %
+Kappa statistic                          0.7003
+Mean absolute error                      0.1619
+Root mean squared error                  0.3489
+Relative absolute error                 32.387  %
+Root relative squared error             69.8032 %
+Total Number of Instances              561     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,843    0,143    0,849      0,843    0,846      0,700    0,916     0,921     0
+                 0,857    0,157    0,851      0,857    0,854      0,700    0,916     0,900     1
+Weighted Avg.    0,850    0,150    0,850      0,850    0,850      0,700    0,916     0,910     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 231  43 |   a = 0
+  41 246 |   b = 1
+

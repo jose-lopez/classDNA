@@ -2,24 +2,29 @@
 
 Scheme:       weka.classifiers.bayes.BayesNet -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
 Relation:     ExonZona-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.CfsSubsetEval-Sweka.attributeSelection.BestFirst -D 1 -N 5
-Instances:    267
-Attributes:   17
-              B15
+Instances:    308
+Attributes:   22
+              B31
               B33
               B34
+              B36
+              B50
               B51
               B52
               B53
-              B68
-              B133
+              B63
+              B122
               B139
-              B140
-              B154
-              B222
+              B143
+              B171
+              B181
+              B214
               B229
-              B233
-              B236
-              B248
+              B356
+              B368
+              B386
+              B406
+              B466
               CLASS
 Test mode:    10-fold cross-validation
 
@@ -27,30 +32,35 @@ Test mode:    10-fold cross-validation
 
 Bayes Network Classifier
 not using ADTree
-#attributes=17 #classindex=16
+#attributes=22 #classindex=21
 Network structure (nodes followed by parents)
-B15(4): CLASS 
+B31(4): CLASS 
 B33(4): CLASS 
 B34(4): CLASS 
+B36(4): CLASS 
+B50(4): CLASS 
 B51(4): CLASS 
 B52(4): CLASS 
 B53(4): CLASS 
-B68(4): CLASS 
-B133(4): CLASS 
+B63(4): CLASS 
+B122(4): CLASS 
 B139(4): CLASS 
-B140(4): CLASS 
-B154(4): CLASS 
-B222(4): CLASS 
+B143(4): CLASS 
+B171(4): CLASS 
+B181(4): CLASS 
+B214(4): CLASS 
 B229(4): CLASS 
-B233(4): CLASS 
-B236(4): CLASS 
-B248(4): CLASS 
+B356(4): CLASS 
+B368(4): CLASS 
+B386(4): CLASS 
+B406(4): CLASS 
+B466(4): CLASS 
 CLASS(2): 
-LogScore Bayes: -5617.707427250197
-LogScore BDeu: -5784.614586149132
-LogScore MDL: -5774.876653056722
-LogScore ENTROPY: -5503.895093124309
-LogScore AIC: -5600.895093124309
+LogScore Bayes: -8425.153136484656
+LogScore BDeu: -8644.218782539507
+LogScore MDL: -8627.906242645173
+LogScore ENTROPY: -8264.044906426347
+LogScore AIC: -8391.044906426347
 
 
 Time taken to build model: 0 seconds
@@ -58,24 +68,24 @@ Time taken to build model: 0 seconds
 === Stratified cross-validation ===
 === Summary ===
 
-Correctly Classified Instances         251               94.0075 %
-Incorrectly Classified Instances        16                5.9925 %
-Kappa statistic                          0.877 
-Mean absolute error                      0.0708
-Root mean squared error                  0.2127
-Relative absolute error                 14.5013 %
-Root relative squared error             43.0551 %
-Total Number of Instances              267     
+Correctly Classified Instances         293               95.1299 %
+Incorrectly Classified Instances        15                4.8701 %
+Kappa statistic                          0.9026
+Mean absolute error                      0.0542
+Root mean squared error                  0.1815
+Relative absolute error                 10.8407 %
+Root relative squared error             36.2927 %
+Total Number of Instances              308     
 
 === Detailed Accuracy By Class ===
 
 TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
-  0.92      0.045      0.937     0.92      0.929      0.987    0
-  0.955     0.08       0.942     0.955     0.948      0.987    1
+  0.942     0.039      0.96      0.942     0.951      0.994    0
+  0.961     0.058      0.943     0.961     0.952      0.994    1
 
 === Confusion Matrix ===
 
    a   b   <-- classified as
- 104   9 |   a = 0
-   7 147 |   b = 1
+ 145   9 |   a = 0
+   6 148 |   b = 1
 
