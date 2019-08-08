@@ -158,30 +158,44 @@ public class Clasificador {
         if (modelo == 3 && sitio == 0) {// ancho 5, 5
             rutaModelo = "EI_GT/4Modelos/BayesNet.model";
             seleccionAtributos=true;
-            vectorAtributos=new int[]{4,5,6,7}; // New Model Weka-5
+            vectorAtributos=new int[]{4,5,6,7}; // New Model Weka-3.5
         }
 
         if (modelo == 0 && sitio == 1) {
             rutaModelo = "IE_AG/4Modelos/ConjunctiveRule.model";
+            seleccionAtributos=false;
+            vectorAtributos=new int[]{0,2,3,4,5,6}; // Ancho 5, 5
         }
         if (modelo == 1 && sitio == 1) { // Ancho 100, 5
             rutaModelo = "IE_AG/4Modelos/MultiLayerPerceptron.model";
-            seleccionAtributos=true;
-            vectorAtributos=new int[]{18,58,60,66,77,82,83,85,86,87,88,89,90,91,92,93,94,95,97,98,99};
-            //vectorAtributos=new int[]{72,80,82,83,85,86,87,88,89,90,91,92,93,94,95,96,98,99,100,101,102,103};
+            seleccionAtributos=false;  
+            //vectorAtributos=new int[]{59,72,80,83,85,86,87,88,89,90,91,92,93,94,95,96,98,99,100,101,102,103}; // Ancho 100, 5
+            vectorAtributos=new int[]{0,2,3,4,5,6};; // Ancho 5, 5
             
         }
         if (modelo == 2 && sitio == 1) {
             rutaModelo = "IE_AG/4Modelos/TreeJ48.model";
+            seleccionAtributos=false;
+            vectorAtributos=new int[]{0,2,3,4,5,6}; // Ancho 5, 5
         }        
-        if (modelo == 3 && sitio == 1) { // Ancho 100, 5
+        if (modelo == 3 && sitio == 1) { 
             rutaModelo = "IE_AG/4Modelos/BayesNet.model";
-            seleccionAtributos=true;
+            seleccionAtributos=true;  
+            // Ancho 100, 5
+            //vectorAtributos=new int[]{59,72,80,83,85,86,87,88,89,90,91,92,93,94,95,96,98,99,100,101,102,103};
+            vectorAtributos=new int[]{0,2,3,4,5,6};
+        }
+        
+        if (modelo == 4 && sitio == 1) { 
+            rutaModelo = "IE_AG/4Modelos/SMO.model";
+            seleccionAtributos=false;  
+            // Ancho 100, 5
             vectorAtributos=new int[]{59,72,80,83,85,86,87,88,89,90,91,92,93,94,95,96,98,99,100,101,102,103};
+            //vectorAtributos=new int[]{0,2,3,4,6}; // Ancho 5, 5
         }
         
         if (modelo == 0 && sitio == 2) {
-            rutaModelo = "EZ/4Modelos/ConjunctiveRule.model";
+            rutaModelo = "EZ/4Modelos/Conjunctive2.0Rule.model";
         }
         if (modelo == 1 && sitio == 2) { // Ancho 50, 200
             rutaModelo = "EZ/4Modelos/MultiLayerPerceptron.model";
@@ -217,6 +231,7 @@ public class Clasificador {
         }
         
         File datos = new File(rutaSecuencia);
+        
         predicciones = oCla.ClasificarTxt(datos, modelo, sitio, rutaModelo, seleccionAtributos, vectorAtributos, limInf, limSup, umbral);
         
         positivos = (List<Integer>)predicciones.get(0);

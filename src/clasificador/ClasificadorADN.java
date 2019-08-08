@@ -30,6 +30,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.Objects;
 import java.util.Vector;
+import weka.classifiers.functions.SMO;
 
 /**
  *
@@ -40,6 +41,7 @@ public class ClasificadorADN {
     MultilayerPerceptron mlp;
     ConjunctiveRule cr;
     J48 tree;
+    SMO smo;
     BayesNet bayes;
     File Carpeta;
     Instances datapredict;
@@ -84,6 +86,11 @@ public class ClasificadorADN {
                 bayes = (BayesNet) weka.core.SerializationHelper.read(ruta);
                 TextoModelo = "BayesNet-";
                 break;
+
+            case 4:
+                smo = (SMO) weka.core.SerializationHelper.read(ruta);
+                TextoModelo = "SMO-";
+                break;
         }
         System.out.println("Modelo Cargado");
     }
@@ -95,7 +102,7 @@ public class ClasificadorADN {
         predicteddata = new Instances(datapredict);
     }
 
-    public void InicializarVectorInstancias(int sitio) {
+    public void InicializarVectorAtributos(int sitio) {
 
         atts = new FastVector(11);
 //        attributeNames = new String[]{"B1","B2","B3","B4","B5","B6","B7","B8","B9","B10","CLASS"};
@@ -113,8 +120,8 @@ public class ClasificadorADN {
             fvClassVal.addElement("E+");
         }
         if (sitio == 1) {
-            fvClassVal.addElement("I-");
-            fvClassVal.addElement("I+");
+            fvClassVal.addElement("0");
+            fvClassVal.addElement("1");
 
         }
         if (sitio == 2) {
@@ -139,7 +146,7 @@ public class ClasificadorADN {
         for (int i = 0; i < canAtrib - 1; i++) {
             atts.addElement(new Attribute("B" + (vectorAtributos[i] + 1)));
         }
-        FastVector fvClassVal = new FastVector(2);
+        FastVector fvClassVal = new FastVector(3);
 
         if (sitio == 0) {
             fvClassVal.addElement("E-");
@@ -170,36 +177,82 @@ public class ClasificadorADN {
 
     public void Clasificar(int modelo, double umbral) throws Exception {
         double clsLabel = 0;
-        detectados = 0;        
+        detectados = 0;
         Instance inst;
         for (int i = 0; i < datapredict.numInstances(); i++) {
             inst = datapredict.instance(i);
             //System.out.println(datapredict.instance(i).toString());
             switch (modelo) {
+                
                 case (0):
+                    
                     clsLabel = cr.classifyInstance(inst);
+
+                    if (clsLabel == 0.0) {
+                        distGen.add(cr.distributionForInstance(inst)[0]);
+                    } else {
+                        distGen.add(cr.distributionForInstance(inst)[1]);
+                    }
+
                     break;
+                    
                 case (1):
+                    
                     clsLabel = mlp.classifyInstance(inst);
+
+                    if (clsLabel == 0.0) {
+                        distGen.add(mlp.distributionForInstance(inst)[0]);
+                    } else {
+                        distGen.add(mlp.distributionForInstance(inst)[1]);
+                    }
+
                     break;
+                    
                 case (2):
+                    
                     clsLabel = tree.classifyInstance(inst);
+
+                    if (clsLabel == 0.0) {
+                        distGen.add(tree.distributionForInstance(inst)[0]);
+                    } else {
+                        distGen.add(tree.distributionForInstance(inst)[1]);
+                    }
+
                     break;
+                    
                 case (3):
+                    
                     clsLabel = bayes.classifyInstance(inst);
-                    distGen.add(bayes.distributionForInstance(inst)[1]);
+
+                    if (clsLabel == 0.0) {
+                        distGen.add(bayes.distributionForInstance(inst)[0]);
+                    } else {
+                        distGen.add(bayes.distributionForInstance(inst)[1]);
+                    }
+                    
+                    break;
+
+                case (4):
+                    
+                    clsLabel = smo.classifyInstance(inst);
+
+                    if (clsLabel == 0.0) {
+                        distGen.add(smo.distributionForInstance(inst)[0]);
+                    } else {
+                        distGen.add(smo.distributionForInstance(inst)[1]);
+                    }
+                    
                     break;
             }
             if (clsLabel == 1) {
                 detectados++;
             }
-            System.out.println("Instancia: " + i + " respuesta: " + clsLabel + " ponderacion: " + distGen.get(distGen.size()-1));
+            System.out.println("Instancia: " + i + " respuesta: " + clsLabel + " ponderacion: " + distGen.get(distGen.size() - 1));
             predicteddata.instance(i).setClassValue(clsLabel);
 
             /*String result = predicteddata.instance(i).toString();
             System.out.println("Instancia " + i + " contenido: " + result);*/
-
-        }        
+        }
 
         int k = 0;
         for (int j = 0; j < predicteddata.numInstances(); j++) {
@@ -239,12 +292,13 @@ public class ClasificadorADN {
         int lineas = arcp.CantidadOcurrencias(genstr);
 
         if (!seleccionAtributos) {
-            InicializarVectorInstancias(sitio);
+            InicializarVectorAtributos(sitio);
         } else {
             crearAtributos(sitio, vectorAtributos.length + 1, vectorAtributos);
         }
 
-        datapredict = new Instances("data", atts, lineas);
+        datapredict = new Instances(TextoGen, atts, lineas);
+        //datapredict.attribute(atts.size() - 1).addStringValue("P");
         posiciones = new Integer[lineas];
         //distGen = new Double[lineas];
 
@@ -278,6 +332,7 @@ public class ClasificadorADN {
                     captura = captura + linea.substring(i + (sitio <= 1 ? 2 : 0), limSup);
                     //System.out.println("Limite inferior" + limInf + " Limite superior " + limSup + " Captura: " + captura);
                     contador++;
+                    
                     captura = captura.replace("a", "0");
                     captura = captura.replace("c", "1");
                     captura = captura.replace("g", "2");
@@ -293,7 +348,8 @@ public class ClasificadorADN {
                             attValues[k] = Integer.parseInt(bases[k]);
                         }
                     }
-                    attValues[canAtrib - 1] = datapredict.attribute(canAtrib - 1).addStringValue("?");
+
+                    attValues[canAtrib - 1] = -1;
                     datapredict.add(new Instance(1.0, attValues));
 
                     posiciones[ConPos] = i;
@@ -353,6 +409,6 @@ public class ClasificadorADN {
         }
         arc.EscribirEnArchivo("Positivos Encontrados: " + Arrays.toString(positivos.toArray()));
         System.out.println("Cantidad de positivos encontrados: " + positivos.size());
-        // System.out.println(Arrays.toString(positivos));
+        // System.out.println(Arrays.toString(positivos));pos
     }
 }
