@@ -170,7 +170,7 @@ public class Clasificador {
             rutaModelo = "IE_AG/4Modelos/MultiLayerPerceptron.model";
             seleccionAtributos=false;  
             //vectorAtributos=new int[]{59,72,80,83,85,86,87,88,89,90,91,92,93,94,95,96,98,99,100,101,102,103}; // Ancho 100, 5
-            vectorAtributos=new int[]{0,2,3,4,5,6};; // Ancho 5, 5
+            vectorAtributos=new int[]{0,2,3,4,5,6}; // Ancho 5, 5
             
         }
         if (modelo == 2 && sitio == 1) {
@@ -232,7 +232,7 @@ public class Clasificador {
         
         File datos = new File(rutaSecuencia);
         
-        predicciones = oCla.ClasificarTxt(datos, modelo, sitio, rutaModelo, seleccionAtributos, vectorAtributos, limInf, limSup, umbral);
+        predicciones = oCla.clasificar(datos, modelo, sitio, rutaModelo, seleccionAtributos, vectorAtributos, limInf, limSup, umbral);
         
         positivos = (List<Integer>)predicciones.get(0);
         

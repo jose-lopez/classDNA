@@ -267,7 +267,7 @@ public class ClasificadorADN {
         System.out.println("Datos Clasificados");
     }
 
-    public ArrayList<Object> ClasificarTxt(File datos, int modelo, int sitio, String RutaModelo, boolean seleccionAtributos, int[] vectorAtributos, int limI, int limS, double umbral) throws Exception {
+    public ArrayList<Object> clasificar(File datos, int modelo, int sitio, String RutaModelo, boolean seleccionAtributos, int[] vectorAtributos, int limI, int limS, double umbral) throws Exception {
         String genstr = "", genstrclean = "";
         switch (sitio) {
             case 0:
@@ -349,9 +349,7 @@ public class ClasificadorADN {
                         }
                     }
 
-                    attValues[canAtrib - 1] = -1;
                     datapredict.add(new Instance(1.0, attValues));
-
                     posiciones[ConPos] = i;
                     ConPos++;
 
