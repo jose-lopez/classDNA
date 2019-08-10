@@ -169,9 +169,9 @@ public class Clasificador {
         int limInf = Integer.parseInt(args[3]);
         int limSup = Integer.parseInt(args[4]);
         double umbral = Double.parseDouble(args[5]);
-        boolean seleccionAtributos = Boolean.parseBoolean(args[5]);
+        boolean seleccionAtributos = Boolean.parseBoolean(args[6]);
 
-        Clasificador cla = new Clasificador(sitio, modelo, ruta, limInf, limSup, umbral,seleccionAtributos);
+        Clasificador cla = new Clasificador(sitio, modelo, ruta, limInf, limSup, umbral, seleccionAtributos);
 
         predicciones = cla.clasificador();
 
@@ -192,10 +192,8 @@ public class Clasificador {
                 tipoTrans = "EI_GT";
 
                 if (seleccionAtributos) {
-                    vectorAtributos = new int[]{0, 2, 3, 4, 5, 6}; // Ancho 5, 5
-                } else {
-                    vectorAtributos = new int[this.limInf + this.limSup + 1];
-                }
+                    vectorAtributos = new int[]{4,5,6,7}; // Ancho 5, 5
+                } 
 
                 break;
 
@@ -205,9 +203,7 @@ public class Clasificador {
 
                 if (seleccionAtributos) {
                     vectorAtributos = new int[]{0, 2, 3, 4, 5, 6}; // Ancho 5, 5
-                } else {
-                    vectorAtributos = new int[this.limInf + this.limSup + 1];
-                }
+                } 
 
                 break;
 
@@ -217,9 +213,7 @@ public class Clasificador {
 
                 if (seleccionAtributos) {
                     vectorAtributos = new int[]{2, 4, 5, 7};
-                } else {
-                    vectorAtributos = new int[this.limInf + this.limSup + 1];
-                }
+                } 
 
                 break;
 
@@ -229,9 +223,7 @@ public class Clasificador {
 
                 if (seleccionAtributos) {
                     vectorAtributos = new int[]{2, 4, 5, 7};
-                } else {
-                    vectorAtributos = new int[this.limInf + this.limSup + 1];
-                }
+                } 
 
                 break;
 
