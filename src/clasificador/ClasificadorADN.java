@@ -102,15 +102,15 @@ public class ClasificadorADN {
         predicteddata = new Instances(datapredict);
     }
 
-    public void InicializarVectorAtributos(int sitio) {
+    public void InicializarVectorAtributos(int sitio, int cantAtributos) {
 
-        atts = new FastVector(11);
+        atts = new FastVector(cantAtributos + 1);
 //        attributeNames = new String[]{"B1","B2","B3","B4","B5","B6","B7","B8","B9","B10","CLASS"};
 //        atts = new FastVector();
 //        Arrays.stream(attributeNames).map(Attribute::new).forEach(atts::addElement);
 //       
 
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < cantAtributos; i++) {
             atts.addElement(new Attribute("B" + (i + 1)));
         }
         FastVector fvClassVal = new FastVector(2);
@@ -176,9 +176,11 @@ public class ClasificadorADN {
     }
 
     public void Clasificar(int modelo, double umbral) throws Exception {
+        
         double clsLabel = 0;
         detectados = 0;
         Instance inst;
+        
         for (int i = 0; i < datapredict.numInstances(); i++) {
             inst = datapredict.instance(i);
             //System.out.println(datapredict.instance(i).toString());
@@ -248,15 +250,15 @@ public class ClasificadorADN {
                 detectados++;
             }
             System.out.println("Instancia: " + i + " respuesta: " + clsLabel + " ponderacion: " + distGen.get(distGen.size() - 1));
-            predicteddata.instance(i).setClassValue(clsLabel);
+            datapredict.instance(i).setClassValue(clsLabel);
 
             /*String result = predicteddata.instance(i).toString();
             System.out.println("Instancia " + i + " contenido: " + result);*/
         }
 
         int k = 0;
-        for (int j = 0; j < predicteddata.numInstances(); j++) {
-            if (predicteddata.instance(j).classValue() == 1) {
+        for (int j = 0; j < datapredict.numInstances(); j++) {
+            if (datapredict.instance(j).classValue() == 1) {
                 if (distGen.get(j) > umbral) {
                     positivos.add(posiciones[j]);
                     distPos.add(distGen.get(j));
@@ -268,6 +270,7 @@ public class ClasificadorADN {
     }
 
     public ArrayList<Object> clasificar(File datos, int modelo, int sitio, String RutaModelo, boolean seleccionAtributos, int[] vectorAtributos, int limI, int limS, double umbral) throws Exception {
+        
         String genstr = "", genstrclean = "";
         switch (sitio) {
             case 0:
@@ -292,7 +295,7 @@ public class ClasificadorADN {
         int lineas = arcp.CantidadOcurrencias(genstr);
 
         if (!seleccionAtributos) {
-            InicializarVectorAtributos(sitio);
+            InicializarVectorAtributos(sitio, (limI + limS));
         } else {
             crearAtributos(sitio, vectorAtributos.length + 1, vectorAtributos);
         }
@@ -311,6 +314,7 @@ public class ClasificadorADN {
         linea = linea.replace("]", "");
         linea = linea.replace(",", "");
         longLinea = linea.length();
+        
         int ocurrencias = sitio <= 1 ? lineas : longLinea, i = -1;
         System.out.println("Ocurrencias " + ocurrencias);
 
@@ -341,6 +345,7 @@ public class ClasificadorADN {
                     String[] bases = captura.split("");
                     int canAtrib = datapredict.numAttributes();
                     double[] attValues = new double[canAtrib];
+                    
                     for (int k = 0; k < canAtrib - 1; k++) {
                         if (seleccionAtributos) {
                             attValues[k] = Integer.parseInt(bases[vectorAtributos[k]]);
@@ -361,7 +366,7 @@ public class ClasificadorADN {
 
         datapredict.setClassIndex(datapredict.numAttributes() - 1);
         CargarModelo(RutaModelo, modelo);
-        predicteddata = new Instances(datapredict);
+        //predicteddata = new Instances(datapredict);
         Clasificar(modelo, umbral);
         GenerarResultados(true);
 
@@ -392,8 +397,8 @@ public class ClasificadorADN {
         System.out.println("Resultados Generados en: " + RutaResultado);
         arc = new EscribirArchivo(RutaResultado, true);
         if (pos) {
-            for (int i = 0; i < predicteddata.numInstances(); i++) {
-                String result = predicteddata.instance(i).toString();
+            for (int i = 0; i < datapredict.numInstances(); i++) {
+                String result = datapredict.instance(i).toString();
                 result = result.replace("0", "a");
                 result = result.replace("1", "c");
                 result = result.replace("2", "g");
@@ -402,7 +407,7 @@ public class ClasificadorADN {
             }
         } else {
             for (int i = 0; i < datapredict.numInstances(); i++) {
-                arc.EscribirEnArchivo(predicteddata.instance(i).toString());
+                arc.EscribirEnArchivo(datapredict.instance(i).toString());
             }
         }
         arc.EscribirEnArchivo("Positivos Encontrados: " + Arrays.toString(positivos.toArray()));

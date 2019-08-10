@@ -26,6 +26,47 @@ public class Clasificador {
     public String rutaSecuencia;
     ArrayList<Object> predicciones;
     double umbral;
+    boolean seleccionAtributos;
+
+    public void setDatosTxt(File DatosTxt) {
+        this.DatosTxt = DatosTxt;
+    }
+
+    public void setPositivos2(List<Integer> positivos2) {
+        this.positivos2 = positivos2;
+    }
+
+    public void setSeleccionAtributos(boolean seleccionAtributos) {
+        this.seleccionAtributos = seleccionAtributos;
+    }
+
+    public File getDatosTxt() {
+        return DatosTxt;
+    }
+
+    public List<Integer> getPositivos2() {
+        return positivos2;
+    }
+
+    public double[] getDistGen() {
+        return distGen;
+    }
+
+    public double[] getDistPos() {
+        return distPos;
+    }
+
+    public ArrayList<Object> getPredicciones() {
+        return predicciones;
+    }
+
+    public double getUmbral() {
+        return umbral;
+    }
+
+    public boolean isSeleccionAtributos() {
+        return seleccionAtributos;
+    }
 
     public void setDistGen(double[] distGen) {
         this.distGen = distGen;
@@ -57,7 +98,7 @@ public class Clasificador {
 
     public void setLimSup(int limSup) {
         this.limSup = limSup;
-    }   
+    }
 
     public void setoCla(ClasificadorADN oCla) {
         this.oCla = oCla;
@@ -98,147 +139,142 @@ public class Clasificador {
     public void setSitio(int sitio) {
         this.sitio = sitio;
     }
-    
+
     public Clasificador() {
         this.predicciones = new ArrayList<>();
-        
+
     }
 
-    public Clasificador(int sitio, int modelo, String rutaSecuencia, int limInf, int limSup, double umbral) {
-        
+    public Clasificador(int sitio, int modelo, String rutaSecuencia, int limInf, int limSup, double umbral, boolean seleccionAtributos) {
+
         this.predicciones = new ArrayList<>();
         setModelo(modelo);
         setSitio(sitio);
         setLimInf(limInf);
-        setLimSup(limSup);        
+        setLimSup(limSup);
         oCla = new ClasificadorADN();
         setRutaSecuencia(rutaSecuencia);
         setUmbral(umbral);
+        this.setSeleccionAtributos(seleccionAtributos);
 
     }
-    
+
     public static void main(String[] args) throws Exception {
-        
+
         ArrayList<Object> predicciones = new ArrayList<>();
-        
+
         int sitio = Integer.parseInt(args[0]);
         int modelo = Integer.parseInt(args[1]);
         String ruta = args[2];
         int limInf = Integer.parseInt(args[3]);
         int limSup = Integer.parseInt(args[4]);
         double umbral = Double.parseDouble(args[5]);
-        
-        Clasificador cla = new Clasificador(sitio, modelo, ruta, limInf, limSup, umbral);
-        
+        boolean seleccionAtributos = Boolean.parseBoolean(args[5]);
+
+        Clasificador cla = new Clasificador(sitio, modelo, ruta, limInf, limSup, umbral,seleccionAtributos);
+
         predicciones = cla.clasificador();
-        
-    }    
+
+    }
 
     public ArrayList<Object> clasificador() throws Exception {
-        
-        String rutaModelo ="";
 
-        int vectorAtributos[]=null;
-        
-        boolean seleccionAtributos=false; 
+        String rutaModelo = "";
 
-        if (modelo == 0 && sitio == 0) {
-            //home/jose/NetBeansProjects/clasificadorGTAG/EI_GT/4Modelos
-            rutaModelo = "EI_GT/4Modelos/ConjunctiveRule.model";
-        }
-        if (modelo == 1 && sitio == 0) {// ancho 5, 5
-            rutaModelo = "EI_GT/4Modelos/MultiLayerPerceptron.model";
-            seleccionAtributos=true;
-            vectorAtributos=new int[]{2,4,5,7};
-            //vectorAtributos=new int[]{4,5,6,7,9}; 
-        }
-        if (modelo == 2 && sitio == 0) {
-            rutaModelo = "EI_GT/4Modelos/TreeJ48.model";
-        }        
-        if (modelo == 3 && sitio == 0) {// ancho 5, 5
-            rutaModelo = "EI_GT/4Modelos/BayesNet.model";
-            seleccionAtributos=true;
-            vectorAtributos=new int[]{4,5,6,7}; // New Model Weka-3.5
-        }
+        int vectorAtributos[] = null;
 
-        if (modelo == 0 && sitio == 1) {
-            rutaModelo = "IE_AG/4Modelos/ConjunctiveRule.model";
-            seleccionAtributos=false;
-            vectorAtributos=new int[]{0,2,3,4,5,6}; // Ancho 5, 5
-        }
-        if (modelo == 1 && sitio == 1) { // Ancho 100, 5
-            rutaModelo = "IE_AG/4Modelos/MultiLayerPerceptron.model";
-            seleccionAtributos=false;  
-            //vectorAtributos=new int[]{59,72,80,83,85,86,87,88,89,90,91,92,93,94,95,96,98,99,100,101,102,103}; // Ancho 100, 5
-            vectorAtributos=new int[]{0,2,3,4,5,6}; // Ancho 5, 5
-            
-        }
-        if (modelo == 2 && sitio == 1) {
-            rutaModelo = "IE_AG/4Modelos/TreeJ48.model";
-            seleccionAtributos=false;
-            vectorAtributos=new int[]{0,2,3,4,5,6}; // Ancho 5, 5
-        }        
-        if (modelo == 3 && sitio == 1) { 
-            rutaModelo = "IE_AG/4Modelos/BayesNet.model";
-            seleccionAtributos=true;  
-            // Ancho 100, 5
-            //vectorAtributos=new int[]{59,72,80,83,85,86,87,88,89,90,91,92,93,94,95,96,98,99,100,101,102,103};
-            vectorAtributos=new int[]{0,2,3,4,5,6};
-        }
-        
-        if (modelo == 4 && sitio == 1) { 
-            rutaModelo = "IE_AG/4Modelos/SMO.model";
-            seleccionAtributos=false;  
-            // Ancho 100, 5
-            vectorAtributos=new int[]{59,72,80,83,85,86,87,88,89,90,91,92,93,94,95,96,98,99,100,101,102,103};
-            //vectorAtributos=new int[]{0,2,3,4,6}; // Ancho 5, 5
-        }
-        
-        if (modelo == 0 && sitio == 2) {
-            rutaModelo = "EZ/4Modelos/Conjunctive2.0Rule.model";
-        }
-        if (modelo == 1 && sitio == 2) { // Ancho 50, 200
-            rutaModelo = "EZ/4Modelos/MultiLayerPerceptron.model";
-            seleccionAtributos=true; 
-            vectorAtributos=new int[]{14,32,33,50,51,52,67,132,138,139,153,221,228,232,235,247};
-            //vectorAtributos=new int[]{31,33,34,36,50,51,52,53,63,171,181,213,229,356,368,386,406};
-        }
-        if (modelo == 2 && sitio== 2) {
-            rutaModelo = "EZ/4Modelos/TreeJ48.model";
-        }        
-        if (modelo == 3 && sitio == 2) { // Ancho 50, 200
-            rutaModelo = "EZ/4Modelos/BayesNet.model";
-            seleccionAtributos=true; 
-            vectorAtributos=new int[]{31,33,34,36,50,51,52,53,63,122,139,143,171,181,214,229,356,368,386,406,466};
+        String tipoTrans = "";
+
+        switch (sitio) {
+
+            case 0:
+                
+                tipoTrans = "EI_GT";
+
+                if (seleccionAtributos) {
+                    vectorAtributos = new int[]{0, 2, 3, 4, 5, 6}; // Ancho 5, 5
+                } else {
+                    vectorAtributos = new int[this.limInf + this.limSup + 1];
+                }
+
+                break;
+
+            case 1:
+                
+                tipoTrans = "IE_AG";
+
+                if (seleccionAtributos) {
+                    vectorAtributos = new int[]{0, 2, 3, 4, 5, 6}; // Ancho 5, 5
+                } else {
+                    vectorAtributos = new int[this.limInf + this.limSup + 1];
+                }
+
+                break;
+
+            case 2:
+                
+                tipoTrans = "EZ";
+
+                if (seleccionAtributos) {
+                    vectorAtributos = new int[]{2, 4, 5, 7};
+                } else {
+                    vectorAtributos = new int[this.limInf + this.limSup + 1];
+                }
+
+                break;
+
+            case 3:
+                
+                tipoTrans = "ZE";
+
+                if (seleccionAtributos) {
+                    vectorAtributos = new int[]{2, 4, 5, 7};
+                } else {
+                    vectorAtributos = new int[this.limInf + this.limSup + 1];
+                }
+
+                break;
+
         }
 
-        if (modelo == 0 && sitio == 3) {
-            rutaModelo = "ZE/4Modelos/ConjunctiveRule.model";
+        switch (modelo) {
+
+            case 0:
+
+                rutaModelo = tipoTrans + "/4Modelos/ConjunctiveRule.model";
+                break;
+
+            case 1:
+
+                rutaModelo = tipoTrans + "/4Modelos/MultiLayerPerceptron.model";
+                break;
+
+            case 2:
+
+                rutaModelo = tipoTrans + "4Modelos/TreeJ48.model";
+                break;
+
+            case 3:
+
+                rutaModelo = tipoTrans + "/4Modelos/BayesNet.model";
+                break;
+
+            case 4:
+
+                rutaModelo = tipoTrans + "/4Modelos/SMO.model";
+                break;
+
         }
-        if (modelo == 1 && sitio == 3) {// Ancho 500, 200
-            rutaModelo = "ZE/4Modelos/MultilayerPerceptron.model";
-            seleccionAtributos=true;
-            vectorAtributos=new int[]{118,186,471,482,483,500,501,502,511,517,522,536,582,598,603,671};
-            //vectorAtributos=new int[]{11,329,483,495,499,501,502,503,518};
-        }
-        if (modelo == 2 && sitio== 3) {
-            rutaModelo = "ZE/4Modelos/TreeJ48.model";
-        }
-        if (modelo == 3 && sitio == 3) {// Ancho 500, 200
-            rutaModelo = "ZE/4Modelos/BayesNet.model";
-            seleccionAtributos=true;
-            vectorAtributos=new int[]{329,483,495,501,502,503,518};
-        }
-        
+
         File datos = new File(rutaSecuencia);
-        
-        predicciones = oCla.clasificar(datos, modelo, sitio, rutaModelo, seleccionAtributos, vectorAtributos, limInf, limSup, umbral);
-        
-        positivos = (List<Integer>)predicciones.get(0);
-        
-        System.out.println("Vector de positivos: " + positivos.toString());     
 
-        System.out.println("FIN DEL PROCESO");        
+        predicciones = oCla.clasificar(datos, modelo, sitio, rutaModelo, seleccionAtributos, vectorAtributos, limInf, limSup, umbral);
+
+        positivos = (List<Integer>) predicciones.get(0);
+
+        System.out.println("Vector de positivos: " + positivos.toString());
+
+        System.out.println("FIN DEL PROCESO");
 
         return predicciones;
 
