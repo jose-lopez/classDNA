@@ -144,7 +144,7 @@ public class ClasificadorADN {
         atts = new FastVector(canAtrib);
 
         for (int i = 0; i < canAtrib - 1; i++) {
-            atts.addElement(new Attribute("B" + (vectorAtributos[i] + 1)));
+            atts.addElement(new Attribute("B" + (vectorAtributos[i])));
         }
         FastVector fvClassVal = new FastVector(3);
 
@@ -284,9 +284,11 @@ public class ClasificadorADN {
                 TextoGen = "Intron-Exon-AG-";
                 break;
             case 2:
+                genstr = ",";
                 TextoGen = "Exon-ZonaIntergenica-";
                 break;
             case 3:
+                genstr = ",";
                 TextoGen = "ZonaIntergenica-Exon-";
                 break;
         }

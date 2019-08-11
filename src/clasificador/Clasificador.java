@@ -192,7 +192,7 @@ public class Clasificador {
                 tipoTrans = "EI_GT";
 
                 if (seleccionAtributos) {
-                    vectorAtributos = new int[]{4,5,6,7}; // Ancho 5, 5
+                    vectorAtributos = new int[]{5,6,7,8}; // Ancho 5, 5
                 } 
 
                 break;
@@ -202,7 +202,7 @@ public class Clasificador {
                 tipoTrans = "IE_AG";
 
                 if (seleccionAtributos) {
-                    vectorAtributos = new int[]{0, 2, 3, 4, 5, 6}; // Ancho 5, 5
+                    vectorAtributos = new int[]{1, 3, 4, 5, 6, 7}; // Ancho 5, 5
                 } 
 
                 break;
@@ -212,7 +212,7 @@ public class Clasificador {
                 tipoTrans = "EZ";
 
                 if (seleccionAtributos) {
-                    vectorAtributos = new int[]{2, 4, 5, 7};
+                    vectorAtributos = new int[]{31,33,34,36,38,39,41,45,50,51,52,53,63,64,72,73,80,87,91,99,139,143,171,181,200,214,222,229,262,273,295,310,342,356,362,368,371,386,392,406,410,430,529,538};
                 } 
 
                 break;
@@ -222,7 +222,7 @@ public class Clasificador {
                 tipoTrans = "ZE";
 
                 if (seleccionAtributos) {
-                    vectorAtributos = new int[]{2, 4, 5, 7};
+                    vectorAtributos = new int[]{19,60,86,119,141,145,173,209,252,286,299,302,328,396,443,472,481,483,484,494,495,499,501,502,503,512,518,522,535};
                 } 
 
                 break;
@@ -232,28 +232,49 @@ public class Clasificador {
         switch (modelo) {
 
             case 0:
-
-                rutaModelo = tipoTrans + "/4Modelos/ConjunctiveRule.model";
+                
+                if (seleccionAtributos) {
+                    rutaModelo = tipoTrans + "/4Modelos/ConjunctiveRuleAS.model";
+                }else{
+                    rutaModelo = tipoTrans + "/4Modelos/ConjunctiveRule.model";
+                }
                 break;
 
             case 1:
-
-                rutaModelo = tipoTrans + "/4Modelos/MultiLayerPerceptron.model";
+                
+                if (seleccionAtributos) {
+                    rutaModelo = tipoTrans + "/4Modelos/MultiLayerPerceptronAS.model";
+                }else{
+                    rutaModelo = tipoTrans + "/4Modelos/MultiLayerPerceptron.model";
+                }
                 break;
+                
 
             case 2:
-
-                rutaModelo = tipoTrans + "4Modelos/TreeJ48.model";
+                
+                if (seleccionAtributos) {
+                    rutaModelo = tipoTrans + "/4Modelos/TreeJ48AS.model";
+                }else{
+                    rutaModelo = tipoTrans + "/4Modelos/TreeJ48.model";
+                }                
                 break;
 
             case 3:
-
-                rutaModelo = tipoTrans + "/4Modelos/BayesNet.model";
-                break;
+                
+                if (seleccionAtributos) {
+                    rutaModelo = tipoTrans + "/4Modelos/BayesNetAS.model";
+                }else{
+                    rutaModelo = tipoTrans + "/4Modelos/BayesNet.model";
+                }                
+                break;               
 
             case 4:
-
-                rutaModelo = tipoTrans + "/4Modelos/SMO.model";
+                
+                if (seleccionAtributos) {
+                    rutaModelo = tipoTrans + "/4Modelos/SMOAS.model";
+                }else{
+                    rutaModelo = tipoTrans + "/4Modelos/SMO.model";
+                }
                 break;
 
         }
@@ -266,7 +287,7 @@ public class Clasificador {
 
         System.out.println("Vector de positivos: " + positivos.toString());
 
-        System.out.println("FIN DEL PROCESO");
+        System.out.println("FIN DEL PROCESO IDENTIFICACION DE CORDENADAS PARA SITIOS " + tipoTrans);
 
         return predicciones;
 
