@@ -120,8 +120,8 @@ public class ClasificadorADN {
             fvClassVal.addElement("E+");
         }
         if (sitio == 1) {
-            fvClassVal.addElement("0");
-            fvClassVal.addElement("1");
+            fvClassVal.addElement("I-");
+            fvClassVal.addElement("I+");
 
         }
         if (sitio == 2) {
