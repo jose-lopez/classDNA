@@ -1,0 +1,101 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.MultilayerPerceptron -L 0.3 -M 0.2 -N 10000 -V 0 -S 0 -E 20 -H a
+Relation:     IntronExon-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.CfsSubsetEval-Sweka.attributeSelection.BestFirst -D 1 -N 5
+Instances:    772
+Attributes:   7
+              B1
+              B3
+              B4
+              B5
+              B6
+              B7
+              CLASS
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    15.943589852106205
+    Node 2    3.9897646120079466
+    Node 3    -10.130259007532771
+    Node 4    -18.16249384267932
+    Node 5    20.46468909385445
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    -15.943589856214981
+    Node 2    -3.9897646120610983
+    Node 3    10.130259010509993
+    Node 4    18.16249384680273
+    Node 5    -20.464689099856095
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    -10.864273148818281
+    Attrib B1    -5.828566585316231
+    Attrib B3    -36.45345129667676
+    Attrib B4    20.67105804742388
+    Attrib B5    -10.010469261598674
+    Attrib B6    -9.321337323714182
+    Attrib B7    -6.929284299362802
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    -2.024936715923442
+    Attrib B1    -7.163303780502911
+    Attrib B3    11.318245932062997
+    Attrib B4    -13.454476919129535
+    Attrib B5    1.4633493123594064
+    Attrib B6    22.441283869945803
+    Attrib B7    10.57538024835258
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    -0.6312714576699524
+    Attrib B1    7.329341843855835
+    Attrib B3    -0.7428644782066592
+    Attrib B4    -24.173335182586786
+    Attrib B5    -36.25426357722141
+    Attrib B6    -0.6554742100640478
+    Attrib B7    3.8569124953939364
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    11.997571288762595
+    Attrib B1    -3.3493494351437922
+    Attrib B3    -1.62354058020978
+    Attrib B4    11.388010251244001
+    Attrib B5    -31.991018674681182
+    Attrib B6    7.466389134184835
+    Attrib B7    -0.5094154424230819
+Class 0
+    Input
+    Node 0
+Class 1
+    Input
+    Node 1
+
+
+Time taken to build model: 20.34 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         739               95.7254 %
+Incorrectly Classified Instances        33                4.2746 %
+Kappa statistic                          0.9145
+Mean absolute error                      0.0535
+Root mean squared error                  0.1963
+Relative absolute error                 10.6988 %
+Root relative squared error             39.2649 %
+Total Number of Instances              772     
+
+=== Detailed Accuracy By Class ===
+
+TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+  0.93      0.016      0.984     0.93      0.956      0.971    0
+  0.984     0.07       0.934     0.984     0.958      0.971    1
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 359  27 |   a = 0
+   6 380 |   b = 1
+

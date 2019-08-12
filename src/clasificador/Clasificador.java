@@ -192,7 +192,7 @@ public class Clasificador {
                 tipoTrans = "EI_GT";
 
                 if (seleccionAtributos) {
-                    vectorAtributos = new int[]{5,6,7,8}; // Ancho 5, 5
+                    vectorAtributos = new int[]{3,5,6,7,8}; // Ancho 5, 5
                 } 
 
                 break;
@@ -287,7 +287,7 @@ public class Clasificador {
 
         System.out.println("Vector de positivos: " + positivos.toString());
 
-        System.out.println("FIN DEL PROCESO IDENTIFICACION DE CORDENADAS PARA SITIOS " + tipoTrans);
+        System.out.println("FIN DEL PROCESO IDENTIFICACION DE COORDENADAS PARA SITIOS " + tipoTrans);
 
         return predicciones;
 

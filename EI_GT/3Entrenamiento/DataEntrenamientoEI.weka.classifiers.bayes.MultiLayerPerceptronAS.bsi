@@ -1,0 +1,76 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.MultilayerPerceptron -L 0.3 -M 0.2 -N 10000 -V 0 -S 0 -E 20 -H 2
+Relation:     ExonIntron-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.CfsSubsetEval-Sweka.attributeSelection.BestFirst -D 1 -N 5
+Instances:    772
+Attributes:   6
+              B3
+              B5
+              B6
+              B7
+              B8
+              CLASS
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    2.1094130094503494
+    Node 2    -3.713374524464415
+    Node 3    4.10835299740102
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    -2.109413009450349
+    Node 2    3.7133745244644145
+    Node 3    -4.10835299740102
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    1.5133059963262583
+    Attrib B3    -4.127522211618513
+    Attrib B5    5.682602298046896
+    Attrib B6    -23.823181890980884
+    Attrib B7    -3.6274545806390317
+    Attrib B8    75.34351242544643
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    -4.050190470927577
+    Attrib B3    2.544983522361528
+    Attrib B5    -1.9335902348173475
+    Attrib B6    1.8601134982738323
+    Attrib B7    3.198165737019699
+    Attrib B8    7.329282776631
+Class 0
+    Input
+    Node 0
+Class 1
+    Input
+    Node 1
+
+
+Time taken to build model: 11.84 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         622               80.5699 %
+Incorrectly Classified Instances       150               19.4301 %
+Kappa statistic                          0.6114
+Mean absolute error                      0.278 
+Root mean squared error                  0.3897
+Relative absolute error                 55.5994 %
+Root relative squared error             77.9316 %
+Total Number of Instances              772     
+
+=== Detailed Accuracy By Class ===
+
+TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+  0.782     0.171      0.821     0.782     0.801      0.835    0
+  0.829     0.218      0.792     0.829     0.81       0.835    1
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 302  84 |   a = 0
+  66 320 |   b = 1
+
