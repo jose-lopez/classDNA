@@ -24,7 +24,7 @@ public class Clasificador {
     public List<Integer> positivos, positivos2;
     public double[] distGen, distPos;
     public String rutaSecuencia;
-    ArrayList<Object> predicciones;
+    ArrayList<Object> clasificaciones;
     double umbral;
     boolean seleccionAtributos;
 
@@ -57,7 +57,7 @@ public class Clasificador {
     }
 
     public ArrayList<Object> getPredicciones() {
-        return predicciones;
+        return clasificaciones;
     }
 
     public double getUmbral() {
@@ -77,7 +77,7 @@ public class Clasificador {
     }
 
     public void setPredicciones(ArrayList<Object> predicciones) {
-        this.predicciones = predicciones;
+        this.clasificaciones = predicciones;
     }
 
     public void setUmbral(double umbral) {
@@ -141,13 +141,13 @@ public class Clasificador {
     }
 
     public Clasificador() {
-        this.predicciones = new ArrayList<>();
+        this.clasificaciones = new ArrayList<>();
 
     }
 
     public Clasificador(int sitio, int modelo, String rutaSecuencia, int limInf, int limSup, double umbral, boolean seleccionAtributos) {
 
-        this.predicciones = new ArrayList<>();
+        this.clasificaciones = new ArrayList<>();
         setModelo(modelo);
         setSitio(sitio);
         setLimInf(limInf);
@@ -281,15 +281,15 @@ public class Clasificador {
 
         File datos = new File(rutaSecuencia);
 
-        predicciones = oCla.clasificar(datos, modelo, sitio, rutaModelo, seleccionAtributos, vectorAtributos, limInf, limSup, umbral);
+        clasificaciones = oCla.clasificar(datos, modelo, sitio, rutaModelo, seleccionAtributos, vectorAtributos, limInf, limSup, umbral);
 
-        positivos = (List<Integer>) predicciones.get(0);
+        positivos = (List<Integer>) clasificaciones.get(0);
 
         System.out.println("Vector de positivos: " + positivos.toString());
 
         System.out.println("FIN DEL PROCESO IDENTIFICACION DE COORDENADAS PARA SITIOS " + tipoTrans);
 
-        return predicciones;
+        return clasificaciones;
 
     }
 }

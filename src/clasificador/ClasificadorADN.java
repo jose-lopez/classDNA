@@ -61,7 +61,7 @@ public class ClasificadorADN {
     public ClasificadorADN() {
     }
 
-    public void CargarModelo(String ruta, int modelo) throws Exception {
+    public void cargarModelo(String ruta, int modelo) throws Exception {
 
         String path = System.getProperty("user.dir");
         ruta = path + "/" + ruta;
@@ -102,7 +102,7 @@ public class ClasificadorADN {
         predicteddata = new Instances(datapredict);
     }
 
-    public void InicializarVectorAtributos(int sitio, int cantAtributos) {
+    public void inicializarVectorAtributos(int sitio, int cantAtributos) {
 
         atts = new FastVector(cantAtributos + 1);
 //        attributeNames = new String[]{"B1","B2","B3","B4","B5","B6","B7","B8","B9","B10","CLASS"};
@@ -175,7 +175,7 @@ public class ClasificadorADN {
         Carpeta.createNewFile();
     }
 
-    public void Clasificar(int modelo, double umbral) throws Exception {
+    public void clasificar(int modelo, double umbral) throws Exception {
         
         double clsLabel = 0;
         detectados = 0;
@@ -200,8 +200,8 @@ public class ClasificadorADN {
                     
                 case (1):
                     
-                    clsLabel = mlp.classifyInstance(inst);
-
+                    clsLabel = mlp.classifyInstance(inst); // ? por que si se modela con clases nominales la clase aqui se devuelve como numerica ??
+                                                           // ?? Puede cambiarse eso?.. Como??
                     if (clsLabel == 0.0) {
                         distGen.add(mlp.distributionForInstance(inst)[0]);
                     } else {
@@ -252,17 +252,14 @@ public class ClasificadorADN {
             System.out.println("Instancia: " + i + " respuesta: " + clsLabel + " ponderacion: " + distGen.get(distGen.size() - 1));
             datapredict.instance(i).setClassValue(clsLabel);
 
-            /*String result = predicteddata.instance(i).toString();
-            System.out.println("Instancia " + i + " contenido: " + result);*/
         }
 
-        int k = 0;
         for (int j = 0; j < datapredict.numInstances(); j++) {
             if (datapredict.instance(j).classValue() == 1) {
                 if (distGen.get(j) > umbral) {
                     positivos.add(posiciones[j]);
                     distPos.add(distGen.get(j));
-                    k++;
+                    
                 }
             }
         }
@@ -294,19 +291,18 @@ public class ClasificadorADN {
         }
         LeerArchivo arcp = new LeerArchivo(datos.getPath());
 
-        int lineas = arcp.CantidadOcurrencias(genstr);
+        int sitiosTrans = arcp.CantidadOcurrencias(genstr);
 
         if (!seleccionAtributos) {
-            InicializarVectorAtributos(sitio, (limI + limS));
+            inicializarVectorAtributos(sitio, (limI + limS));
         } else {
             crearAtributos(sitio, vectorAtributos.length + 1, vectorAtributos);
         }
 
-        datapredict = new Instances(TextoGen, atts, lineas);
-        //datapredict.attribute(atts.size() - 1).addStringValue("P");
-        posiciones = new Integer[lineas];
-        //distGen = new Double[lineas];
-
+        datapredict = new Instances(TextoGen, atts, sitiosTrans); //?? sitiosTrans implica  crear mas instancias de las que realmente son. Debe corregirse.
+        
+        posiciones = new Integer[sitiosTrans];
+        
         int ConPos = 0;
         int contador = 0;
         int longLinea, limInf, limSup;
@@ -317,7 +313,7 @@ public class ClasificadorADN {
         linea = linea.replace(",", "");
         longLinea = linea.length();
         
-        int ocurrencias = sitio <= 1 ? lineas : longLinea, i = -1;
+        int ocurrencias = sitio <= 1 ? sitiosTrans : longLinea, i = -1;
         System.out.println("Ocurrencias " + ocurrencias);
 
         for (int x = 0; x < ocurrencias; x++) {
@@ -356,7 +352,8 @@ public class ClasificadorADN {
                         }
                     }
 
-                    datapredict.add(new Instance(1.0, attValues));
+                    datapredict.add(new Instance(1.0, attValues));// ?? Por que se crea la instancia de este modo.
+                                                                  // ?? Es el unico modo de hacerlo en nuestro caso?
                     posiciones[ConPos] = i;
                     ConPos++;
 
@@ -367,10 +364,10 @@ public class ClasificadorADN {
         }
 
         datapredict.setClassIndex(datapredict.numAttributes() - 1);
-        CargarModelo(RutaModelo, modelo);
-        //predicteddata = new Instances(datapredict);
-        Clasificar(modelo, umbral);
-        GenerarResultados(true);
+        cargarModelo(RutaModelo, modelo);
+        
+        clasificar(modelo, umbral);
+        reportarResultados(true);
 
         if (sitio == 1) {
 
@@ -386,12 +383,11 @@ public class ClasificadorADN {
 
         results.add((Object) (positivos));
         results.add((Object) (distPos));
-
-        //predicciones.add(positivos);
+        
         return results;
     }
 
-    public void GenerarResultados(boolean pos) throws Exception {
+    public void reportarResultados(boolean pos) throws Exception {
         EscribirArchivo arc;
         String timeStamp = new SimpleDateFormat("yyyy-MM-dd_HH-mm-ss").format(Calendar.getInstance().getTime());
         String RutaResultado = "";
