@@ -202,7 +202,7 @@ public class Clasificador {
                 tipoTrans = "IE_AG";
 
                 if (seleccionAtributos) {
-                    vectorAtributos = new int[]{1, 3, 4, 5, 6, 7}; // Ancho 5, 5
+                    vectorAtributos = new int[]{1,3,4,5,6,7}; // Ancho 5, 5
                 } 
 
                 break;
