@@ -188,94 +188,181 @@ public class Clasificador {
         switch (sitio) {
 
             case 0:
-                
+
                 tipoTrans = "EI_GT";
 
                 if (seleccionAtributos) {
-                    vectorAtributos = new int[]{3,5,6,7,8}; // Ancho 5, 5
-                } 
+                    vectorAtributos = new int[]{3, 5, 6, 7, 8}; // Ancho 5, 5
+                }
 
                 break;
 
             case 1:
-                
+
                 tipoTrans = "IE_AG";
 
                 if (seleccionAtributos) {
-                    vectorAtributos = new int[]{1,3,4,5,6,7}; // Ancho 5, 5
-                } 
+                    vectorAtributos = new int[]{1, 3, 4, 5, 6, 7}; // Ancho 5, 5
+                }
 
                 break;
 
             case 2:
-                
+
                 tipoTrans = "EZ";
 
                 if (seleccionAtributos) {
-                    vectorAtributos = new int[]{31,33,34,36,38,39,41,45,50,51,52,53,63,64,72,73,80,87,91,99,139,143,171,181,200,214,222,229,262,273,295,310,342,356,362,368,371,386,392,406,410,430,529,538};
-                } 
+                    vectorAtributos = new int[]{31, 33, 34, 36, 38, 39, 41, 45, 50, 51, 52, 53, 63, 64, 72, 73, 80, 87, 91, 99, 139, 143, 171, 181, 200, 214, 222, 229, 262, 273, 295, 310, 342, 356, 362, 368, 371, 386, 392, 406, 410, 430, 529, 538};
+                }
 
                 break;
 
             case 3:
-                
+
                 tipoTrans = "ZE";
 
                 if (seleccionAtributos) {
-                    vectorAtributos = new int[]{19,60,86,119,141,145,173,209,252,286,299,302,328,396,443,472,481,483,484,494,495,499,501,502,503,512,518,522,535};
-                } 
+                    vectorAtributos = new int[]{19, 60, 86, 119, 141, 145, 173, 209, 252, 286, 299, 302, 328, 396, 443, 472, 481, 483, 484, 494, 495, 499, 501, 502, 503, 512, 518, 522, 535};
+                }
 
                 break;
+                
+            case 4:
+
+                tipoTrans = "GC";
+
+                if (seleccionAtributos) {
+                    vectorAtributos = new int[]{19, 60, 86, 119, 141, 145, 173, 209, 252, 286, 299, 302, 328, 396, 443, 472, 481, 483, 484, 494, 495, 499, 501, 502, 503, 512, 518, 522, 535};
+                }
+
+                break;      
+                
+                
+            case 5:
+
+                tipoTrans = "CAAT";
+
+                if (seleccionAtributos) {
+                    vectorAtributos = new int[]{19, 60, 86, 119, 141, 145, 173, 209, 252, 286, 299, 302, 328, 396, 443, 472, 481, 483, 484, 494, 495, 499, 501, 502, 503, 512, 518, 522, 535};
+                }
+
+                break; 
+                
+            case 6:
+
+                tipoTrans = "BRE";
+
+                if (seleccionAtributos) {
+                    vectorAtributos = new int[]{19, 60, 86, 119, 141, 145, 173, 209, 252, 286, 299, 302, 328, 396, 443, 472, 481, 483, 484, 494, 495, 499, 501, 502, 503, 512, 518, 522, 535};
+                }
+
+                break;
+                
+            case 7:
+
+                tipoTrans = "TATA";
+
+                if (seleccionAtributos) {
+                    vectorAtributos = new int[]{19, 60, 86, 119, 141, 145, 173, 209, 252, 286, 299, 302, 328, 396, 443, 472, 481, 483, 484, 494, 495, 499, 501, 502, 503, 512, 518, 522, 535};
+                }
+
+                break;
+                
+            case 8:
+
+                tipoTrans = "Inr";
+
+                if (seleccionAtributos) {
+                    vectorAtributos = new int[]{19, 60, 86, 119, 141, 145, 173, 209, 252, 286, 299, 302, 328, 396, 443, 472, 481, 483, 484, 494, 495, 499, 501, 502, 503, 512, 518, 522, 535};
+                }
+
+                break; 
+                
+            case 9:
+
+                tipoTrans = "DPE";
+
+                if (seleccionAtributos) {
+                    vectorAtributos = new int[]{19, 60, 86, 119, 141, 145, 173, 209, 252, 286, 299, 302, 328, 396, 443, 472, 481, 483, 484, 494, 495, 499, 501, 502, 503, 512, 518, 522, 535};
+                }
+
+                break;                   
 
         }
 
         switch (modelo) {
 
             case 0:
-                
+
                 if (seleccionAtributos) {
                     rutaModelo = tipoTrans + "/4Modelos/ConjunctiveRuleAS.model";
-                }else{
+                } else {
                     rutaModelo = tipoTrans + "/4Modelos/ConjunctiveRule.model";
                 }
                 break;
 
             case 1:
-                
+
                 if (seleccionAtributos) {
                     rutaModelo = tipoTrans + "/4Modelos/MultiLayerPerceptronAS.model";
-                }else{
+                } else {
                     rutaModelo = tipoTrans + "/4Modelos/MultiLayerPerceptron.model";
                 }
                 break;
-                
 
             case 2:
-                
+
                 if (seleccionAtributos) {
                     rutaModelo = tipoTrans + "/4Modelos/TreeJ48AS.model";
-                }else{
+                } else {
                     rutaModelo = tipoTrans + "/4Modelos/TreeJ48.model";
-                }                
+                }
                 break;
 
             case 3:
-                
+
                 if (seleccionAtributos) {
                     rutaModelo = tipoTrans + "/4Modelos/BayesNetAS.model";
-                }else{
+                } else {
                     rutaModelo = tipoTrans + "/4Modelos/BayesNet.model";
-                }                
-                break;               
+                }
+                break;
 
             case 4:
-                
+
                 if (seleccionAtributos) {
                     rutaModelo = tipoTrans + "/4Modelos/SMOAS.model";
-                }else{
+                } else {
                     rutaModelo = tipoTrans + "/4Modelos/SMO.model";
                 }
                 break;
+
+            case 5:
+
+                if (seleccionAtributos) {
+                    rutaModelo = tipoTrans + "/4Modelos/ClassificationViaRegressionAS.model";
+                } else {
+                    rutaModelo = tipoTrans + "/4Modelos/ClassificationViaRegression.model";
+                }
+                break;
+                
+            case 6:
+
+                if (seleccionAtributos) {
+                    rutaModelo = tipoTrans + "/4Modelos/RandomTreeAS.model";
+                } else {
+                    rutaModelo = tipoTrans + "/4Modelos/RandomTree.model";
+                }
+                break;
+
+            case 7:
+
+                if (seleccionAtributos) {
+                    rutaModelo = tipoTrans + "/4Modelos/RandomForestAS.model";
+                } else {
+                    rutaModelo = tipoTrans + "/4Modelos/RandomForest.model";
+                }
+                break;                
 
         }
 
